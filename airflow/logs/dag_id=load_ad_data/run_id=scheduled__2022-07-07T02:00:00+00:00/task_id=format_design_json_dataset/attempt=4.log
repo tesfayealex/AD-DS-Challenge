@@ -1,0 +1,34 @@
+[2022-08-07 14:38:57,807] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: load_ad_data.format_design_json_dataset scheduled__2022-07-07T02:00:00+00:00 [queued]>
+[2022-08-07 14:38:57,862] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: load_ad_data.format_design_json_dataset scheduled__2022-07-07T02:00:00+00:00 [queued]>
+[2022-08-07 14:38:57,862] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-07 14:38:57,862] {taskinstance.py:1377} INFO - Starting attempt 4 of 7
+[2022-08-07 14:38:57,862] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-07 14:38:57,873] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): format_design_json_dataset> on 2022-07-07 02:00:00+00:00
+[2022-08-07 14:38:57,875] {standard_task_runner.py:52} INFO - Started process 80793 to run task
+[2022-08-07 14:38:57,877] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'load_ad_data', 'format_design_json_dataset', 'scheduled__2022-07-07T02:00:00+00:00', '--job-id', '126', '--raw', '--subdir', 'DAGS_FOLDER/create_dag_raw_data_loader.py', '--cfg-path', '/tmp/tmpmtj1l6n1', '--error-file', '/tmp/tmp8mdbd4la']
+[2022-08-07 14:38:57,878] {standard_task_runner.py:80} INFO - Job 126: Subtask format_design_json_dataset
+[2022-08-07 14:38:57,889] {logging_mixin.py:115} WARNING - /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/configuration.py:532 DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+[2022-08-07 14:38:57,890] {logging_mixin.py:115} WARNING - /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/configuration.py:532 DeprecationWarning: The sql_engine_encoding option in [core] has been moved to the sql_engine_encoding option in [database] - the old setting has been used, but please update your config.
+[2022-08-07 14:38:57,908] {task_command.py:371} INFO - Running <TaskInstance: load_ad_data.format_design_json_dataset scheduled__2022-07-07T02:00:00+00:00 [running]> on host hp-HP-Pavilion-Laptop-15-eg0xxx
+[2022-08-07 14:38:57,936] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=tesfaye
+AIRFLOW_CTX_DAG_ID=load_ad_data
+AIRFLOW_CTX_TASK_ID=format_design_json_dataset
+AIRFLOW_CTX_EXECUTION_DATE=2022-07-07T02:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=4
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-07-07T02:00:00+00:00
+[2022-08-07 14:38:57,936] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/hp/airflow/dags/create_dag_raw_data_loader.py", line 18, in format_design_json_data
+    with open(location) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '../data/global_design_data.json'
+[2022-08-07 14:38:57,940] {taskinstance.py:1415} INFO - Marking task as UP_FOR_RETRY. dag_id=load_ad_data, task_id=format_design_json_dataset, execution_date=20220707T020000, start_date=20220807T113857, end_date=20220807T113857
+[2022-08-07 14:38:57,948] {standard_task_runner.py:92} ERROR - Failed to execute job 126 for task format_design_json_dataset ([Errno 2] No such file or directory: '../data/global_design_data.json'; 80793)
+[2022-08-07 14:38:57,969] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-08-07 14:38:57,983] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
