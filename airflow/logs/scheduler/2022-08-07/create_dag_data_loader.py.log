@@ -1,0 +1,33 @@
+[2022-08-07 14:25:20,272] {processor.py:153} INFO - Started process (PID=69479) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:25:20,272] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-08-07 14:25:20,272] {logging_mixin.py:115} INFO - [2022-08-07 14:25:20,272] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:25:20,287] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:25:20,327] {logging_mixin.py:115} INFO - [2022-08-07 14:25:20,327] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:25:20,338] {logging_mixin.py:115} INFO - [2022-08-07 14:25:20,338] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-08-07 14:25:20,352] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.082 seconds
+[2022-08-07 14:25:58,835] {processor.py:153} INFO - Started process (PID=69848) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:25:58,836] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-08-07 14:25:58,837] {logging_mixin.py:115} INFO - [2022-08-07 14:25:58,837] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:25:58,846] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:25:58,854] {logging_mixin.py:115} INFO - [2022-08-07 14:25:58,854] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:25:58,866] {logging_mixin.py:115} INFO - [2022-08-07 14:25:58,866] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-08-07 14:25:58,878] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.044 seconds
+[2022-08-07 14:26:35,834] {processor.py:153} INFO - Started process (PID=70204) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:26:35,835] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-08-07 14:26:35,835] {logging_mixin.py:115} INFO - [2022-08-07 14:26:35,835] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:26:35,849] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:26:35,861] {logging_mixin.py:115} INFO - [2022-08-07 14:26:35,861] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:26:35,872] {logging_mixin.py:115} INFO - [2022-08-07 14:26:35,872] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-08-07 14:26:35,884] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.051 seconds
+[2022-08-07 14:27:12,931] {processor.py:153} INFO - Started process (PID=70641) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:27:12,931] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-08-07 14:27:12,931] {logging_mixin.py:115} INFO - [2022-08-07 14:27:12,931] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:27:12,942] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:27:12,953] {logging_mixin.py:115} INFO - [2022-08-07 14:27:12,952] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:27:12,967] {logging_mixin.py:115} INFO - [2022-08-07 14:27:12,967] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-08-07 14:27:12,978] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.050 seconds
+[2022-08-07 14:27:50,412] {processor.py:153} INFO - Started process (PID=71070) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:27:50,413] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-08-07 14:27:50,413] {logging_mixin.py:115} INFO - [2022-08-07 14:27:50,413] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:27:50,413] {processor.py:653} WARNING - No viable dags retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-08-07 14:27:50,417] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.007 seconds

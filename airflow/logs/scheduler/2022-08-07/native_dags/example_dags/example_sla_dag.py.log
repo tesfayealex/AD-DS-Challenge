@@ -1,0 +1,910 @@
+[2022-08-07 14:24:57,237] {processor.py:153} INFO - Started process (PID=69109) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:24:57,237] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:24:57,238] {logging_mixin.py:115} INFO - [2022-08-07 14:24:57,238] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:24:57,256] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:24:57,268] {logging_mixin.py:115} INFO - [2022-08-07 14:24:57,268] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:24:57,288] {logging_mixin.py:115} INFO - [2022-08-07 14:24:57,288] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:22:00+00:00, run_after=2022-08-07T11:24:00+00:00
+[2022-08-07 14:24:57,303] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2022-08-07 14:25:35,409] {processor.py:153} INFO - Started process (PID=69675) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:25:35,410] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:25:35,410] {logging_mixin.py:115} INFO - [2022-08-07 14:25:35,410] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:25:35,420] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:25:35,429] {logging_mixin.py:115} INFO - [2022-08-07 14:25:35,429] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:25:35,444] {logging_mixin.py:115} INFO - [2022-08-07 14:25:35,444] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:22:00+00:00, run_after=2022-08-07T11:24:00+00:00
+[2022-08-07 14:25:35,456] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-08-07 14:26:14,252] {processor.py:153} INFO - Started process (PID=70066) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:26:14,253] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:26:14,253] {logging_mixin.py:115} INFO - [2022-08-07 14:26:14,253] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:26:14,266] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:26:14,277] {logging_mixin.py:115} INFO - [2022-08-07 14:26:14,277] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:26:14,292] {logging_mixin.py:115} INFO - [2022-08-07 14:26:14,292] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:24:00+00:00, run_after=2022-08-07T11:26:00+00:00
+[2022-08-07 14:26:14,303] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-08-07 14:26:51,247] {processor.py:153} INFO - Started process (PID=70433) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:26:51,248] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:26:51,248] {logging_mixin.py:115} INFO - [2022-08-07 14:26:51,248] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:26:51,268] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:26:51,280] {logging_mixin.py:115} INFO - [2022-08-07 14:26:51,280] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:26:51,300] {logging_mixin.py:115} INFO - [2022-08-07 14:26:51,299] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:24:00+00:00, run_after=2022-08-07T11:26:00+00:00
+[2022-08-07 14:26:51,313] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.069 seconds
+[2022-08-07 14:27:27,420] {processor.py:153} INFO - Started process (PID=70708) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:27:27,421] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:27:27,421] {logging_mixin.py:115} INFO - [2022-08-07 14:27:27,421] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:27:27,435] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:27:27,448] {logging_mixin.py:115} INFO - [2022-08-07 14:27:27,447] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:27:27,468] {logging_mixin.py:115} INFO - [2022-08-07 14:27:27,468] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:24:00+00:00, run_after=2022-08-07T11:26:00+00:00
+[2022-08-07 14:27:27,483] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.065 seconds
+[2022-08-07 14:28:18,705] {processor.py:153} INFO - Started process (PID=71513) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:28:18,706] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:28:18,706] {logging_mixin.py:115} INFO - [2022-08-07 14:28:18,706] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:28:18,717] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:28:18,727] {logging_mixin.py:115} INFO - [2022-08-07 14:28:18,727] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:28:18,742] {logging_mixin.py:115} INFO - [2022-08-07 14:28:18,742] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:26:00+00:00, run_after=2022-08-07T11:28:00+00:00
+[2022-08-07 14:28:18,755] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.051 seconds
+[2022-08-07 14:28:54,243] {processor.py:153} INFO - Started process (PID=71901) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:28:54,244] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:28:54,245] {logging_mixin.py:115} INFO - [2022-08-07 14:28:54,244] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:28:54,257] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:28:54,267] {logging_mixin.py:115} INFO - [2022-08-07 14:28:54,267] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:28:54,281] {logging_mixin.py:115} INFO - [2022-08-07 14:28:54,281] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:26:00+00:00, run_after=2022-08-07T11:28:00+00:00
+[2022-08-07 14:28:54,292] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-08-07 14:29:31,020] {processor.py:153} INFO - Started process (PID=72337) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:29:31,020] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:29:31,021] {logging_mixin.py:115} INFO - [2022-08-07 14:29:31,021] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:29:31,033] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:29:31,044] {logging_mixin.py:115} INFO - [2022-08-07 14:29:31,044] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:29:31,072] {logging_mixin.py:115} INFO - [2022-08-07 14:29:31,072] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:26:00+00:00, run_after=2022-08-07T11:28:00+00:00
+[2022-08-07 14:29:31,085] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2022-08-07 14:30:08,259] {processor.py:153} INFO - Started process (PID=72714) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:30:08,260] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:30:08,260] {logging_mixin.py:115} INFO - [2022-08-07 14:30:08,260] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:30:08,273] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:30:08,282] {logging_mixin.py:115} INFO - [2022-08-07 14:30:08,282] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:30:08,295] {logging_mixin.py:115} INFO - [2022-08-07 14:30:08,295] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:28:00+00:00, run_after=2022-08-07T11:30:00+00:00
+[2022-08-07 14:30:08,306] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-08-07 14:30:40,518] {processor.py:153} INFO - Started process (PID=72940) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:30:40,519] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:30:40,520] {logging_mixin.py:115} INFO - [2022-08-07 14:30:40,520] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:30:40,532] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:30:40,541] {logging_mixin.py:115} INFO - [2022-08-07 14:30:40,541] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:30:40,553] {logging_mixin.py:115} INFO - [2022-08-07 14:30:40,553] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:28:00+00:00, run_after=2022-08-07T11:30:00+00:00
+[2022-08-07 14:30:40,565] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.048 seconds
+[2022-08-07 14:31:16,053] {processor.py:153} INFO - Started process (PID=73218) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:31:16,054] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:31:16,054] {logging_mixin.py:115} INFO - [2022-08-07 14:31:16,054] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:31:16,070] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:31:16,083] {logging_mixin.py:115} INFO - [2022-08-07 14:31:16,083] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:31:16,100] {logging_mixin.py:115} INFO - [2022-08-07 14:31:16,100] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:28:00+00:00, run_after=2022-08-07T11:30:00+00:00
+[2022-08-07 14:31:16,113] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2022-08-07 14:31:54,710] {processor.py:153} INFO - Started process (PID=73838) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:31:54,711] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:31:54,712] {logging_mixin.py:115} INFO - [2022-08-07 14:31:54,712] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:31:54,726] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:31:54,735] {logging_mixin.py:115} INFO - [2022-08-07 14:31:54,735] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:31:54,750] {logging_mixin.py:115} INFO - [2022-08-07 14:31:54,750] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:28:00+00:00, run_after=2022-08-07T11:30:00+00:00
+[2022-08-07 14:31:54,760] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-08-07 14:32:33,105] {processor.py:153} INFO - Started process (PID=74289) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:32:33,105] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:32:33,106] {logging_mixin.py:115} INFO - [2022-08-07 14:32:33,106] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:32:33,116] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:32:33,128] {logging_mixin.py:115} INFO - [2022-08-07 14:32:33,128] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:32:33,143] {logging_mixin.py:115} INFO - [2022-08-07 14:32:33,142] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:30:00+00:00, run_after=2022-08-07T11:32:00+00:00
+[2022-08-07 14:32:33,153] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.049 seconds
+[2022-08-07 14:33:13,277] {processor.py:153} INFO - Started process (PID=74953) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:33:13,278] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:33:13,278] {logging_mixin.py:115} INFO - [2022-08-07 14:33:13,278] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:33:13,290] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:33:13,301] {logging_mixin.py:115} INFO - [2022-08-07 14:33:13,300] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:33:13,314] {logging_mixin.py:115} INFO - [2022-08-07 14:33:13,314] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:30:00+00:00, run_after=2022-08-07T11:32:00+00:00
+[2022-08-07 14:33:13,324] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.048 seconds
+[2022-08-07 14:34:16,249] {processor.py:153} INFO - Started process (PID=76038) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:34:16,250] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:34:16,251] {logging_mixin.py:115} INFO - [2022-08-07 14:34:16,251] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:34:16,264] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:34:16,275] {logging_mixin.py:115} INFO - [2022-08-07 14:34:16,274] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:34:16,291] {logging_mixin.py:115} INFO - [2022-08-07 14:34:16,291] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:32:00+00:00, run_after=2022-08-07T11:34:00+00:00
+[2022-08-07 14:34:16,304] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.056 seconds
+[2022-08-07 14:34:51,820] {processor.py:153} INFO - Started process (PID=76278) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:34:51,821] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:34:51,822] {logging_mixin.py:115} INFO - [2022-08-07 14:34:51,821] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:34:51,832] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:34:51,841] {logging_mixin.py:115} INFO - [2022-08-07 14:34:51,840] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:34:51,859] {logging_mixin.py:115} INFO - [2022-08-07 14:34:51,859] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:32:00+00:00, run_after=2022-08-07T11:34:00+00:00
+[2022-08-07 14:34:51,869] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-08-07 14:35:32,877] {processor.py:153} INFO - Started process (PID=77025) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:35:32,877] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:35:32,877] {logging_mixin.py:115} INFO - [2022-08-07 14:35:32,877] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:35:32,890] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:35:32,899] {logging_mixin.py:115} INFO - [2022-08-07 14:35:32,899] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:35:32,916] {logging_mixin.py:115} INFO - [2022-08-07 14:35:32,916] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:32:00+00:00, run_after=2022-08-07T11:34:00+00:00
+[2022-08-07 14:35:32,929] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-08-07 14:36:11,368] {processor.py:153} INFO - Started process (PID=77936) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:36:11,369] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:36:11,369] {logging_mixin.py:115} INFO - [2022-08-07 14:36:11,369] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:36:11,385] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:36:11,414] {logging_mixin.py:115} INFO - [2022-08-07 14:36:11,414] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:36:11,480] {logging_mixin.py:115} INFO - [2022-08-07 14:36:11,480] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:34:00+00:00, run_after=2022-08-07T11:36:00+00:00
+[2022-08-07 14:36:11,491] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.125 seconds
+[2022-08-07 14:36:49,251] {processor.py:153} INFO - Started process (PID=78612) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:36:49,251] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:36:49,252] {logging_mixin.py:115} INFO - [2022-08-07 14:36:49,252] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:36:49,263] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:36:49,274] {logging_mixin.py:115} INFO - [2022-08-07 14:36:49,274] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:36:49,290] {logging_mixin.py:115} INFO - [2022-08-07 14:36:49,290] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:34:00+00:00, run_after=2022-08-07T11:36:00+00:00
+[2022-08-07 14:36:49,300] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-08-07 14:37:30,457] {processor.py:153} INFO - Started process (PID=79636) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:37:30,459] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:37:30,459] {logging_mixin.py:115} INFO - [2022-08-07 14:37:30,459] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:37:30,473] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:37:30,483] {logging_mixin.py:115} INFO - [2022-08-07 14:37:30,483] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:37:30,502] {logging_mixin.py:115} INFO - [2022-08-07 14:37:30,502] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:34:00+00:00, run_after=2022-08-07T11:36:00+00:00
+[2022-08-07 14:37:30,514] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2022-08-07 14:38:07,535] {processor.py:153} INFO - Started process (PID=80176) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:38:07,544] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:38:07,544] {logging_mixin.py:115} INFO - [2022-08-07 14:38:07,544] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:38:07,566] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:38:07,577] {logging_mixin.py:115} INFO - [2022-08-07 14:38:07,577] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:38:07,593] {logging_mixin.py:115} INFO - [2022-08-07 14:38:07,593] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:36:00+00:00, run_after=2022-08-07T11:38:00+00:00
+[2022-08-07 14:38:07,604] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.072 seconds
+[2022-08-07 14:38:44,842] {processor.py:153} INFO - Started process (PID=80535) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:38:44,843] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:38:44,843] {logging_mixin.py:115} INFO - [2022-08-07 14:38:44,843] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:38:44,857] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:38:44,866] {logging_mixin.py:115} INFO - [2022-08-07 14:38:44,866] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:38:44,881] {logging_mixin.py:115} INFO - [2022-08-07 14:38:44,881] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:36:00+00:00, run_after=2022-08-07T11:38:00+00:00
+[2022-08-07 14:38:44,890] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-08-07 14:39:26,980] {processor.py:153} INFO - Started process (PID=81151) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:39:26,981] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:39:26,981] {logging_mixin.py:115} INFO - [2022-08-07 14:39:26,981] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:39:26,997] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:39:27,009] {logging_mixin.py:115} INFO - [2022-08-07 14:39:27,009] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:39:27,028] {logging_mixin.py:115} INFO - [2022-08-07 14:39:27,028] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:36:00+00:00, run_after=2022-08-07T11:38:00+00:00
+[2022-08-07 14:39:27,041] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.064 seconds
+[2022-08-07 14:40:04,274] {processor.py:153} INFO - Started process (PID=81421) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:40:04,275] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:40:04,276] {logging_mixin.py:115} INFO - [2022-08-07 14:40:04,276] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:40:04,286] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:40:04,297] {logging_mixin.py:115} INFO - [2022-08-07 14:40:04,297] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:40:04,311] {logging_mixin.py:115} INFO - [2022-08-07 14:40:04,311] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:38:00+00:00, run_after=2022-08-07T11:40:00+00:00
+[2022-08-07 14:40:04,321] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.048 seconds
+[2022-08-07 14:40:57,012] {processor.py:153} INFO - Started process (PID=82036) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:40:57,013] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:40:57,014] {logging_mixin.py:115} INFO - [2022-08-07 14:40:57,014] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:40:57,030] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:40:57,050] {logging_mixin.py:115} INFO - [2022-08-07 14:40:57,050] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:40:57,082] {logging_mixin.py:115} INFO - [2022-08-07 14:40:57,082] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:38:00+00:00, run_after=2022-08-07T11:40:00+00:00
+[2022-08-07 14:40:57,128] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.118 seconds
+[2022-08-07 14:41:38,808] {processor.py:153} INFO - Started process (PID=82819) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:41:38,809] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:41:38,809] {logging_mixin.py:115} INFO - [2022-08-07 14:41:38,809] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:41:38,821] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:41:38,830] {logging_mixin.py:115} INFO - [2022-08-07 14:41:38,830] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:41:38,853] {logging_mixin.py:115} INFO - [2022-08-07 14:41:38,853] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:38:00+00:00, run_after=2022-08-07T11:40:00+00:00
+[2022-08-07 14:41:38,874] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds
+[2022-08-07 14:42:16,758] {processor.py:153} INFO - Started process (PID=83398) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:42:16,758] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:42:16,759] {logging_mixin.py:115} INFO - [2022-08-07 14:42:16,758] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:42:16,772] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:42:16,783] {logging_mixin.py:115} INFO - [2022-08-07 14:42:16,783] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:42:16,800] {logging_mixin.py:115} INFO - [2022-08-07 14:42:16,800] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:40:00+00:00, run_after=2022-08-07T11:42:00+00:00
+[2022-08-07 14:42:16,810] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-08-07 14:42:55,982] {processor.py:153} INFO - Started process (PID=83692) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:42:55,982] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:42:55,983] {logging_mixin.py:115} INFO - [2022-08-07 14:42:55,983] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:42:55,995] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:42:56,004] {logging_mixin.py:115} INFO - [2022-08-07 14:42:56,004] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:42:56,019] {logging_mixin.py:115} INFO - [2022-08-07 14:42:56,019] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:40:00+00:00, run_after=2022-08-07T11:42:00+00:00
+[2022-08-07 14:42:56,028] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.048 seconds
+[2022-08-07 14:43:34,016] {processor.py:153} INFO - Started process (PID=84172) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:43:34,017] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:43:34,017] {logging_mixin.py:115} INFO - [2022-08-07 14:43:34,017] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:43:34,032] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:43:34,044] {logging_mixin.py:115} INFO - [2022-08-07 14:43:34,044] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:43:34,060] {logging_mixin.py:115} INFO - [2022-08-07 14:43:34,060] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:40:00+00:00, run_after=2022-08-07T11:42:00+00:00
+[2022-08-07 14:43:34,069] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2022-08-07 14:44:10,667] {processor.py:153} INFO - Started process (PID=84473) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:44:10,668] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:44:10,668] {logging_mixin.py:115} INFO - [2022-08-07 14:44:10,668] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:44:10,680] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:44:10,690] {logging_mixin.py:115} INFO - [2022-08-07 14:44:10,690] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:44:10,708] {logging_mixin.py:115} INFO - [2022-08-07 14:44:10,707] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:42:00+00:00, run_after=2022-08-07T11:44:00+00:00
+[2022-08-07 14:44:10,718] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-08-07 14:44:49,174] {processor.py:153} INFO - Started process (PID=85033) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:44:49,175] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:44:49,175] {logging_mixin.py:115} INFO - [2022-08-07 14:44:49,175] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:44:49,187] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:44:49,195] {logging_mixin.py:115} INFO - [2022-08-07 14:44:49,195] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:44:49,208] {logging_mixin.py:115} INFO - [2022-08-07 14:44:49,208] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:42:00+00:00, run_after=2022-08-07T11:44:00+00:00
+[2022-08-07 14:44:49,217] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.044 seconds
+[2022-08-07 14:45:29,334] {processor.py:153} INFO - Started process (PID=85486) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:45:29,335] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:45:29,335] {logging_mixin.py:115} INFO - [2022-08-07 14:45:29,335] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:45:29,344] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:45:29,352] {logging_mixin.py:115} INFO - [2022-08-07 14:45:29,352] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:45:29,365] {logging_mixin.py:115} INFO - [2022-08-07 14:45:29,365] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:42:00+00:00, run_after=2022-08-07T11:44:00+00:00
+[2022-08-07 14:45:29,375] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.042 seconds
+[2022-08-07 14:46:05,256] {processor.py:153} INFO - Started process (PID=85960) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:46:05,256] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:46:05,257] {logging_mixin.py:115} INFO - [2022-08-07 14:46:05,257] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:46:05,265] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:46:05,273] {logging_mixin.py:115} INFO - [2022-08-07 14:46:05,272] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:46:05,283] {logging_mixin.py:115} INFO - [2022-08-07 14:46:05,283] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:44:00+00:00, run_after=2022-08-07T11:46:00+00:00
+[2022-08-07 14:46:05,291] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.036 seconds
+[2022-08-07 14:46:41,352] {processor.py:153} INFO - Started process (PID=86320) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:46:41,353] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:46:41,353] {logging_mixin.py:115} INFO - [2022-08-07 14:46:41,353] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:46:41,362] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:46:41,370] {logging_mixin.py:115} INFO - [2022-08-07 14:46:41,369] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:46:41,381] {logging_mixin.py:115} INFO - [2022-08-07 14:46:41,381] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:44:00+00:00, run_after=2022-08-07T11:46:00+00:00
+[2022-08-07 14:46:41,389] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 14:47:24,824] {processor.py:153} INFO - Started process (PID=86853) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:47:24,825] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:47:24,825] {logging_mixin.py:115} INFO - [2022-08-07 14:47:24,825] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:47:24,834] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:47:24,843] {logging_mixin.py:115} INFO - [2022-08-07 14:47:24,842] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:47:24,854] {logging_mixin.py:115} INFO - [2022-08-07 14:47:24,854] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:44:00+00:00, run_after=2022-08-07T11:46:00+00:00
+[2022-08-07 14:47:24,863] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-08-07 14:48:00,887] {processor.py:153} INFO - Started process (PID=87496) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:48:00,887] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:48:00,888] {logging_mixin.py:115} INFO - [2022-08-07 14:48:00,887] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:48:00,896] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:48:00,904] {logging_mixin.py:115} INFO - [2022-08-07 14:48:00,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:48:00,916] {logging_mixin.py:115} INFO - [2022-08-07 14:48:00,915] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:46:00+00:00, run_after=2022-08-07T11:48:00+00:00
+[2022-08-07 14:48:00,924] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 14:48:39,155] {processor.py:153} INFO - Started process (PID=87943) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:48:39,156] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:48:39,156] {logging_mixin.py:115} INFO - [2022-08-07 14:48:39,156] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:48:39,164] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:48:39,171] {logging_mixin.py:115} INFO - [2022-08-07 14:48:39,170] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:48:39,183] {logging_mixin.py:115} INFO - [2022-08-07 14:48:39,183] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:46:00+00:00, run_after=2022-08-07T11:48:00+00:00
+[2022-08-07 14:48:39,191] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 14:49:14,999] {processor.py:153} INFO - Started process (PID=88296) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:49:15,000] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:49:15,000] {logging_mixin.py:115} INFO - [2022-08-07 14:49:15,000] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:49:15,017] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:49:15,027] {logging_mixin.py:115} INFO - [2022-08-07 14:49:15,027] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:49:15,038] {logging_mixin.py:115} INFO - [2022-08-07 14:49:15,038] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:46:00+00:00, run_after=2022-08-07T11:48:00+00:00
+[2022-08-07 14:49:15,046] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.049 seconds
+[2022-08-07 14:49:51,829] {processor.py:153} INFO - Started process (PID=88754) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:49:51,829] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:49:51,830] {logging_mixin.py:115} INFO - [2022-08-07 14:49:51,830] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:49:51,839] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:49:51,848] {logging_mixin.py:115} INFO - [2022-08-07 14:49:51,848] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:49:51,861] {logging_mixin.py:115} INFO - [2022-08-07 14:49:51,861] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:46:00+00:00, run_after=2022-08-07T11:48:00+00:00
+[2022-08-07 14:49:51,869] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-08-07 14:50:28,763] {processor.py:153} INFO - Started process (PID=89084) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:50:28,764] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:50:28,764] {logging_mixin.py:115} INFO - [2022-08-07 14:50:28,764] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:50:28,775] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:50:28,783] {logging_mixin.py:115} INFO - [2022-08-07 14:50:28,783] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:50:28,794] {logging_mixin.py:115} INFO - [2022-08-07 14:50:28,794] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:48:00+00:00, run_after=2022-08-07T11:50:00+00:00
+[2022-08-07 14:50:28,802] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2022-08-07 14:51:02,726] {processor.py:153} INFO - Started process (PID=89540) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:51:02,727] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:51:02,727] {logging_mixin.py:115} INFO - [2022-08-07 14:51:02,727] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:51:02,736] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:51:02,743] {logging_mixin.py:115} INFO - [2022-08-07 14:51:02,743] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:51:02,754] {logging_mixin.py:115} INFO - [2022-08-07 14:51:02,754] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:48:00+00:00, run_after=2022-08-07T11:50:00+00:00
+[2022-08-07 14:51:02,763] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 14:51:42,024] {processor.py:153} INFO - Started process (PID=90191) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:51:42,025] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:51:42,026] {logging_mixin.py:115} INFO - [2022-08-07 14:51:42,026] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:51:42,043] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:51:42,050] {logging_mixin.py:115} INFO - [2022-08-07 14:51:42,050] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:51:42,060] {logging_mixin.py:115} INFO - [2022-08-07 14:51:42,060] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:48:00+00:00, run_after=2022-08-07T11:50:00+00:00
+[2022-08-07 14:51:42,068] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.046 seconds
+[2022-08-07 14:53:02,703] {processor.py:153} INFO - Started process (PID=91022) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:53:02,703] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:53:02,704] {logging_mixin.py:115} INFO - [2022-08-07 14:53:02,703] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:53:02,714] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:53:02,721] {logging_mixin.py:115} INFO - [2022-08-07 14:53:02,721] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:53:02,735] {logging_mixin.py:115} INFO - [2022-08-07 14:53:02,735] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:50:00+00:00, run_after=2022-08-07T11:52:00+00:00
+[2022-08-07 14:53:02,744] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.043 seconds
+[2022-08-07 14:53:45,503] {processor.py:153} INFO - Started process (PID=91859) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:53:45,505] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:53:45,505] {logging_mixin.py:115} INFO - [2022-08-07 14:53:45,505] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:53:45,521] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:53:45,528] {logging_mixin.py:115} INFO - [2022-08-07 14:53:45,528] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:53:45,538] {logging_mixin.py:115} INFO - [2022-08-07 14:53:45,538] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:50:00+00:00, run_after=2022-08-07T11:52:00+00:00
+[2022-08-07 14:53:45,547] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.046 seconds
+[2022-08-07 14:54:23,834] {processor.py:153} INFO - Started process (PID=92220) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:54:23,834] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:54:23,835] {logging_mixin.py:115} INFO - [2022-08-07 14:54:23,835] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:54:23,843] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:54:23,850] {logging_mixin.py:115} INFO - [2022-08-07 14:54:23,850] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:54:23,860] {logging_mixin.py:115} INFO - [2022-08-07 14:54:23,860] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:52:00+00:00, run_after=2022-08-07T11:54:00+00:00
+[2022-08-07 14:54:23,868] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.035 seconds
+[2022-08-07 14:55:02,104] {processor.py:153} INFO - Started process (PID=92489) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:55:02,104] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:55:02,105] {logging_mixin.py:115} INFO - [2022-08-07 14:55:02,105] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:55:02,115] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:55:02,122] {logging_mixin.py:115} INFO - [2022-08-07 14:55:02,122] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:55:02,134] {logging_mixin.py:115} INFO - [2022-08-07 14:55:02,134] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:52:00+00:00, run_after=2022-08-07T11:54:00+00:00
+[2022-08-07 14:55:02,141] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.039 seconds
+[2022-08-07 14:55:40,396] {processor.py:153} INFO - Started process (PID=92855) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:55:40,397] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:55:40,397] {logging_mixin.py:115} INFO - [2022-08-07 14:55:40,397] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:55:40,405] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:55:40,412] {logging_mixin.py:115} INFO - [2022-08-07 14:55:40,412] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:55:40,422] {logging_mixin.py:115} INFO - [2022-08-07 14:55:40,422] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:52:00+00:00, run_after=2022-08-07T11:54:00+00:00
+[2022-08-07 14:55:40,432] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 14:56:18,406] {processor.py:153} INFO - Started process (PID=93262) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:56:18,407] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:56:18,407] {logging_mixin.py:115} INFO - [2022-08-07 14:56:18,407] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:56:18,417] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:56:18,424] {logging_mixin.py:115} INFO - [2022-08-07 14:56:18,424] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:56:18,434] {logging_mixin.py:115} INFO - [2022-08-07 14:56:18,434] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:54:00+00:00, run_after=2022-08-07T11:56:00+00:00
+[2022-08-07 14:56:18,444] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2022-08-07 14:57:07,475] {processor.py:153} INFO - Started process (PID=93926) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:57:07,475] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:57:07,475] {logging_mixin.py:115} INFO - [2022-08-07 14:57:07,475] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:57:07,484] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:57:07,492] {logging_mixin.py:115} INFO - [2022-08-07 14:57:07,492] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:57:07,504] {logging_mixin.py:115} INFO - [2022-08-07 14:57:07,504] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:54:00+00:00, run_after=2022-08-07T11:56:00+00:00
+[2022-08-07 14:57:07,512] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 14:57:56,104] {processor.py:153} INFO - Started process (PID=94939) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:57:56,105] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:57:56,105] {logging_mixin.py:115} INFO - [2022-08-07 14:57:56,105] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:57:56,114] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:57:56,122] {logging_mixin.py:115} INFO - [2022-08-07 14:57:56,121] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:57:56,133] {logging_mixin.py:115} INFO - [2022-08-07 14:57:56,133] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:54:00+00:00, run_after=2022-08-07T11:56:00+00:00
+[2022-08-07 14:57:56,141] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.039 seconds
+[2022-08-07 14:58:31,347] {processor.py:153} INFO - Started process (PID=95362) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:58:31,348] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:58:31,348] {logging_mixin.py:115} INFO - [2022-08-07 14:58:31,348] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:58:31,358] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:58:31,366] {logging_mixin.py:115} INFO - [2022-08-07 14:58:31,366] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:58:31,379] {logging_mixin.py:115} INFO - [2022-08-07 14:58:31,379] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:56:00+00:00, run_after=2022-08-07T11:58:00+00:00
+[2022-08-07 14:58:31,387] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-08-07 14:59:11,700] {processor.py:153} INFO - Started process (PID=95911) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:59:11,700] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:59:11,700] {logging_mixin.py:115} INFO - [2022-08-07 14:59:11,700] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:59:11,709] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:59:11,716] {logging_mixin.py:115} INFO - [2022-08-07 14:59:11,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:59:11,727] {logging_mixin.py:115} INFO - [2022-08-07 14:59:11,727] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:56:00+00:00, run_after=2022-08-07T11:58:00+00:00
+[2022-08-07 14:59:11,735] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 14:59:54,274] {processor.py:153} INFO - Started process (PID=96674) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:59:54,275] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 14:59:54,275] {logging_mixin.py:115} INFO - [2022-08-07 14:59:54,275] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:59:54,289] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 14:59:54,303] {logging_mixin.py:115} INFO - [2022-08-07 14:59:54,303] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:59:54,319] {logging_mixin.py:115} INFO - [2022-08-07 14:59:54,319] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:56:00+00:00, run_after=2022-08-07T11:58:00+00:00
+[2022-08-07 14:59:54,333] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2022-08-07 15:00:40,736] {processor.py:153} INFO - Started process (PID=97334) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:00:40,737] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:00:40,737] {logging_mixin.py:115} INFO - [2022-08-07 15:00:40,737] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:00:40,746] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:00:40,753] {logging_mixin.py:115} INFO - [2022-08-07 15:00:40,753] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:00:40,764] {logging_mixin.py:115} INFO - [2022-08-07 15:00:40,764] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:58:00+00:00, run_after=2022-08-07T12:00:00+00:00
+[2022-08-07 15:00:40,774] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 15:01:20,901] {processor.py:153} INFO - Started process (PID=97972) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:01:20,902] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:01:20,903] {logging_mixin.py:115} INFO - [2022-08-07 15:01:20,903] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:01:20,915] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:01:20,922] {logging_mixin.py:115} INFO - [2022-08-07 15:01:20,922] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:01:20,933] {logging_mixin.py:115} INFO - [2022-08-07 15:01:20,933] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:58:00+00:00, run_after=2022-08-07T12:00:00+00:00
+[2022-08-07 15:01:20,942] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.043 seconds
+[2022-08-07 15:01:58,179] {processor.py:153} INFO - Started process (PID=98463) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:01:58,179] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:01:58,180] {logging_mixin.py:115} INFO - [2022-08-07 15:01:58,179] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:01:58,188] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:01:58,196] {logging_mixin.py:115} INFO - [2022-08-07 15:01:58,196] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:01:58,207] {logging_mixin.py:115} INFO - [2022-08-07 15:01:58,207] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T11:58:00+00:00, run_after=2022-08-07T12:00:00+00:00
+[2022-08-07 15:01:58,216] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.039 seconds
+[2022-08-07 15:02:20,834] {processor.py:153} INFO - Started process (PID=98833) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:02:20,834] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:02:20,834] {logging_mixin.py:115} INFO - [2022-08-07 15:02:20,834] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:02:20,844] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:02:20,851] {logging_mixin.py:115} INFO - [2022-08-07 15:02:20,851] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:02:20,863] {logging_mixin.py:115} INFO - [2022-08-07 15:02:20,863] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:00:00+00:00, run_after=2022-08-07T12:02:00+00:00
+[2022-08-07 15:02:20,874] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.042 seconds
+[2022-08-07 15:02:58,062] {processor.py:153} INFO - Started process (PID=99472) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:02:58,063] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:02:58,063] {logging_mixin.py:115} INFO - [2022-08-07 15:02:58,063] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:02:58,072] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:02:58,080] {logging_mixin.py:115} INFO - [2022-08-07 15:02:58,080] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:02:58,091] {logging_mixin.py:115} INFO - [2022-08-07 15:02:58,091] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:00:00+00:00, run_after=2022-08-07T12:02:00+00:00
+[2022-08-07 15:02:58,101] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2022-08-07 15:03:36,888] {processor.py:153} INFO - Started process (PID=99867) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:03:36,889] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:03:36,889] {logging_mixin.py:115} INFO - [2022-08-07 15:03:36,889] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:03:36,898] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:03:36,906] {logging_mixin.py:115} INFO - [2022-08-07 15:03:36,906] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:03:36,917] {logging_mixin.py:115} INFO - [2022-08-07 15:03:36,917] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:00:00+00:00, run_after=2022-08-07T12:02:00+00:00
+[2022-08-07 15:03:36,927] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2022-08-07 15:04:14,901] {processor.py:153} INFO - Started process (PID=100298) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:04:14,902] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:04:14,902] {logging_mixin.py:115} INFO - [2022-08-07 15:04:14,902] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:04:14,911] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:04:14,918] {logging_mixin.py:115} INFO - [2022-08-07 15:04:14,918] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:04:14,930] {logging_mixin.py:115} INFO - [2022-08-07 15:04:14,930] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:02:00+00:00, run_after=2022-08-07T12:04:00+00:00
+[2022-08-07 15:04:14,939] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 15:04:46,705] {processor.py:153} INFO - Started process (PID=100738) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:04:46,706] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:04:46,706] {logging_mixin.py:115} INFO - [2022-08-07 15:04:46,706] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:04:46,714] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:04:46,722] {logging_mixin.py:115} INFO - [2022-08-07 15:04:46,722] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:04:46,733] {logging_mixin.py:115} INFO - [2022-08-07 15:04:46,733] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:02:00+00:00, run_after=2022-08-07T12:04:00+00:00
+[2022-08-07 15:04:46,742] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 15:05:23,581] {processor.py:153} INFO - Started process (PID=101256) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:05:23,582] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:05:23,582] {logging_mixin.py:115} INFO - [2022-08-07 15:05:23,582] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:05:23,591] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:05:23,600] {logging_mixin.py:115} INFO - [2022-08-07 15:05:23,600] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:05:23,612] {logging_mixin.py:115} INFO - [2022-08-07 15:05:23,612] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:02:00+00:00, run_after=2022-08-07T12:04:00+00:00
+[2022-08-07 15:05:23,622] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.043 seconds
+[2022-08-07 15:06:01,727] {processor.py:153} INFO - Started process (PID=101784) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:06:01,728] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:06:01,728] {logging_mixin.py:115} INFO - [2022-08-07 15:06:01,728] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:06:01,736] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:06:01,743] {logging_mixin.py:115} INFO - [2022-08-07 15:06:01,743] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:06:01,753] {logging_mixin.py:115} INFO - [2022-08-07 15:06:01,753] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:04:00+00:00, run_after=2022-08-07T12:06:00+00:00
+[2022-08-07 15:06:01,763] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 15:06:35,747] {processor.py:153} INFO - Started process (PID=102258) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:06:35,748] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:06:35,748] {logging_mixin.py:115} INFO - [2022-08-07 15:06:35,748] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:06:35,759] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:06:35,836] {logging_mixin.py:115} INFO - [2022-08-07 15:06:35,836] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:06:35,864] {logging_mixin.py:115} INFO - [2022-08-07 15:06:35,864] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:04:00+00:00, run_after=2022-08-07T12:06:00+00:00
+[2022-08-07 15:06:35,880] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.134 seconds
+[2022-08-07 15:07:12,914] {processor.py:153} INFO - Started process (PID=102853) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:07:12,914] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:07:12,915] {logging_mixin.py:115} INFO - [2022-08-07 15:07:12,915] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:07:12,923] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:07:12,931] {logging_mixin.py:115} INFO - [2022-08-07 15:07:12,931] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:07:12,942] {logging_mixin.py:115} INFO - [2022-08-07 15:07:12,942] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:04:00+00:00, run_after=2022-08-07T12:06:00+00:00
+[2022-08-07 15:07:12,950] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 15:10:21,262] {processor.py:153} INFO - Started process (PID=104398) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:10:21,262] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:10:21,262] {logging_mixin.py:115} INFO - [2022-08-07 15:10:21,262] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:10:21,272] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:10:21,280] {logging_mixin.py:115} INFO - [2022-08-07 15:10:21,280] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:10:21,292] {logging_mixin.py:115} INFO - [2022-08-07 15:10:21,292] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:08:00+00:00, run_after=2022-08-07T12:10:00+00:00
+[2022-08-07 15:10:21,301] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-08-07 15:11:29,313] {processor.py:153} INFO - Started process (PID=105003) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:11:29,313] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:11:29,314] {logging_mixin.py:115} INFO - [2022-08-07 15:11:29,313] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:11:29,322] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:11:29,329] {logging_mixin.py:115} INFO - [2022-08-07 15:11:29,329] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:11:29,341] {logging_mixin.py:115} INFO - [2022-08-07 15:11:29,341] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:08:00+00:00, run_after=2022-08-07T12:10:00+00:00
+[2022-08-07 15:11:29,349] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 15:12:05,445] {processor.py:153} INFO - Started process (PID=105546) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:12:05,446] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:12:05,446] {logging_mixin.py:115} INFO - [2022-08-07 15:12:05,446] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:12:05,455] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:12:05,462] {logging_mixin.py:115} INFO - [2022-08-07 15:12:05,462] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:12:05,473] {logging_mixin.py:115} INFO - [2022-08-07 15:12:05,473] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:10:00+00:00, run_after=2022-08-07T12:12:00+00:00
+[2022-08-07 15:12:05,483] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.039 seconds
+[2022-08-07 15:12:44,759] {processor.py:153} INFO - Started process (PID=106039) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:12:44,760] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:12:44,760] {logging_mixin.py:115} INFO - [2022-08-07 15:12:44,760] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:12:44,769] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:12:44,777] {logging_mixin.py:115} INFO - [2022-08-07 15:12:44,776] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:12:44,788] {logging_mixin.py:115} INFO - [2022-08-07 15:12:44,788] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:10:00+00:00, run_after=2022-08-07T12:12:00+00:00
+[2022-08-07 15:12:44,796] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 15:13:20,605] {processor.py:153} INFO - Started process (PID=106357) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:13:20,606] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:13:20,606] {logging_mixin.py:115} INFO - [2022-08-07 15:13:20,606] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:13:20,616] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:13:20,623] {logging_mixin.py:115} INFO - [2022-08-07 15:13:20,623] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:13:20,636] {logging_mixin.py:115} INFO - [2022-08-07 15:13:20,636] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:10:00+00:00, run_after=2022-08-07T12:12:00+00:00
+[2022-08-07 15:13:20,644] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2022-08-07 15:13:58,270] {processor.py:153} INFO - Started process (PID=106593) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:13:58,271] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:13:58,271] {logging_mixin.py:115} INFO - [2022-08-07 15:13:58,271] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:13:58,281] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:13:58,289] {logging_mixin.py:115} INFO - [2022-08-07 15:13:58,289] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:13:58,301] {logging_mixin.py:115} INFO - [2022-08-07 15:13:58,301] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:10:00+00:00, run_after=2022-08-07T12:12:00+00:00
+[2022-08-07 15:13:58,310] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-08-07 15:14:36,416] {processor.py:153} INFO - Started process (PID=106902) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:14:36,416] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:14:36,417] {logging_mixin.py:115} INFO - [2022-08-07 15:14:36,417] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:14:36,425] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:14:36,432] {logging_mixin.py:115} INFO - [2022-08-07 15:14:36,432] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:14:36,443] {logging_mixin.py:115} INFO - [2022-08-07 15:14:36,443] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:12:00+00:00, run_after=2022-08-07T12:14:00+00:00
+[2022-08-07 15:14:36,452] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 15:15:13,569] {processor.py:153} INFO - Started process (PID=107156) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:15:13,569] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:15:13,569] {logging_mixin.py:115} INFO - [2022-08-07 15:15:13,569] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:15:13,577] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:15:13,584] {logging_mixin.py:115} INFO - [2022-08-07 15:15:13,584] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:15:13,594] {logging_mixin.py:115} INFO - [2022-08-07 15:15:13,594] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:12:00+00:00, run_after=2022-08-07T12:14:00+00:00
+[2022-08-07 15:15:13,603] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.036 seconds
+[2022-08-07 15:15:51,145] {processor.py:153} INFO - Started process (PID=107436) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:15:51,146] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:15:51,146] {logging_mixin.py:115} INFO - [2022-08-07 15:15:51,146] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:15:51,156] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:15:51,164] {logging_mixin.py:115} INFO - [2022-08-07 15:15:51,164] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:15:51,176] {logging_mixin.py:115} INFO - [2022-08-07 15:15:51,176] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:12:00+00:00, run_after=2022-08-07T12:14:00+00:00
+[2022-08-07 15:15:51,185] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-08-07 15:16:26,445] {processor.py:153} INFO - Started process (PID=107772) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:16:26,445] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:16:26,446] {logging_mixin.py:115} INFO - [2022-08-07 15:16:26,446] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:16:26,455] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:16:26,462] {logging_mixin.py:115} INFO - [2022-08-07 15:16:26,462] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:16:26,474] {logging_mixin.py:115} INFO - [2022-08-07 15:16:26,474] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:14:00+00:00, run_after=2022-08-07T12:16:00+00:00
+[2022-08-07 15:16:26,482] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.039 seconds
+[2022-08-07 15:17:05,215] {processor.py:153} INFO - Started process (PID=108102) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:17:05,216] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:17:05,216] {logging_mixin.py:115} INFO - [2022-08-07 15:17:05,216] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:17:05,225] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:17:05,232] {logging_mixin.py:115} INFO - [2022-08-07 15:17:05,232] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:17:05,243] {logging_mixin.py:115} INFO - [2022-08-07 15:17:05,243] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:14:00+00:00, run_after=2022-08-07T12:16:00+00:00
+[2022-08-07 15:17:05,252] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 15:17:41,225] {processor.py:153} INFO - Started process (PID=108323) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:17:41,226] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:17:41,226] {logging_mixin.py:115} INFO - [2022-08-07 15:17:41,226] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:17:41,235] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:17:41,243] {logging_mixin.py:115} INFO - [2022-08-07 15:17:41,243] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:17:41,254] {logging_mixin.py:115} INFO - [2022-08-07 15:17:41,254] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:14:00+00:00, run_after=2022-08-07T12:16:00+00:00
+[2022-08-07 15:17:41,263] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2022-08-07 15:18:17,463] {processor.py:153} INFO - Started process (PID=108618) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:18:17,464] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:18:17,464] {logging_mixin.py:115} INFO - [2022-08-07 15:18:17,464] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:18:17,473] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:18:17,480] {logging_mixin.py:115} INFO - [2022-08-07 15:18:17,480] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:18:17,492] {logging_mixin.py:115} INFO - [2022-08-07 15:18:17,492] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:16:00+00:00, run_after=2022-08-07T12:18:00+00:00
+[2022-08-07 15:18:17,500] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.039 seconds
+[2022-08-07 15:18:55,997] {processor.py:153} INFO - Started process (PID=108911) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:18:55,998] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:18:55,999] {logging_mixin.py:115} INFO - [2022-08-07 15:18:55,999] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:18:56,014] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:18:56,021] {logging_mixin.py:115} INFO - [2022-08-07 15:18:56,021] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:18:56,031] {logging_mixin.py:115} INFO - [2022-08-07 15:18:56,031] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:16:00+00:00, run_after=2022-08-07T12:18:00+00:00
+[2022-08-07 15:18:56,039] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.046 seconds
+[2022-08-07 15:19:13,784] {processor.py:153} INFO - Started process (PID=109126) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:19:13,784] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:19:13,784] {logging_mixin.py:115} INFO - [2022-08-07 15:19:13,784] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:19:13,793] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:19:13,800] {logging_mixin.py:115} INFO - [2022-08-07 15:19:13,800] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:19:13,812] {logging_mixin.py:115} INFO - [2022-08-07 15:19:13,812] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:16:00+00:00, run_after=2022-08-07T12:18:00+00:00
+[2022-08-07 15:19:13,820] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 15:19:51,572] {processor.py:153} INFO - Started process (PID=109817) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:19:51,573] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:19:51,573] {logging_mixin.py:115} INFO - [2022-08-07 15:19:51,573] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:19:51,582] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:19:51,589] {logging_mixin.py:115} INFO - [2022-08-07 15:19:51,589] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:19:51,600] {logging_mixin.py:115} INFO - [2022-08-07 15:19:51,600] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:16:00+00:00, run_after=2022-08-07T12:18:00+00:00
+[2022-08-07 15:19:51,608] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 15:20:30,320] {processor.py:153} INFO - Started process (PID=110195) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:20:30,321] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:20:30,321] {logging_mixin.py:115} INFO - [2022-08-07 15:20:30,321] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:20:30,330] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:20:30,340] {logging_mixin.py:115} INFO - [2022-08-07 15:20:30,339] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:20:30,351] {logging_mixin.py:115} INFO - [2022-08-07 15:20:30,351] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:18:00+00:00, run_after=2022-08-07T12:20:00+00:00
+[2022-08-07 15:20:30,360] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.043 seconds
+[2022-08-07 15:21:08,485] {processor.py:153} INFO - Started process (PID=110506) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:21:08,486] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:21:08,486] {logging_mixin.py:115} INFO - [2022-08-07 15:21:08,486] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:21:08,496] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:21:08,504] {logging_mixin.py:115} INFO - [2022-08-07 15:21:08,504] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:21:08,517] {logging_mixin.py:115} INFO - [2022-08-07 15:21:08,516] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:18:00+00:00, run_after=2022-08-07T12:20:00+00:00
+[2022-08-07 15:21:08,527] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.044 seconds
+[2022-08-07 15:21:44,717] {processor.py:153} INFO - Started process (PID=110889) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:21:44,717] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:21:44,717] {logging_mixin.py:115} INFO - [2022-08-07 15:21:44,717] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:21:44,726] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:21:44,733] {logging_mixin.py:115} INFO - [2022-08-07 15:21:44,733] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:21:44,744] {logging_mixin.py:115} INFO - [2022-08-07 15:21:44,744] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:18:00+00:00, run_after=2022-08-07T12:20:00+00:00
+[2022-08-07 15:21:44,752] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 15:22:20,749] {processor.py:153} INFO - Started process (PID=111469) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:22:20,749] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:22:20,749] {logging_mixin.py:115} INFO - [2022-08-07 15:22:20,749] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:22:20,759] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:22:20,767] {logging_mixin.py:115} INFO - [2022-08-07 15:22:20,767] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:22:20,778] {logging_mixin.py:115} INFO - [2022-08-07 15:22:20,778] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:20:00+00:00, run_after=2022-08-07T12:22:00+00:00
+[2022-08-07 15:22:20,786] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.039 seconds
+[2022-08-07 15:22:58,997] {processor.py:153} INFO - Started process (PID=111834) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:22:58,997] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:22:58,997] {logging_mixin.py:115} INFO - [2022-08-07 15:22:58,997] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:22:59,006] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:22:59,014] {logging_mixin.py:115} INFO - [2022-08-07 15:22:59,014] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:22:59,026] {logging_mixin.py:115} INFO - [2022-08-07 15:22:59,026] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:20:00+00:00, run_after=2022-08-07T12:22:00+00:00
+[2022-08-07 15:22:59,034] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.039 seconds
+[2022-08-07 15:23:34,980] {processor.py:153} INFO - Started process (PID=112137) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:23:34,981] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:23:34,981] {logging_mixin.py:115} INFO - [2022-08-07 15:23:34,981] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:23:34,990] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:23:34,997] {logging_mixin.py:115} INFO - [2022-08-07 15:23:34,997] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:23:35,008] {logging_mixin.py:115} INFO - [2022-08-07 15:23:35,008] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:20:00+00:00, run_after=2022-08-07T12:22:00+00:00
+[2022-08-07 15:23:35,016] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 15:24:14,385] {processor.py:153} INFO - Started process (PID=112864) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:24:14,386] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:24:14,386] {logging_mixin.py:115} INFO - [2022-08-07 15:24:14,386] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:24:14,396] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:24:14,404] {logging_mixin.py:115} INFO - [2022-08-07 15:24:14,404] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:24:14,416] {logging_mixin.py:115} INFO - [2022-08-07 15:24:14,416] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:22:00+00:00, run_after=2022-08-07T12:24:00+00:00
+[2022-08-07 15:24:14,425] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.041 seconds
+[2022-08-07 15:24:51,956] {processor.py:153} INFO - Started process (PID=113358) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:24:51,956] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:24:51,957] {logging_mixin.py:115} INFO - [2022-08-07 15:24:51,957] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:24:51,965] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:24:51,972] {logging_mixin.py:115} INFO - [2022-08-07 15:24:51,972] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:24:51,983] {logging_mixin.py:115} INFO - [2022-08-07 15:24:51,983] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:22:00+00:00, run_after=2022-08-07T12:24:00+00:00
+[2022-08-07 15:24:51,991] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.036 seconds
+[2022-08-07 15:25:27,810] {processor.py:153} INFO - Started process (PID=113646) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:25:27,811] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:25:27,811] {logging_mixin.py:115} INFO - [2022-08-07 15:25:27,811] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:25:27,820] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:25:27,827] {logging_mixin.py:115} INFO - [2022-08-07 15:25:27,827] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:25:27,837] {logging_mixin.py:115} INFO - [2022-08-07 15:25:27,837] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:22:00+00:00, run_after=2022-08-07T12:24:00+00:00
+[2022-08-07 15:25:27,846] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 15:26:06,601] {processor.py:153} INFO - Started process (PID=113999) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:26:06,602] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:26:06,602] {logging_mixin.py:115} INFO - [2022-08-07 15:26:06,602] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:26:06,614] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:26:06,621] {logging_mixin.py:115} INFO - [2022-08-07 15:26:06,621] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:26:06,631] {logging_mixin.py:115} INFO - [2022-08-07 15:26:06,631] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:24:00+00:00, run_after=2022-08-07T12:26:00+00:00
+[2022-08-07 15:26:06,640] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2022-08-07 15:26:44,781] {processor.py:153} INFO - Started process (PID=114918) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:26:44,782] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:26:44,782] {logging_mixin.py:115} INFO - [2022-08-07 15:26:44,782] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:26:44,792] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:26:44,801] {logging_mixin.py:115} INFO - [2022-08-07 15:26:44,801] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:26:44,815] {logging_mixin.py:115} INFO - [2022-08-07 15:26:44,815] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:24:00+00:00, run_after=2022-08-07T12:26:00+00:00
+[2022-08-07 15:26:44,825] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.046 seconds
+[2022-08-07 15:27:21,068] {processor.py:153} INFO - Started process (PID=115281) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:27:21,069] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:27:21,070] {logging_mixin.py:115} INFO - [2022-08-07 15:27:21,070] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:27:21,081] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:27:21,088] {logging_mixin.py:115} INFO - [2022-08-07 15:27:21,088] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:27:21,099] {logging_mixin.py:115} INFO - [2022-08-07 15:27:21,099] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:24:00+00:00, run_after=2022-08-07T12:26:00+00:00
+[2022-08-07 15:27:21,107] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2022-08-07 15:27:56,987] {processor.py:153} INFO - Started process (PID=115599) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:27:56,988] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:27:56,988] {logging_mixin.py:115} INFO - [2022-08-07 15:27:56,988] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:27:57,000] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:27:57,007] {logging_mixin.py:115} INFO - [2022-08-07 15:27:57,007] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:27:57,018] {logging_mixin.py:115} INFO - [2022-08-07 15:27:57,018] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:24:00+00:00, run_after=2022-08-07T12:26:00+00:00
+[2022-08-07 15:27:57,025] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.040 seconds
+[2022-08-07 15:28:34,616] {processor.py:153} INFO - Started process (PID=116134) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:28:34,616] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:28:34,617] {logging_mixin.py:115} INFO - [2022-08-07 15:28:34,617] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:28:34,626] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:28:34,633] {logging_mixin.py:115} INFO - [2022-08-07 15:28:34,633] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:28:34,644] {logging_mixin.py:115} INFO - [2022-08-07 15:28:34,644] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:26:00+00:00, run_after=2022-08-07T12:28:00+00:00
+[2022-08-07 15:28:34,652] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-07 15:29:13,833] {processor.py:153} INFO - Started process (PID=116599) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:29:13,834] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:29:13,834] {logging_mixin.py:115} INFO - [2022-08-07 15:29:13,834] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:29:13,845] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:29:13,853] {logging_mixin.py:115} INFO - [2022-08-07 15:29:13,853] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:29:13,866] {logging_mixin.py:115} INFO - [2022-08-07 15:29:13,865] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:26:00+00:00, run_after=2022-08-07T12:28:00+00:00
+[2022-08-07 15:29:13,876] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.044 seconds
+[2022-08-07 15:29:51,400] {processor.py:153} INFO - Started process (PID=116919) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:29:51,401] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:29:51,401] {logging_mixin.py:115} INFO - [2022-08-07 15:29:51,401] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:29:51,417] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:29:51,424] {logging_mixin.py:115} INFO - [2022-08-07 15:29:51,424] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:29:51,435] {logging_mixin.py:115} INFO - [2022-08-07 15:29:51,435] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:26:00+00:00, run_after=2022-08-07T12:28:00+00:00
+[2022-08-07 15:29:51,443] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.047 seconds
+[2022-08-07 15:30:28,493] {processor.py:153} INFO - Started process (PID=117362) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:30:28,493] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:30:28,493] {logging_mixin.py:115} INFO - [2022-08-07 15:30:28,493] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:30:28,502] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:30:28,509] {logging_mixin.py:115} INFO - [2022-08-07 15:30:28,509] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:30:28,521] {logging_mixin.py:115} INFO - [2022-08-07 15:30:28,521] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:28:00+00:00, run_after=2022-08-07T12:30:00+00:00
+[2022-08-07 15:30:28,529] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 15:31:05,924] {processor.py:153} INFO - Started process (PID=117744) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:31:05,925] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:31:05,926] {logging_mixin.py:115} INFO - [2022-08-07 15:31:05,925] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:31:05,941] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:31:05,953] {logging_mixin.py:115} INFO - [2022-08-07 15:31:05,952] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:31:05,970] {logging_mixin.py:115} INFO - [2022-08-07 15:31:05,970] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:28:00+00:00, run_after=2022-08-07T12:30:00+00:00
+[2022-08-07 15:31:05,981] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2022-08-07 15:31:41,962] {processor.py:153} INFO - Started process (PID=118175) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:31:41,962] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:31:41,963] {logging_mixin.py:115} INFO - [2022-08-07 15:31:41,963] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:31:41,971] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:31:41,978] {logging_mixin.py:115} INFO - [2022-08-07 15:31:41,978] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:31:41,989] {logging_mixin.py:115} INFO - [2022-08-07 15:31:41,989] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:28:00+00:00, run_after=2022-08-07T12:30:00+00:00
+[2022-08-07 15:31:41,998] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds
+[2022-08-07 15:32:22,780] {processor.py:153} INFO - Started process (PID=118917) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:32:22,781] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:32:22,782] {logging_mixin.py:115} INFO - [2022-08-07 15:32:22,781] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:32:22,797] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:32:22,805] {logging_mixin.py:115} INFO - [2022-08-07 15:32:22,805] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:32:22,815] {logging_mixin.py:115} INFO - [2022-08-07 15:32:22,815] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:30:00+00:00, run_after=2022-08-07T12:32:00+00:00
+[2022-08-07 15:32:22,823] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.044 seconds
+[2022-08-07 15:33:48,002] {processor.py:153} INFO - Started process (PID=119905) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:33:48,003] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:33:48,004] {logging_mixin.py:115} INFO - [2022-08-07 15:33:48,003] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:33:48,015] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:33:48,024] {logging_mixin.py:115} INFO - [2022-08-07 15:33:48,024] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:33:48,039] {logging_mixin.py:115} INFO - [2022-08-07 15:33:48,039] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:30:00+00:00, run_after=2022-08-07T12:32:00+00:00
+[2022-08-07 15:33:48,049] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.048 seconds
+[2022-08-07 15:34:40,596] {processor.py:153} INFO - Started process (PID=120609) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:34:40,597] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:34:40,597] {logging_mixin.py:115} INFO - [2022-08-07 15:34:40,597] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:34:40,608] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:34:40,617] {logging_mixin.py:115} INFO - [2022-08-07 15:34:40,617] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:34:40,631] {logging_mixin.py:115} INFO - [2022-08-07 15:34:40,630] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:32:00+00:00, run_after=2022-08-07T12:34:00+00:00
+[2022-08-07 15:34:40,640] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.046 seconds
+[2022-08-07 15:35:22,323] {processor.py:153} INFO - Started process (PID=121450) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:35:22,324] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:35:22,324] {logging_mixin.py:115} INFO - [2022-08-07 15:35:22,324] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:35:22,336] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:35:22,345] {logging_mixin.py:115} INFO - [2022-08-07 15:35:22,345] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:35:22,358] {logging_mixin.py:115} INFO - [2022-08-07 15:35:22,358] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:32:00+00:00, run_after=2022-08-07T12:34:00+00:00
+[2022-08-07 15:35:22,368] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.047 seconds
+[2022-08-07 15:35:59,184] {processor.py:153} INFO - Started process (PID=121929) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:35:59,185] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:35:59,185] {logging_mixin.py:115} INFO - [2022-08-07 15:35:59,185] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:35:59,199] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:35:59,208] {logging_mixin.py:115} INFO - [2022-08-07 15:35:59,208] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:35:59,225] {logging_mixin.py:115} INFO - [2022-08-07 15:35:59,225] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:32:00+00:00, run_after=2022-08-07T12:34:00+00:00
+[2022-08-07 15:35:59,236] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.054 seconds
+[2022-08-07 15:36:37,139] {processor.py:153} INFO - Started process (PID=122400) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:36:37,140] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:36:37,140] {logging_mixin.py:115} INFO - [2022-08-07 15:36:37,140] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:36:37,150] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:36:37,158] {logging_mixin.py:115} INFO - [2022-08-07 15:36:37,158] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:36:37,172] {logging_mixin.py:115} INFO - [2022-08-07 15:36:37,172] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:34:00+00:00, run_after=2022-08-07T12:36:00+00:00
+[2022-08-07 15:36:37,185] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.048 seconds
+[2022-08-07 15:37:13,772] {processor.py:153} INFO - Started process (PID=123018) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:37:13,772] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:37:13,773] {logging_mixin.py:115} INFO - [2022-08-07 15:37:13,773] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:37:13,786] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:37:13,795] {logging_mixin.py:115} INFO - [2022-08-07 15:37:13,795] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:37:13,810] {logging_mixin.py:115} INFO - [2022-08-07 15:37:13,810] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:34:00+00:00, run_after=2022-08-07T12:36:00+00:00
+[2022-08-07 15:37:13,820] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-08-07 15:37:52,025] {processor.py:153} INFO - Started process (PID=123366) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:37:52,026] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:37:52,026] {logging_mixin.py:115} INFO - [2022-08-07 15:37:52,026] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:37:52,042] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:37:52,053] {logging_mixin.py:115} INFO - [2022-08-07 15:37:52,053] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:37:52,073] {logging_mixin.py:115} INFO - [2022-08-07 15:37:52,073] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:34:00+00:00, run_after=2022-08-07T12:36:00+00:00
+[2022-08-07 15:37:52,084] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.061 seconds
+[2022-08-07 15:38:28,037] {processor.py:153} INFO - Started process (PID=123726) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:38:28,037] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:38:28,038] {logging_mixin.py:115} INFO - [2022-08-07 15:38:28,038] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:38:28,048] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:38:28,056] {logging_mixin.py:115} INFO - [2022-08-07 15:38:28,056] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:38:28,069] {logging_mixin.py:115} INFO - [2022-08-07 15:38:28,069] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:36:00+00:00, run_after=2022-08-07T12:38:00+00:00
+[2022-08-07 15:38:28,079] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.044 seconds
+[2022-08-07 15:39:27,523] {processor.py:153} INFO - Started process (PID=124425) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:39:27,524] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:39:27,524] {logging_mixin.py:115} INFO - [2022-08-07 15:39:27,524] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:39:27,538] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:39:27,548] {logging_mixin.py:115} INFO - [2022-08-07 15:39:27,548] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:39:27,563] {logging_mixin.py:115} INFO - [2022-08-07 15:39:27,563] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:36:00+00:00, run_after=2022-08-07T12:38:00+00:00
+[2022-08-07 15:39:27,573] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-08-07 15:40:11,252] {processor.py:153} INFO - Started process (PID=125255) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:40:11,252] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:40:11,252] {logging_mixin.py:115} INFO - [2022-08-07 15:40:11,252] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:40:11,265] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:40:11,275] {logging_mixin.py:115} INFO - [2022-08-07 15:40:11,275] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:40:11,292] {logging_mixin.py:115} INFO - [2022-08-07 15:40:11,292] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:38:00+00:00, run_after=2022-08-07T12:40:00+00:00
+[2022-08-07 15:40:11,303] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-08-07 15:40:49,704] {processor.py:153} INFO - Started process (PID=125575) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:40:49,705] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:40:49,705] {logging_mixin.py:115} INFO - [2022-08-07 15:40:49,705] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:40:49,722] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:40:49,729] {logging_mixin.py:115} INFO - [2022-08-07 15:40:49,729] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:40:49,742] {logging_mixin.py:115} INFO - [2022-08-07 15:40:49,742] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:38:00+00:00, run_after=2022-08-07T12:40:00+00:00
+[2022-08-07 15:40:49,751] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-08-07 15:41:22,709] {processor.py:153} INFO - Started process (PID=126204) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:41:22,709] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:41:22,710] {logging_mixin.py:115} INFO - [2022-08-07 15:41:22,710] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:41:22,722] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:41:22,731] {logging_mixin.py:115} INFO - [2022-08-07 15:41:22,731] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:41:22,747] {logging_mixin.py:115} INFO - [2022-08-07 15:41:22,747] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:38:00+00:00, run_after=2022-08-07T12:40:00+00:00
+[2022-08-07 15:41:22,759] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.053 seconds
+[2022-08-07 15:42:09,981] {processor.py:153} INFO - Started process (PID=127115) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:42:09,982] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:42:09,982] {logging_mixin.py:115} INFO - [2022-08-07 15:42:09,982] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:42:09,992] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:42:10,000] {logging_mixin.py:115} INFO - [2022-08-07 15:42:10,000] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:42:10,013] {logging_mixin.py:115} INFO - [2022-08-07 15:42:10,013] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:40:00+00:00, run_after=2022-08-07T12:42:00+00:00
+[2022-08-07 15:42:10,022] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.042 seconds
+[2022-08-07 15:42:47,925] {processor.py:153} INFO - Started process (PID=127403) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:42:47,925] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:42:47,926] {logging_mixin.py:115} INFO - [2022-08-07 15:42:47,926] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:42:47,936] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:42:47,945] {logging_mixin.py:115} INFO - [2022-08-07 15:42:47,945] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:42:47,957] {logging_mixin.py:115} INFO - [2022-08-07 15:42:47,957] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:40:00+00:00, run_after=2022-08-07T12:42:00+00:00
+[2022-08-07 15:42:47,966] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.043 seconds
+[2022-08-07 15:43:25,687] {processor.py:153} INFO - Started process (PID=127678) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:43:25,687] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:43:25,688] {logging_mixin.py:115} INFO - [2022-08-07 15:43:25,688] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:43:25,701] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:43:25,711] {logging_mixin.py:115} INFO - [2022-08-07 15:43:25,711] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:43:25,726] {logging_mixin.py:115} INFO - [2022-08-07 15:43:25,726] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:40:00+00:00, run_after=2022-08-07T12:42:00+00:00
+[2022-08-07 15:43:25,736] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.051 seconds
+[2022-08-07 15:44:04,486] {processor.py:153} INFO - Started process (PID=128031) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:44:04,487] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:44:04,488] {logging_mixin.py:115} INFO - [2022-08-07 15:44:04,488] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:44:04,503] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:44:04,511] {logging_mixin.py:115} INFO - [2022-08-07 15:44:04,511] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:44:04,524] {logging_mixin.py:115} INFO - [2022-08-07 15:44:04,524] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:42:00+00:00, run_after=2022-08-07T12:44:00+00:00
+[2022-08-07 15:44:04,533] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.051 seconds
+[2022-08-07 15:44:42,641] {processor.py:153} INFO - Started process (PID=128290) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:44:42,641] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:44:42,642] {logging_mixin.py:115} INFO - [2022-08-07 15:44:42,642] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:44:42,656] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:44:42,664] {logging_mixin.py:115} INFO - [2022-08-07 15:44:42,664] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:44:42,678] {logging_mixin.py:115} INFO - [2022-08-07 15:44:42,678] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:42:00+00:00, run_after=2022-08-07T12:44:00+00:00
+[2022-08-07 15:44:42,688] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.050 seconds
+[2022-08-07 15:45:18,602] {processor.py:153} INFO - Started process (PID=128493) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:45:18,603] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:45:18,604] {logging_mixin.py:115} INFO - [2022-08-07 15:45:18,604] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:45:18,617] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:45:18,625] {logging_mixin.py:115} INFO - [2022-08-07 15:45:18,625] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:45:18,638] {logging_mixin.py:115} INFO - [2022-08-07 15:45:18,638] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:42:00+00:00, run_after=2022-08-07T12:44:00+00:00
+[2022-08-07 15:45:18,647] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.048 seconds
+[2022-08-07 15:45:56,231] {processor.py:153} INFO - Started process (PID=128709) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:45:56,232] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:45:56,232] {logging_mixin.py:115} INFO - [2022-08-07 15:45:56,232] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:45:56,246] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:45:56,254] {logging_mixin.py:115} INFO - [2022-08-07 15:45:56,254] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:45:56,267] {logging_mixin.py:115} INFO - [2022-08-07 15:45:56,267] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:42:00+00:00, run_after=2022-08-07T12:44:00+00:00
+[2022-08-07 15:45:56,276] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.047 seconds
+[2022-08-07 15:46:34,378] {processor.py:153} INFO - Started process (PID=128952) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:46:34,379] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:46:34,379] {logging_mixin.py:115} INFO - [2022-08-07 15:46:34,379] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:46:34,390] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:46:34,398] {logging_mixin.py:115} INFO - [2022-08-07 15:46:34,398] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:46:34,410] {logging_mixin.py:115} INFO - [2022-08-07 15:46:34,410] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:44:00+00:00, run_after=2022-08-07T12:46:00+00:00
+[2022-08-07 15:46:34,420] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.043 seconds
+[2022-08-07 15:47:10,019] {processor.py:153} INFO - Started process (PID=129210) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:47:10,020] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:47:10,020] {logging_mixin.py:115} INFO - [2022-08-07 15:47:10,020] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:47:10,030] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:47:10,038] {logging_mixin.py:115} INFO - [2022-08-07 15:47:10,038] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:47:10,051] {logging_mixin.py:115} INFO - [2022-08-07 15:47:10,051] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:44:00+00:00, run_after=2022-08-07T12:46:00+00:00
+[2022-08-07 15:47:10,060] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.042 seconds
+[2022-08-07 15:47:48,459] {processor.py:153} INFO - Started process (PID=129422) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:47:48,460] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:47:48,461] {logging_mixin.py:115} INFO - [2022-08-07 15:47:48,460] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:47:48,471] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:47:48,478] {logging_mixin.py:115} INFO - [2022-08-07 15:47:48,478] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:47:48,491] {logging_mixin.py:115} INFO - [2022-08-07 15:47:48,491] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:44:00+00:00, run_after=2022-08-07T12:46:00+00:00
+[2022-08-07 15:47:48,502] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.044 seconds
+[2022-08-07 15:48:24,416] {processor.py:153} INFO - Started process (PID=129654) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:48:24,416] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:48:24,417] {logging_mixin.py:115} INFO - [2022-08-07 15:48:24,416] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:48:24,430] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:48:24,438] {logging_mixin.py:115} INFO - [2022-08-07 15:48:24,438] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:48:24,451] {logging_mixin.py:115} INFO - [2022-08-07 15:48:24,450] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:46:00+00:00, run_after=2022-08-07T12:48:00+00:00
+[2022-08-07 15:48:24,459] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.046 seconds
+[2022-08-07 15:48:59,775] {processor.py:153} INFO - Started process (PID=129862) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:48:59,776] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:48:59,776] {logging_mixin.py:115} INFO - [2022-08-07 15:48:59,776] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:48:59,790] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:48:59,798] {logging_mixin.py:115} INFO - [2022-08-07 15:48:59,798] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:48:59,810] {logging_mixin.py:115} INFO - [2022-08-07 15:48:59,810] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:46:00+00:00, run_after=2022-08-07T12:48:00+00:00
+[2022-08-07 15:48:59,819] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.046 seconds
+[2022-08-07 15:49:37,612] {processor.py:153} INFO - Started process (PID=130284) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:49:37,613] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:49:37,613] {logging_mixin.py:115} INFO - [2022-08-07 15:49:37,613] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:49:37,626] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:49:37,636] {logging_mixin.py:115} INFO - [2022-08-07 15:49:37,636] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:49:37,652] {logging_mixin.py:115} INFO - [2022-08-07 15:49:37,652] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:46:00+00:00, run_after=2022-08-07T12:48:00+00:00
+[2022-08-07 15:49:37,662] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.052 seconds
+[2022-08-07 15:50:12,338] {processor.py:153} INFO - Started process (PID=130570) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:50:12,338] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:50:12,339] {logging_mixin.py:115} INFO - [2022-08-07 15:50:12,339] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:50:12,352] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:50:12,360] {logging_mixin.py:115} INFO - [2022-08-07 15:50:12,360] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:50:12,373] {logging_mixin.py:115} INFO - [2022-08-07 15:50:12,373] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:48:00+00:00, run_after=2022-08-07T12:50:00+00:00
+[2022-08-07 15:50:12,383] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.047 seconds
+[2022-08-07 15:50:49,311] {processor.py:153} INFO - Started process (PID=130839) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:50:49,312] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:50:49,313] {logging_mixin.py:115} INFO - [2022-08-07 15:50:49,313] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:50:49,324] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:50:49,332] {logging_mixin.py:115} INFO - [2022-08-07 15:50:49,332] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:50:49,345] {logging_mixin.py:115} INFO - [2022-08-07 15:50:49,345] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:48:00+00:00, run_after=2022-08-07T12:50:00+00:00
+[2022-08-07 15:50:49,356] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.046 seconds
+[2022-08-07 15:51:26,434] {processor.py:153} INFO - Started process (PID=131162) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:51:26,435] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:51:26,436] {logging_mixin.py:115} INFO - [2022-08-07 15:51:26,436] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:51:26,447] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:51:26,454] {logging_mixin.py:115} INFO - [2022-08-07 15:51:26,454] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:51:26,467] {logging_mixin.py:115} INFO - [2022-08-07 15:51:26,467] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:48:00+00:00, run_after=2022-08-07T12:50:00+00:00
+[2022-08-07 15:51:26,477] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.047 seconds
+[2022-08-07 15:52:04,872] {processor.py:153} INFO - Started process (PID=131408) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:52:04,874] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-07 15:52:04,874] {logging_mixin.py:115} INFO - [2022-08-07 15:52:04,874] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:52:04,884] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-07 15:52:04,893] {logging_mixin.py:115} INFO - [2022-08-07 15:52:04,893] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:52:04,908] {logging_mixin.py:115} INFO - [2022-08-07 15:52:04,908] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-07T12:50:00+00:00, run_after=2022-08-07T12:52:00+00:00
+[2022-08-07 15:52:04,918] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.047 seconds

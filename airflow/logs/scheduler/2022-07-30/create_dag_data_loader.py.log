@@ -1,0 +1,868 @@
+[2022-07-30 21:47:40,527] {processor.py:153} INFO - Started process (PID=31497) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:47:40,527] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:47:40,528] {logging_mixin.py:115} INFO - [2022-07-30 21:47:40,528] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:47:40,543] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:47:40,557] {logging_mixin.py:115} INFO - [2022-07-30 21:47:40,557] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:47:40,569] {logging_mixin.py:115} INFO - [2022-07-30 21:47:40,569] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:47:40,582] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.056 seconds
+[2022-07-30 21:48:26,959] {processor.py:153} INFO - Started process (PID=31936) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:48:26,960] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:48:26,960] {logging_mixin.py:115} INFO - [2022-07-30 21:48:26,960] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:48:26,975] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:48:26,982] {logging_mixin.py:115} INFO - [2022-07-30 21:48:26,982] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:48:26,990] {logging_mixin.py:115} INFO - [2022-07-30 21:48:26,990] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:48:26,997] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 21:49:06,340] {processor.py:153} INFO - Started process (PID=32095) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:49:06,341] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:49:06,341] {logging_mixin.py:115} INFO - [2022-07-30 21:49:06,341] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:49:06,350] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:49:06,358] {logging_mixin.py:115} INFO - [2022-07-30 21:49:06,358] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:49:06,366] {logging_mixin.py:115} INFO - [2022-07-30 21:49:06,366] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:49:06,379] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.040 seconds
+[2022-07-30 21:49:46,874] {processor.py:153} INFO - Started process (PID=32331) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:49:46,874] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:49:46,875] {logging_mixin.py:115} INFO - [2022-07-30 21:49:46,875] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:49:46,886] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:49:46,895] {logging_mixin.py:115} INFO - [2022-07-30 21:49:46,895] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:49:46,907] {logging_mixin.py:115} INFO - [2022-07-30 21:49:46,907] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:49:46,939] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.066 seconds
+[2022-07-30 21:50:29,230] {processor.py:153} INFO - Started process (PID=32642) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:50:29,231] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:50:29,231] {logging_mixin.py:115} INFO - [2022-07-30 21:50:29,231] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:50:29,247] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:50:29,254] {logging_mixin.py:115} INFO - [2022-07-30 21:50:29,254] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:50:29,262] {logging_mixin.py:115} INFO - [2022-07-30 21:50:29,261] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:50:29,269] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.040 seconds
+[2022-07-30 21:51:10,253] {processor.py:153} INFO - Started process (PID=32904) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:51:10,253] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:51:10,254] {logging_mixin.py:115} INFO - [2022-07-30 21:51:10,254] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:51:10,263] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:51:10,271] {logging_mixin.py:115} INFO - [2022-07-30 21:51:10,271] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:51:10,280] {logging_mixin.py:115} INFO - [2022-07-30 21:51:10,280] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:51:10,289] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-30 21:51:51,799] {processor.py:153} INFO - Started process (PID=33230) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:51:51,799] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:51:51,800] {logging_mixin.py:115} INFO - [2022-07-30 21:51:51,800] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:51:51,809] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:51:51,818] {logging_mixin.py:115} INFO - [2022-07-30 21:51:51,818] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:51:51,827] {logging_mixin.py:115} INFO - [2022-07-30 21:51:51,827] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:51:51,836] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.038 seconds
+[2022-07-30 21:52:33,935] {processor.py:153} INFO - Started process (PID=33764) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:52:33,935] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:52:33,936] {logging_mixin.py:115} INFO - [2022-07-30 21:52:33,936] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:52:33,949] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:52:33,955] {logging_mixin.py:115} INFO - [2022-07-30 21:52:33,955] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:52:33,963] {logging_mixin.py:115} INFO - [2022-07-30 21:52:33,962] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:52:33,970] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.039 seconds
+[2022-07-30 21:53:14,605] {processor.py:153} INFO - Started process (PID=34141) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:53:14,605] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:53:14,606] {logging_mixin.py:115} INFO - [2022-07-30 21:53:14,606] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:53:14,615] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:53:14,622] {logging_mixin.py:115} INFO - [2022-07-30 21:53:14,622] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:53:14,630] {logging_mixin.py:115} INFO - [2022-07-30 21:53:14,630] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:53:14,638] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.034 seconds
+[2022-07-30 21:53:54,001] {processor.py:153} INFO - Started process (PID=34405) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:53:54,002] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:53:54,002] {logging_mixin.py:115} INFO - [2022-07-30 21:53:54,002] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:53:54,013] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:53:54,022] {logging_mixin.py:115} INFO - [2022-07-30 21:53:54,021] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:53:54,032] {logging_mixin.py:115} INFO - [2022-07-30 21:53:54,031] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:53:54,041] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.041 seconds
+[2022-07-30 21:54:34,493] {processor.py:153} INFO - Started process (PID=34741) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:54:34,494] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:54:34,494] {logging_mixin.py:115} INFO - [2022-07-30 21:54:34,494] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:54:34,503] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:54:34,509] {logging_mixin.py:115} INFO - [2022-07-30 21:54:34,509] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:54:34,517] {logging_mixin.py:115} INFO - [2022-07-30 21:54:34,517] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:54:34,525] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.033 seconds
+[2022-07-30 21:55:16,307] {processor.py:153} INFO - Started process (PID=34945) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:55:16,308] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:55:16,309] {logging_mixin.py:115} INFO - [2022-07-30 21:55:16,309] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:55:16,322] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:55:16,329] {logging_mixin.py:115} INFO - [2022-07-30 21:55:16,329] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:55:16,337] {logging_mixin.py:115} INFO - [2022-07-30 21:55:16,337] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:55:16,345] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.041 seconds
+[2022-07-30 21:55:55,703] {processor.py:153} INFO - Started process (PID=35230) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:55:55,704] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:55:55,705] {logging_mixin.py:115} INFO - [2022-07-30 21:55:55,705] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:55:55,714] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:55:55,721] {logging_mixin.py:115} INFO - [2022-07-30 21:55:55,721] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:55:55,730] {logging_mixin.py:115} INFO - [2022-07-30 21:55:55,730] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:55:55,742] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.041 seconds
+[2022-07-30 21:56:38,939] {processor.py:153} INFO - Started process (PID=35653) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:56:38,941] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:56:38,941] {logging_mixin.py:115} INFO - [2022-07-30 21:56:38,941] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:56:38,952] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:56:38,959] {logging_mixin.py:115} INFO - [2022-07-30 21:56:38,959] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:56:38,967] {logging_mixin.py:115} INFO - [2022-07-30 21:56:38,967] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:56:38,974] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-30 21:57:21,404] {processor.py:153} INFO - Started process (PID=35919) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:57:21,405] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:57:21,405] {logging_mixin.py:115} INFO - [2022-07-30 21:57:21,405] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:57:21,414] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:57:21,424] {logging_mixin.py:115} INFO - [2022-07-30 21:57:21,424] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:57:21,436] {logging_mixin.py:115} INFO - [2022-07-30 21:57:21,435] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:57:21,444] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.041 seconds
+[2022-07-30 21:58:02,510] {processor.py:153} INFO - Started process (PID=36370) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:58:02,511] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:58:02,511] {logging_mixin.py:115} INFO - [2022-07-30 21:58:02,511] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:58:02,519] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:58:02,527] {logging_mixin.py:115} INFO - [2022-07-30 21:58:02,527] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:58:02,537] {logging_mixin.py:115} INFO - [2022-07-30 21:58:02,537] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:58:02,546] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-30 21:58:26,590] {processor.py:153} INFO - Started process (PID=36569) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:58:26,590] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:58:26,590] {logging_mixin.py:115} INFO - [2022-07-30 21:58:26,590] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:58:26,599] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:58:26,606] {logging_mixin.py:115} INFO - [2022-07-30 21:58:26,606] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:58:26,613] {logging_mixin.py:115} INFO - [2022-07-30 21:58:26,613] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:58:26,621] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.033 seconds
+[2022-07-30 21:59:08,616] {processor.py:153} INFO - Started process (PID=37040) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:59:08,617] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:59:08,617] {logging_mixin.py:115} INFO - [2022-07-30 21:59:08,617] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:59:08,626] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:59:08,633] {logging_mixin.py:115} INFO - [2022-07-30 21:59:08,633] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:59:08,641] {logging_mixin.py:115} INFO - [2022-07-30 21:59:08,641] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:59:08,649] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.034 seconds
+[2022-07-30 21:59:41,780] {processor.py:153} INFO - Started process (PID=37228) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:59:41,780] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 21:59:41,781] {logging_mixin.py:115} INFO - [2022-07-30 21:59:41,781] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:59:41,792] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 21:59:41,800] {logging_mixin.py:115} INFO - [2022-07-30 21:59:41,800] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 21:59:41,808] {logging_mixin.py:115} INFO - [2022-07-30 21:59:41,808] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 21:59:41,815] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.038 seconds
+[2022-07-30 22:00:18,209] {processor.py:153} INFO - Started process (PID=37463) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:00:18,210] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 22:00:18,211] {logging_mixin.py:115} INFO - [2022-07-30 22:00:18,211] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:00:18,224] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:00:18,230] {logging_mixin.py:115} INFO - [2022-07-30 22:00:18,230] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 22:00:18,238] {logging_mixin.py:115} INFO - [2022-07-30 22:00:18,238] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 22:00:18,245] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.040 seconds
+[2022-07-30 22:00:53,442] {processor.py:153} INFO - Started process (PID=37775) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:00:53,443] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 22:00:53,444] {logging_mixin.py:115} INFO - [2022-07-30 22:00:53,444] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:00:53,460] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:00:53,466] {logging_mixin.py:115} INFO - [2022-07-30 22:00:53,466] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 22:00:53,474] {logging_mixin.py:115} INFO - [2022-07-30 22:00:53,474] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 22:00:53,481] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.043 seconds
+[2022-07-30 22:01:28,252] {processor.py:153} INFO - Started process (PID=38060) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:01:28,253] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 22:01:28,253] {logging_mixin.py:115} INFO - [2022-07-30 22:01:28,253] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:01:28,269] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:01:28,277] {logging_mixin.py:115} INFO - [2022-07-30 22:01:28,277] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 22:01:28,285] {logging_mixin.py:115} INFO - [2022-07-30 22:01:28,285] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 22:01:28,293] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.045 seconds
+[2022-07-30 22:01:34,013] {processor.py:153} INFO - Started process (PID=38144) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:01:34,014] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 22:01:34,014] {logging_mixin.py:115} INFO - [2022-07-30 22:01:34,014] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:01:34,023] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:01:34,030] {logging_mixin.py:115} INFO - [2022-07-30 22:01:34,030] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 22:01:34,040] {logging_mixin.py:115} INFO - [2022-07-30 22:01:34,040] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 22:01:34,048] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-30 22:02:08,586] {processor.py:153} INFO - Started process (PID=38507) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:02:08,586] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 22:02:08,586] {logging_mixin.py:115} INFO - [2022-07-30 22:02:08,586] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:02:08,596] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:02:08,604] {logging_mixin.py:115} INFO - [2022-07-30 22:02:08,604] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 22:02:08,613] {logging_mixin.py:115} INFO - [2022-07-30 22:02:08,612] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 22:02:08,626] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 22:02:45,797] {processor.py:153} INFO - Started process (PID=38870) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:02:45,798] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 22:02:45,798] {logging_mixin.py:115} INFO - [2022-07-30 22:02:45,798] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:02:45,809] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:02:45,817] {logging_mixin.py:115} INFO - [2022-07-30 22:02:45,817] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 22:02:45,827] {logging_mixin.py:115} INFO - [2022-07-30 22:02:45,827] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 22:02:45,835] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.039 seconds
+[2022-07-30 22:03:21,900] {processor.py:153} INFO - Started process (PID=39070) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:03:21,901] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 22:03:21,901] {logging_mixin.py:115} INFO - [2022-07-30 22:03:21,901] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:03:21,910] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 22:03:21,917] {logging_mixin.py:115} INFO - [2022-07-30 22:03:21,917] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 22:03:21,926] {logging_mixin.py:115} INFO - [2022-07-30 22:03:21,926] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 22:03:21,934] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [2022-07-30 23:14:55,991] {processor.py:153} INFO - Started process (PID=5647) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:14:55,993] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:14:55,994] {logging_mixin.py:115} INFO - [2022-07-30 23:14:55,994] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:14:56,000] {logging_mixin.py:115} INFO - [2022-07-30 23:14:56,000] {dagbag.py:321} ERROR - Failed to import: /home/hp/airflow/dags/create_dag_data_loader.py
+Traceback (most recent call last):
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/hp/airflow/dags/create_dag_data_loader.py", line 4, in <module>
+    from airflow.providers.postgres.operators.postgres import PostgresOperator
+ModuleNotFoundError: No module named 'airflow.providers.postgres'
+[2022-07-30 23:14:56,000] {processor.py:653} WARNING - No viable dags retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:14:56,016] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.029 seconds
+[2022-07-30 23:15:33,741] {processor.py:153} INFO - Started process (PID=6767) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:15:33,742] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:15:33,742] {logging_mixin.py:115} INFO - [2022-07-30 23:15:33,742] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:15:33,749] {logging_mixin.py:115} INFO - [2022-07-30 23:15:33,749] {dagbag.py:321} ERROR - Failed to import: /home/hp/airflow/dags/create_dag_data_loader.py
+Traceback (most recent call last):
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/hp/airflow/dags/create_dag_data_loader.py", line 4, in <module>
+    from airflow.providers.postgres.operators.postgres import PostgresOperator
+ModuleNotFoundError: No module named 'airflow.providers.postgres'
+[2022-07-30 23:15:33,750] {processor.py:653} WARNING - No viable dags retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:15:33,766] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.027 seconds
+[2022-07-30 23:16:11,055] {processor.py:153} INFO - Started process (PID=7052) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:16:11,055] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:16:11,056] {logging_mixin.py:115} INFO - [2022-07-30 23:16:11,056] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:16:11,060] {logging_mixin.py:115} INFO - [2022-07-30 23:16:11,060] {dagbag.py:321} ERROR - Failed to import: /home/hp/airflow/dags/create_dag_data_loader.py
+Traceback (most recent call last):
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/hp/airflow/dags/create_dag_data_loader.py", line 4, in <module>
+    from airflow.providers.postgres.operators.postgres import PostgresOperator
+ModuleNotFoundError: No module named 'airflow.providers.postgres'
+[2022-07-30 23:16:11,060] {processor.py:653} WARNING - No viable dags retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:16:11,074] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.021 seconds
+[2022-07-30 23:16:49,173] {processor.py:153} INFO - Started process (PID=7352) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:16:49,174] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:16:49,174] {logging_mixin.py:115} INFO - [2022-07-30 23:16:49,174] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:16:49,183] {logging_mixin.py:115} INFO - [2022-07-30 23:16:49,183] {dagbag.py:321} ERROR - Failed to import: /home/hp/airflow/dags/create_dag_data_loader.py
+Traceback (most recent call last):
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/hp/airflow/dags/create_dag_data_loader.py", line 4, in <module>
+    from airflow.providers.postgres.operators.postgres import PostgresOperator
+ModuleNotFoundError: No module named 'airflow.providers.postgres'
+[2022-07-30 23:16:49,183] {processor.py:653} WARNING - No viable dags retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:16:49,196] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.028 seconds
+[2022-07-30 23:17:22,893] {processor.py:153} INFO - Started process (PID=7557) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:17:22,894] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:17:22,894] {logging_mixin.py:115} INFO - [2022-07-30 23:17:22,894] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:17:22,900] {logging_mixin.py:115} INFO - [2022-07-30 23:17:22,900] {dagbag.py:321} ERROR - Failed to import: /home/hp/airflow/dags/create_dag_data_loader.py
+Traceback (most recent call last):
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/hp/airflow/dags/create_dag_data_loader.py", line 4, in <module>
+    from airflow.providers.postgres.operators.postgres import PostgresOperator
+ModuleNotFoundError: No module named 'airflow.providers.postgres'
+[2022-07-30 23:17:22,901] {processor.py:653} WARNING - No viable dags retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:17:22,912] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.020 seconds
+[2022-07-30 23:18:01,214] {processor.py:153} INFO - Started process (PID=7882) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:18:01,215] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:18:01,216] {logging_mixin.py:115} INFO - [2022-07-30 23:18:01,216] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:18:01,222] {logging_mixin.py:115} INFO - [2022-07-30 23:18:01,222] {dagbag.py:321} ERROR - Failed to import: /home/hp/airflow/dags/create_dag_data_loader.py
+Traceback (most recent call last):
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/hp/airflow/dags/create_dag_data_loader.py", line 4, in <module>
+    from airflow.providers.postgres.operators.postgres import PostgresOperator
+ModuleNotFoundError: No module named 'airflow.providers.postgres'
+[2022-07-30 23:18:01,223] {processor.py:653} WARNING - No viable dags retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:18:01,236] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.026 seconds
+[2022-07-30 23:20:36,366] {processor.py:153} INFO - Started process (PID=9015) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:20:36,367] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:20:36,368] {logging_mixin.py:115} INFO - [2022-07-30 23:20:36,368] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:20:36,380] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:20:36,387] {logging_mixin.py:115} INFO - [2022-07-30 23:20:36,387] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:20:36,399] {logging_mixin.py:115} INFO - [2022-07-30 23:20:36,399] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:20:36,415] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.053 seconds
+[2022-07-30 23:25:18,583] {processor.py:153} INFO - Started process (PID=10773) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:25:18,584] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:25:18,584] {logging_mixin.py:115} INFO - [2022-07-30 23:25:18,584] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:25:18,591] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:25:18,598] {logging_mixin.py:115} INFO - [2022-07-30 23:25:18,598] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:25:18,607] {logging_mixin.py:115} INFO - [2022-07-30 23:25:18,607] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:25:18,617] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.036 seconds
+[2022-07-30 23:26:12,682] {processor.py:153} INFO - Started process (PID=11335) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:26:12,683] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:26:12,683] {logging_mixin.py:115} INFO - [2022-07-30 23:26:12,683] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:26:12,700] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:26:12,709] {logging_mixin.py:115} INFO - [2022-07-30 23:26:12,709] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:26:12,717] {logging_mixin.py:115} INFO - [2022-07-30 23:26:12,717] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:26:12,726] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.046 seconds
+[2022-07-30 23:26:48,729] {processor.py:153} INFO - Started process (PID=11847) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:26:48,730] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:26:48,731] {logging_mixin.py:115} INFO - [2022-07-30 23:26:48,731] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:26:48,743] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:26:48,752] {logging_mixin.py:115} INFO - [2022-07-30 23:26:48,752] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:26:48,765] {logging_mixin.py:115} INFO - [2022-07-30 23:26:48,765] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:26:48,775] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.048 seconds
+[2022-07-30 23:27:26,447] {processor.py:153} INFO - Started process (PID=12450) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:27:26,449] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:27:26,449] {logging_mixin.py:115} INFO - [2022-07-30 23:27:26,449] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:27:26,463] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:27:26,470] {logging_mixin.py:115} INFO - [2022-07-30 23:27:26,470] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:27:26,479] {logging_mixin.py:115} INFO - [2022-07-30 23:27:26,479] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:27:26,488] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.044 seconds
+[2022-07-30 23:28:05,175] {processor.py:153} INFO - Started process (PID=12818) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:28:05,176] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:28:05,176] {logging_mixin.py:115} INFO - [2022-07-30 23:28:05,176] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:28:05,186] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:28:05,195] {logging_mixin.py:115} INFO - [2022-07-30 23:28:05,195] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:28:05,205] {logging_mixin.py:115} INFO - [2022-07-30 23:28:05,205] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:28:05,213] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 23:28:39,904] {processor.py:153} INFO - Started process (PID=13211) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:28:39,905] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:28:39,905] {logging_mixin.py:115} INFO - [2022-07-30 23:28:39,905] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:28:39,916] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:28:39,924] {logging_mixin.py:115} INFO - [2022-07-30 23:28:39,923] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:28:39,933] {logging_mixin.py:115} INFO - [2022-07-30 23:28:39,933] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:28:39,942] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.039 seconds
+[2022-07-30 23:29:17,020] {processor.py:153} INFO - Started process (PID=13724) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:29:17,021] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:29:17,021] {logging_mixin.py:115} INFO - [2022-07-30 23:29:17,021] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:29:17,034] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:29:17,041] {logging_mixin.py:115} INFO - [2022-07-30 23:29:17,041] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:29:17,049] {logging_mixin.py:115} INFO - [2022-07-30 23:29:17,049] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:29:17,058] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 23:29:54,235] {processor.py:153} INFO - Started process (PID=14029) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:29:54,236] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:29:54,237] {logging_mixin.py:115} INFO - [2022-07-30 23:29:54,237] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:29:54,251] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:29:54,258] {logging_mixin.py:115} INFO - [2022-07-30 23:29:54,258] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:29:54,267] {logging_mixin.py:115} INFO - [2022-07-30 23:29:54,267] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:29:54,276] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.045 seconds
+[2022-07-30 23:30:30,316] {processor.py:153} INFO - Started process (PID=14434) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:30:30,318] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:30:30,318] {logging_mixin.py:115} INFO - [2022-07-30 23:30:30,318] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:30:30,332] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:30:30,339] {logging_mixin.py:115} INFO - [2022-07-30 23:30:30,339] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:30:30,350] {logging_mixin.py:115} INFO - [2022-07-30 23:30:30,350] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:30:30,360] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.049 seconds
+[2022-07-30 23:31:07,880] {processor.py:153} INFO - Started process (PID=14836) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:31:07,881] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:31:07,881] {logging_mixin.py:115} INFO - [2022-07-30 23:31:07,881] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:31:07,889] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:31:07,896] {logging_mixin.py:115} INFO - [2022-07-30 23:31:07,896] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:31:07,906] {logging_mixin.py:115} INFO - [2022-07-30 23:31:07,906] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:31:07,915] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-30 23:31:43,904] {processor.py:153} INFO - Started process (PID=15073) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:31:43,905] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:31:43,905] {logging_mixin.py:115} INFO - [2022-07-30 23:31:43,905] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:31:43,913] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:31:43,920] {logging_mixin.py:115} INFO - [2022-07-30 23:31:43,920] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:31:43,929] {logging_mixin.py:115} INFO - [2022-07-30 23:31:43,929] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:31:43,938] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.036 seconds
+[2022-07-30 23:32:18,688] {processor.py:153} INFO - Started process (PID=15258) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:32:18,689] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:32:18,689] {logging_mixin.py:115} INFO - [2022-07-30 23:32:18,689] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:32:18,704] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:32:18,710] {logging_mixin.py:115} INFO - [2022-07-30 23:32:18,710] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:32:18,719] {logging_mixin.py:115} INFO - [2022-07-30 23:32:18,719] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:32:18,727] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.044 seconds
+[2022-07-30 23:32:54,549] {processor.py:153} INFO - Started process (PID=15461) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:32:54,550] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:32:54,550] {logging_mixin.py:115} INFO - [2022-07-30 23:32:54,550] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:32:54,558] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:32:54,564] {logging_mixin.py:115} INFO - [2022-07-30 23:32:54,564] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:32:54,573] {logging_mixin.py:115} INFO - [2022-07-30 23:32:54,573] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:32:54,582] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.036 seconds
+[2022-07-30 23:33:29,633] {processor.py:153} INFO - Started process (PID=15661) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:33:29,634] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:33:29,634] {logging_mixin.py:115} INFO - [2022-07-30 23:33:29,634] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:33:29,649] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:33:29,656] {logging_mixin.py:115} INFO - [2022-07-30 23:33:29,656] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:33:29,664] {logging_mixin.py:115} INFO - [2022-07-30 23:33:29,664] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:33:29,673] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.045 seconds
+[2022-07-30 23:34:06,259] {processor.py:153} INFO - Started process (PID=15784) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:34:06,260] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:34:06,260] {logging_mixin.py:115} INFO - [2022-07-30 23:34:06,260] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:34:06,268] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:34:06,275] {logging_mixin.py:115} INFO - [2022-07-30 23:34:06,275] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:34:06,284] {logging_mixin.py:115} INFO - [2022-07-30 23:34:06,284] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:34:06,292] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.035 seconds
+[2022-07-30 23:34:41,689] {processor.py:153} INFO - Started process (PID=16046) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:34:41,690] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:34:41,690] {logging_mixin.py:115} INFO - [2022-07-30 23:34:41,690] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:34:41,699] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:34:41,706] {logging_mixin.py:115} INFO - [2022-07-30 23:34:41,706] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:34:41,714] {logging_mixin.py:115} INFO - [2022-07-30 23:34:41,714] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:34:41,723] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.035 seconds
+[2022-07-30 23:35:17,058] {processor.py:153} INFO - Started process (PID=16230) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:35:17,059] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:35:17,059] {logging_mixin.py:115} INFO - [2022-07-30 23:35:17,059] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:35:17,073] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:35:17,080] {logging_mixin.py:115} INFO - [2022-07-30 23:35:17,080] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:35:17,088] {logging_mixin.py:115} INFO - [2022-07-30 23:35:17,088] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:35:17,097] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.043 seconds
+[2022-07-30 23:35:52,565] {processor.py:153} INFO - Started process (PID=16470) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:35:52,566] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:35:52,567] {logging_mixin.py:115} INFO - [2022-07-30 23:35:52,567] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:35:52,574] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:35:52,583] {logging_mixin.py:115} INFO - [2022-07-30 23:35:52,583] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:35:52,593] {logging_mixin.py:115} INFO - [2022-07-30 23:35:52,593] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:35:52,603] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.041 seconds
+[2022-07-30 23:36:28,200] {processor.py:153} INFO - Started process (PID=16715) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:36:28,201] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:36:28,202] {logging_mixin.py:115} INFO - [2022-07-30 23:36:28,202] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:36:28,216] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:36:28,224] {logging_mixin.py:115} INFO - [2022-07-30 23:36:28,224] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:36:28,235] {logging_mixin.py:115} INFO - [2022-07-30 23:36:28,235] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:36:28,244] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.048 seconds
+[2022-07-30 23:37:03,675] {processor.py:153} INFO - Started process (PID=17064) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:37:03,675] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:37:03,676] {logging_mixin.py:115} INFO - [2022-07-30 23:37:03,675] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:37:03,684] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:37:03,692] {logging_mixin.py:115} INFO - [2022-07-30 23:37:03,692] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:37:03,701] {logging_mixin.py:115} INFO - [2022-07-30 23:37:03,701] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:37:03,710] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-30 23:37:38,549] {processor.py:153} INFO - Started process (PID=17225) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:37:38,550] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:37:38,550] {logging_mixin.py:115} INFO - [2022-07-30 23:37:38,550] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:37:38,563] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:37:38,570] {logging_mixin.py:115} INFO - [2022-07-30 23:37:38,570] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:37:38,579] {logging_mixin.py:115} INFO - [2022-07-30 23:37:38,578] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:37:38,587] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.043 seconds
+[2022-07-30 23:38:14,516] {processor.py:153} INFO - Started process (PID=17389) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:38:14,516] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:38:14,517] {logging_mixin.py:115} INFO - [2022-07-30 23:38:14,517] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:38:14,524] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:38:14,531] {logging_mixin.py:115} INFO - [2022-07-30 23:38:14,531] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:38:14,539] {logging_mixin.py:115} INFO - [2022-07-30 23:38:14,539] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:38:14,548] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.034 seconds
+[2022-07-30 23:38:50,522] {processor.py:153} INFO - Started process (PID=17525) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:38:50,523] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:38:50,524] {logging_mixin.py:115} INFO - [2022-07-30 23:38:50,524] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:38:50,536] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:38:50,543] {logging_mixin.py:115} INFO - [2022-07-30 23:38:50,543] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:38:50,552] {logging_mixin.py:115} INFO - [2022-07-30 23:38:50,552] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:38:50,562] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.045 seconds
+[2022-07-30 23:39:26,460] {processor.py:153} INFO - Started process (PID=17748) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:39:26,461] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:39:26,461] {logging_mixin.py:115} INFO - [2022-07-30 23:39:26,461] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:39:26,469] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:39:26,477] {logging_mixin.py:115} INFO - [2022-07-30 23:39:26,477] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:39:26,486] {logging_mixin.py:115} INFO - [2022-07-30 23:39:26,486] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:39:26,497] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.039 seconds
+[2022-07-30 23:40:02,181] {processor.py:153} INFO - Started process (PID=17960) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:40:02,182] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:40:02,182] {logging_mixin.py:115} INFO - [2022-07-30 23:40:02,182] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:40:02,193] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:40:02,199] {logging_mixin.py:115} INFO - [2022-07-30 23:40:02,199] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:40:02,208] {logging_mixin.py:115} INFO - [2022-07-30 23:40:02,208] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:40:02,217] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.040 seconds
+[2022-07-30 23:40:37,437] {processor.py:153} INFO - Started process (PID=18139) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:40:37,438] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:40:37,439] {logging_mixin.py:115} INFO - [2022-07-30 23:40:37,439] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:40:37,453] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:40:37,460] {logging_mixin.py:115} INFO - [2022-07-30 23:40:37,460] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:40:37,468] {logging_mixin.py:115} INFO - [2022-07-30 23:40:37,468] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:40:37,476] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.043 seconds
+[2022-07-30 23:41:14,077] {processor.py:153} INFO - Started process (PID=18521) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:41:14,078] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:41:14,079] {logging_mixin.py:115} INFO - [2022-07-30 23:41:14,079] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:41:14,091] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:41:14,098] {logging_mixin.py:115} INFO - [2022-07-30 23:41:14,098] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:41:14,107] {logging_mixin.py:115} INFO - [2022-07-30 23:41:14,107] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:41:14,115] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 23:41:48,157] {processor.py:153} INFO - Started process (PID=18709) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:41:48,158] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:41:48,158] {logging_mixin.py:115} INFO - [2022-07-30 23:41:48,158] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:41:48,165] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:41:48,174] {logging_mixin.py:115} INFO - [2022-07-30 23:41:48,174] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:41:48,187] {logging_mixin.py:115} INFO - [2022-07-30 23:41:48,187] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:41:48,195] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.039 seconds
+[2022-07-30 23:42:22,697] {processor.py:153} INFO - Started process (PID=18942) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:42:22,698] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:42:22,698] {logging_mixin.py:115} INFO - [2022-07-30 23:42:22,698] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:42:22,707] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:42:22,718] {logging_mixin.py:115} INFO - [2022-07-30 23:42:22,718] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:42:22,731] {logging_mixin.py:115} INFO - [2022-07-30 23:42:22,731] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:42:22,742] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.046 seconds
+[2022-07-30 23:42:59,830] {processor.py:153} INFO - Started process (PID=19181) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:42:59,832] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:42:59,832] {logging_mixin.py:115} INFO - [2022-07-30 23:42:59,832] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:42:59,844] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:42:59,854] {logging_mixin.py:115} INFO - [2022-07-30 23:42:59,853] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:42:59,862] {logging_mixin.py:115} INFO - [2022-07-30 23:42:59,862] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:42:59,870] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.044 seconds
+[2022-07-30 23:43:34,672] {processor.py:153} INFO - Started process (PID=19540) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:43:34,673] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:43:34,673] {logging_mixin.py:115} INFO - [2022-07-30 23:43:34,673] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:43:34,680] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:43:34,690] {logging_mixin.py:115} INFO - [2022-07-30 23:43:34,690] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:43:34,701] {logging_mixin.py:115} INFO - [2022-07-30 23:43:34,701] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:43:34,712] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 23:44:10,550] {processor.py:153} INFO - Started process (PID=19890) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:44:10,551] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:44:10,552] {logging_mixin.py:115} INFO - [2022-07-30 23:44:10,551] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:44:10,566] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:44:10,573] {logging_mixin.py:115} INFO - [2022-07-30 23:44:10,572] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:44:10,581] {logging_mixin.py:115} INFO - [2022-07-30 23:44:10,581] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:44:10,589] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.043 seconds
+[2022-07-30 23:44:47,377] {processor.py:153} INFO - Started process (PID=20222) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:44:47,378] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:44:47,378] {logging_mixin.py:115} INFO - [2022-07-30 23:44:47,378] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:44:47,391] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:44:47,398] {logging_mixin.py:115} INFO - [2022-07-30 23:44:47,398] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:44:47,407] {logging_mixin.py:115} INFO - [2022-07-30 23:44:47,407] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:44:47,415] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 23:45:24,663] {processor.py:153} INFO - Started process (PID=20451) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:45:24,664] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:45:24,664] {logging_mixin.py:115} INFO - [2022-07-30 23:45:24,664] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:45:24,671] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:45:24,679] {logging_mixin.py:115} INFO - [2022-07-30 23:45:24,679] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:45:24,689] {logging_mixin.py:115} INFO - [2022-07-30 23:45:24,689] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:45:24,698] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.036 seconds
+[2022-07-30 23:45:59,343] {processor.py:153} INFO - Started process (PID=20622) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:45:59,345] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:45:59,345] {logging_mixin.py:115} INFO - [2022-07-30 23:45:59,345] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:45:59,361] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:45:59,368] {logging_mixin.py:115} INFO - [2022-07-30 23:45:59,368] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:45:59,376] {logging_mixin.py:115} INFO - [2022-07-30 23:45:59,376] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:45:59,384] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.045 seconds
+[2022-07-30 23:46:36,538] {processor.py:153} INFO - Started process (PID=20888) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:46:36,538] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:46:36,539] {logging_mixin.py:115} INFO - [2022-07-30 23:46:36,539] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:46:36,546] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:46:36,554] {logging_mixin.py:115} INFO - [2022-07-30 23:46:36,554] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:46:36,564] {logging_mixin.py:115} INFO - [2022-07-30 23:46:36,564] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:46:36,573] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.036 seconds
+[2022-07-30 23:47:11,329] {processor.py:153} INFO - Started process (PID=21085) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:47:11,330] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:47:11,331] {logging_mixin.py:115} INFO - [2022-07-30 23:47:11,331] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:47:11,348] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:47:11,357] {logging_mixin.py:115} INFO - [2022-07-30 23:47:11,357] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:47:11,366] {logging_mixin.py:115} INFO - [2022-07-30 23:47:11,366] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:47:11,375] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.050 seconds
+[2022-07-30 23:47:48,835] {processor.py:153} INFO - Started process (PID=21358) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:47:48,835] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:47:48,836] {logging_mixin.py:115} INFO - [2022-07-30 23:47:48,836] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:47:48,843] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:47:48,852] {logging_mixin.py:115} INFO - [2022-07-30 23:47:48,852] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:47:48,863] {logging_mixin.py:115} INFO - [2022-07-30 23:47:48,862] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:47:48,871] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-30 23:48:23,429] {processor.py:153} INFO - Started process (PID=21721) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:48:23,430] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:48:23,430] {logging_mixin.py:115} INFO - [2022-07-30 23:48:23,430] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:48:23,441] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:48:23,448] {logging_mixin.py:115} INFO - [2022-07-30 23:48:23,448] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:48:23,456] {logging_mixin.py:115} INFO - [2022-07-30 23:48:23,456] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:48:23,465] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.039 seconds
+[2022-07-30 23:48:59,330] {processor.py:153} INFO - Started process (PID=21869) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:48:59,331] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:48:59,331] {logging_mixin.py:115} INFO - [2022-07-30 23:48:59,331] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:48:59,345] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:48:59,354] {logging_mixin.py:115} INFO - [2022-07-30 23:48:59,354] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:48:59,363] {logging_mixin.py:115} INFO - [2022-07-30 23:48:59,363] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:48:59,371] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.045 seconds
+[2022-07-30 23:49:37,013] {processor.py:153} INFO - Started process (PID=22069) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:49:37,014] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:49:37,015] {logging_mixin.py:115} INFO - [2022-07-30 23:49:37,015] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:49:37,026] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:49:37,033] {logging_mixin.py:115} INFO - [2022-07-30 23:49:37,033] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:49:37,041] {logging_mixin.py:115} INFO - [2022-07-30 23:49:37,041] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:49:37,049] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.040 seconds
+[2022-07-30 23:50:13,492] {processor.py:153} INFO - Started process (PID=22270) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:50:13,493] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:50:13,493] {logging_mixin.py:115} INFO - [2022-07-30 23:50:13,493] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:50:13,501] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:50:13,510] {logging_mixin.py:115} INFO - [2022-07-30 23:50:13,510] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:50:13,520] {logging_mixin.py:115} INFO - [2022-07-30 23:50:13,520] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:50:13,530] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.039 seconds
+[2022-07-30 23:50:49,637] {processor.py:153} INFO - Started process (PID=22608) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:50:49,637] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:50:49,638] {logging_mixin.py:115} INFO - [2022-07-30 23:50:49,638] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:50:49,646] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:50:49,652] {logging_mixin.py:115} INFO - [2022-07-30 23:50:49,652] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:50:49,662] {logging_mixin.py:115} INFO - [2022-07-30 23:50:49,662] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:50:49,670] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.034 seconds
+[2022-07-30 23:51:25,457] {processor.py:153} INFO - Started process (PID=22850) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:51:25,458] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:51:25,459] {logging_mixin.py:115} INFO - [2022-07-30 23:51:25,459] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:51:25,472] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:51:25,479] {logging_mixin.py:115} INFO - [2022-07-30 23:51:25,479] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:51:25,487] {logging_mixin.py:115} INFO - [2022-07-30 23:51:25,487] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:51:25,495] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 23:51:59,611] {processor.py:153} INFO - Started process (PID=23114) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:51:59,612] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:51:59,612] {logging_mixin.py:115} INFO - [2022-07-30 23:51:59,612] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:51:59,622] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:51:59,631] {logging_mixin.py:115} INFO - [2022-07-30 23:51:59,630] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:51:59,639] {logging_mixin.py:115} INFO - [2022-07-30 23:51:59,639] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:51:59,648] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.041 seconds
+[2022-07-30 23:52:37,324] {processor.py:153} INFO - Started process (PID=23317) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:52:37,325] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:52:37,326] {logging_mixin.py:115} INFO - [2022-07-30 23:52:37,326] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:52:37,340] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:52:37,347] {logging_mixin.py:115} INFO - [2022-07-30 23:52:37,347] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:52:37,357] {logging_mixin.py:115} INFO - [2022-07-30 23:52:37,357] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:52:37,365] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.044 seconds
+[2022-07-30 23:53:14,064] {processor.py:153} INFO - Started process (PID=23543) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:53:14,065] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:53:14,066] {logging_mixin.py:115} INFO - [2022-07-30 23:53:14,065] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:53:14,079] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:53:14,086] {logging_mixin.py:115} INFO - [2022-07-30 23:53:14,086] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:53:14,094] {logging_mixin.py:115} INFO - [2022-07-30 23:53:14,094] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:53:14,102] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 23:53:48,924] {processor.py:153} INFO - Started process (PID=23721) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:53:48,924] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:53:48,924] {logging_mixin.py:115} INFO - [2022-07-30 23:53:48,924] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:53:48,932] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:53:48,941] {logging_mixin.py:115} INFO - [2022-07-30 23:53:48,941] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:53:48,954] {logging_mixin.py:115} INFO - [2022-07-30 23:53:48,954] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:53:48,964] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 23:54:26,601] {processor.py:153} INFO - Started process (PID=24080) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:54:26,602] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:54:26,603] {logging_mixin.py:115} INFO - [2022-07-30 23:54:26,603] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:54:26,611] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:54:26,617] {logging_mixin.py:115} INFO - [2022-07-30 23:54:26,617] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:54:26,626] {logging_mixin.py:115} INFO - [2022-07-30 23:54:26,626] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:54:26,636] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-30 23:55:00,894] {processor.py:153} INFO - Started process (PID=24375) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:55:00,896] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:55:00,896] {logging_mixin.py:115} INFO - [2022-07-30 23:55:00,896] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:55:00,911] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:55:00,917] {logging_mixin.py:115} INFO - [2022-07-30 23:55:00,917] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:55:00,925] {logging_mixin.py:115} INFO - [2022-07-30 23:55:00,925] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:55:00,935] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.045 seconds
+[2022-07-30 23:55:37,563] {processor.py:153} INFO - Started process (PID=24539) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:55:37,564] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:55:37,565] {logging_mixin.py:115} INFO - [2022-07-30 23:55:37,565] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:55:37,578] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:55:37,585] {logging_mixin.py:115} INFO - [2022-07-30 23:55:37,585] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:55:37,593] {logging_mixin.py:115} INFO - [2022-07-30 23:55:37,593] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:55:37,601] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-30 23:56:12,748] {processor.py:153} INFO - Started process (PID=24733) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:56:12,749] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:56:12,750] {logging_mixin.py:115} INFO - [2022-07-30 23:56:12,749] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:56:12,763] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:56:12,771] {logging_mixin.py:115} INFO - [2022-07-30 23:56:12,771] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:56:12,778] {logging_mixin.py:115} INFO - [2022-07-30 23:56:12,778] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:56:12,786] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.043 seconds
+[2022-07-30 23:56:47,299] {processor.py:153} INFO - Started process (PID=24902) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:56:47,300] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:56:47,301] {logging_mixin.py:115} INFO - [2022-07-30 23:56:47,301] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:56:47,310] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:56:47,318] {logging_mixin.py:115} INFO - [2022-07-30 23:56:47,318] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:56:47,325] {logging_mixin.py:115} INFO - [2022-07-30 23:56:47,325] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:56:47,333] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.036 seconds
+[2022-07-30 23:57:23,844] {processor.py:153} INFO - Started process (PID=25331) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:57:23,845] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:57:23,845] {logging_mixin.py:115} INFO - [2022-07-30 23:57:23,845] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:57:23,853] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:57:23,863] {logging_mixin.py:115} INFO - [2022-07-30 23:57:23,863] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:57:23,871] {logging_mixin.py:115} INFO - [2022-07-30 23:57:23,871] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:57:23,881] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.039 seconds
+[2022-07-30 23:57:59,400] {processor.py:153} INFO - Started process (PID=25505) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:57:59,401] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:57:59,401] {logging_mixin.py:115} INFO - [2022-07-30 23:57:59,401] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:57:59,408] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:57:59,417] {logging_mixin.py:115} INFO - [2022-07-30 23:57:59,417] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:57:59,426] {logging_mixin.py:115} INFO - [2022-07-30 23:57:59,426] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:57:59,436] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-30 23:58:36,633] {processor.py:153} INFO - Started process (PID=25760) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:58:36,634] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:58:36,634] {logging_mixin.py:115} INFO - [2022-07-30 23:58:36,634] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:58:36,648] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:58:36,656] {logging_mixin.py:115} INFO - [2022-07-30 23:58:36,656] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:58:36,664] {logging_mixin.py:115} INFO - [2022-07-30 23:58:36,664] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:58:36,672] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.044 seconds
+[2022-07-30 23:59:10,975] {processor.py:153} INFO - Started process (PID=25969) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:59:10,977] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:59:10,977] {logging_mixin.py:115} INFO - [2022-07-30 23:59:10,977] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:59:10,988] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:59:10,996] {logging_mixin.py:115} INFO - [2022-07-30 23:59:10,996] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:59:11,004] {logging_mixin.py:115} INFO - [2022-07-30 23:59:11,004] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:59:11,012] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.041 seconds
+[2022-07-30 23:59:46,352] {processor.py:153} INFO - Started process (PID=26150) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:59:46,352] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-30 23:59:46,353] {logging_mixin.py:115} INFO - [2022-07-30 23:59:46,353] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:59:46,365] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-30 23:59:46,373] {logging_mixin.py:115} INFO - [2022-07-30 23:59:46,373] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-30 23:59:46,380] {logging_mixin.py:115} INFO - [2022-07-30 23:59:46,380] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-30 23:59:46,388] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.040 seconds
+[2022-07-31 00:00:22,378] {processor.py:153} INFO - Started process (PID=26543) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:00:22,379] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:00:22,380] {logging_mixin.py:115} INFO - [2022-07-31 00:00:22,380] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:00:22,394] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:00:22,401] {logging_mixin.py:115} INFO - [2022-07-31 00:00:22,401] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:00:22,409] {logging_mixin.py:115} INFO - [2022-07-31 00:00:22,409] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:00:22,417] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.043 seconds
+[2022-07-31 00:00:57,153] {processor.py:153} INFO - Started process (PID=27241) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:00:57,154] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:00:57,155] {logging_mixin.py:115} INFO - [2022-07-31 00:00:57,155] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:00:57,167] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:00:57,174] {logging_mixin.py:115} INFO - [2022-07-31 00:00:57,174] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:00:57,182] {logging_mixin.py:115} INFO - [2022-07-31 00:00:57,182] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:00:57,190] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.041 seconds
+[2022-07-31 00:01:35,450] {processor.py:153} INFO - Started process (PID=27435) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:01:35,451] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:01:35,451] {logging_mixin.py:115} INFO - [2022-07-31 00:01:35,451] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:01:35,461] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:01:35,471] {logging_mixin.py:115} INFO - [2022-07-31 00:01:35,470] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:01:35,479] {logging_mixin.py:115} INFO - [2022-07-31 00:01:35,479] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:01:35,487] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-31 00:02:11,246] {processor.py:153} INFO - Started process (PID=27620) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:02:11,247] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:02:11,247] {logging_mixin.py:115} INFO - [2022-07-31 00:02:11,247] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:02:11,258] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:02:11,266] {logging_mixin.py:115} INFO - [2022-07-31 00:02:11,266] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:02:11,273] {logging_mixin.py:115} INFO - [2022-07-31 00:02:11,273] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:02:11,281] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.036 seconds
+[2022-07-31 00:02:46,143] {processor.py:153} INFO - Started process (PID=27832) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:02:46,144] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:02:46,144] {logging_mixin.py:115} INFO - [2022-07-31 00:02:46,144] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:02:46,155] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:02:46,163] {logging_mixin.py:115} INFO - [2022-07-31 00:02:46,163] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:02:46,171] {logging_mixin.py:115} INFO - [2022-07-31 00:02:46,171] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:02:46,179] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-31 00:03:22,505] {processor.py:153} INFO - Started process (PID=28114) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:03:22,506] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:03:22,507] {logging_mixin.py:115} INFO - [2022-07-31 00:03:22,507] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:03:22,516] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:03:22,524] {logging_mixin.py:115} INFO - [2022-07-31 00:03:22,524] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:03:22,531] {logging_mixin.py:115} INFO - [2022-07-31 00:03:22,531] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:03:22,539] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-31 00:03:58,355] {processor.py:153} INFO - Started process (PID=28469) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:03:58,356] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:03:58,357] {logging_mixin.py:115} INFO - [2022-07-31 00:03:58,356] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:03:58,365] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:03:58,373] {logging_mixin.py:115} INFO - [2022-07-31 00:03:58,373] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:03:58,381] {logging_mixin.py:115} INFO - [2022-07-31 00:03:58,381] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:03:58,389] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.035 seconds
+[2022-07-31 00:04:35,684] {processor.py:153} INFO - Started process (PID=28680) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:04:35,685] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:04:35,685] {logging_mixin.py:115} INFO - [2022-07-31 00:04:35,685] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:04:35,695] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:04:35,708] {logging_mixin.py:115} INFO - [2022-07-31 00:04:35,708] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:04:35,721] {logging_mixin.py:115} INFO - [2022-07-31 00:04:35,721] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:04:35,730] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.048 seconds
+[2022-07-31 00:05:10,919] {processor.py:153} INFO - Started process (PID=29113) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:05:10,920] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:05:10,920] {logging_mixin.py:115} INFO - [2022-07-31 00:05:10,920] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:05:10,932] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:05:10,939] {logging_mixin.py:115} INFO - [2022-07-31 00:05:10,939] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:05:10,947] {logging_mixin.py:115} INFO - [2022-07-31 00:05:10,947] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:05:10,955] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.037 seconds
+[2022-07-31 00:05:44,662] {processor.py:153} INFO - Started process (PID=29308) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:05:44,663] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:05:44,663] {logging_mixin.py:115} INFO - [2022-07-31 00:05:44,663] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:05:44,671] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:05:44,679] {logging_mixin.py:115} INFO - [2022-07-31 00:05:44,679] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:05:44,687] {logging_mixin.py:115} INFO - [2022-07-31 00:05:44,687] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:05:44,695] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.036 seconds
+[2022-07-31 00:06:22,950] {processor.py:153} INFO - Started process (PID=29585) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:06:22,951] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:06:22,951] {logging_mixin.py:115} INFO - [2022-07-31 00:06:22,951] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:06:22,960] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:06:22,968] {logging_mixin.py:115} INFO - [2022-07-31 00:06:22,968] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:06:22,976] {logging_mixin.py:115} INFO - [2022-07-31 00:06:22,976] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:06:22,984] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.036 seconds
+[2022-07-31 00:07:00,041] {processor.py:153} INFO - Started process (PID=29810) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:07:00,042] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:07:00,042] {logging_mixin.py:115} INFO - [2022-07-31 00:07:00,042] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:07:00,055] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:07:00,063] {logging_mixin.py:115} INFO - [2022-07-31 00:07:00,063] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:07:00,071] {logging_mixin.py:115} INFO - [2022-07-31 00:07:00,071] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:07:00,080] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-31 00:07:37,701] {processor.py:153} INFO - Started process (PID=30140) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:07:37,702] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:07:37,703] {logging_mixin.py:115} INFO - [2022-07-31 00:07:37,702] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:07:37,712] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:07:37,721] {logging_mixin.py:115} INFO - [2022-07-31 00:07:37,721] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:07:37,733] {logging_mixin.py:115} INFO - [2022-07-31 00:07:37,733] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:07:37,742] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.042 seconds
+[2022-07-31 00:08:13,165] {processor.py:153} INFO - Started process (PID=30327) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:08:13,165] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:08:13,166] {logging_mixin.py:115} INFO - [2022-07-31 00:08:13,166] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:08:13,177] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:08:13,185] {logging_mixin.py:115} INFO - [2022-07-31 00:08:13,185] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:08:13,193] {logging_mixin.py:115} INFO - [2022-07-31 00:08:13,193] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:08:13,202] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.040 seconds
+[2022-07-31 00:08:47,415] {processor.py:153} INFO - Started process (PID=30597) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:08:47,416] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:08:47,416] {logging_mixin.py:115} INFO - [2022-07-31 00:08:47,416] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:08:47,423] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:08:47,432] {logging_mixin.py:115} INFO - [2022-07-31 00:08:47,432] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:08:47,441] {logging_mixin.py:115} INFO - [2022-07-31 00:08:47,441] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:08:47,450] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.036 seconds
+[2022-07-31 00:09:22,860] {processor.py:153} INFO - Started process (PID=30856) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:09:22,861] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:09:22,861] {logging_mixin.py:115} INFO - [2022-07-31 00:09:22,861] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:09:22,868] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:09:22,876] {logging_mixin.py:115} INFO - [2022-07-31 00:09:22,876] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:09:22,884] {logging_mixin.py:115} INFO - [2022-07-31 00:09:22,884] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:09:22,892] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.033 seconds
+[2022-07-31 00:09:59,373] {processor.py:153} INFO - Started process (PID=31047) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:09:59,374] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:09:59,374] {logging_mixin.py:115} INFO - [2022-07-31 00:09:59,374] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:09:59,385] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:09:59,392] {logging_mixin.py:115} INFO - [2022-07-31 00:09:59,392] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:09:59,400] {logging_mixin.py:115} INFO - [2022-07-31 00:09:59,400] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:09:59,408] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.039 seconds
+[2022-07-31 00:10:34,838] {processor.py:153} INFO - Started process (PID=31552) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:10:34,839] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:10:34,839] {logging_mixin.py:115} INFO - [2022-07-31 00:10:34,839] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:10:34,848] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:10:34,858] {logging_mixin.py:115} INFO - [2022-07-31 00:10:34,858] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:10:34,867] {logging_mixin.py:115} INFO - [2022-07-31 00:10:34,867] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:10:34,878] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.043 seconds
+[2022-07-31 00:11:09,677] {processor.py:153} INFO - Started process (PID=31754) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:11:09,678] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:11:09,679] {logging_mixin.py:115} INFO - [2022-07-31 00:11:09,679] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:11:09,692] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:11:09,699] {logging_mixin.py:115} INFO - [2022-07-31 00:11:09,699] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:11:09,707] {logging_mixin.py:115} INFO - [2022-07-31 00:11:09,707] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:11:09,716] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.044 seconds
+[2022-07-31 00:11:46,516] {processor.py:153} INFO - Started process (PID=32018) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:11:46,517] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:11:46,518] {logging_mixin.py:115} INFO - [2022-07-31 00:11:46,518] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:11:46,531] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:11:46,537] {logging_mixin.py:115} INFO - [2022-07-31 00:11:46,537] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:11:46,545] {logging_mixin.py:115} INFO - [2022-07-31 00:11:46,545] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:11:46,555] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.041 seconds
+[2022-07-31 00:12:21,656] {processor.py:153} INFO - Started process (PID=32225) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:12:21,656] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:12:21,657] {logging_mixin.py:115} INFO - [2022-07-31 00:12:21,657] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:12:21,671] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:12:21,677] {logging_mixin.py:115} INFO - [2022-07-31 00:12:21,677] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:12:21,685] {logging_mixin.py:115} INFO - [2022-07-31 00:12:21,685] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:12:21,694] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.040 seconds
+[2022-07-31 00:12:59,433] {processor.py:153} INFO - Started process (PID=32443) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:12:59,434] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:12:59,435] {logging_mixin.py:115} INFO - [2022-07-31 00:12:59,435] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:12:59,450] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:12:59,456] {logging_mixin.py:115} INFO - [2022-07-31 00:12:59,456] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:12:59,463] {logging_mixin.py:115} INFO - [2022-07-31 00:12:59,463] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:12:59,474] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.045 seconds
+[2022-07-31 00:13:35,828] {processor.py:153} INFO - Started process (PID=32705) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:13:35,829] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:13:35,830] {logging_mixin.py:115} INFO - [2022-07-31 00:13:35,830] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:13:35,846] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:13:35,853] {logging_mixin.py:115} INFO - [2022-07-31 00:13:35,853] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:13:35,862] {logging_mixin.py:115} INFO - [2022-07-31 00:13:35,862] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:13:35,872] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.048 seconds
+[2022-07-31 00:14:11,379] {processor.py:153} INFO - Started process (PID=32937) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:14:11,379] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:14:11,380] {logging_mixin.py:115} INFO - [2022-07-31 00:14:11,379] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:14:11,392] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:14:11,400] {logging_mixin.py:115} INFO - [2022-07-31 00:14:11,399] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:14:11,408] {logging_mixin.py:115} INFO - [2022-07-31 00:14:11,408] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:14:11,418] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.043 seconds
+[2022-07-31 00:14:47,759] {processor.py:153} INFO - Started process (PID=33116) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:14:47,761] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:14:47,761] {logging_mixin.py:115} INFO - [2022-07-31 00:14:47,761] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:14:47,776] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:14:47,782] {logging_mixin.py:115} INFO - [2022-07-31 00:14:47,782] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:14:47,791] {logging_mixin.py:115} INFO - [2022-07-31 00:14:47,791] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:14:47,800] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.044 seconds
+[2022-07-31 00:15:22,324] {processor.py:153} INFO - Started process (PID=33366) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:15:22,325] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:15:22,326] {logging_mixin.py:115} INFO - [2022-07-31 00:15:22,326] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:15:22,341] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:15:22,348] {logging_mixin.py:115} INFO - [2022-07-31 00:15:22,348] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:15:22,356] {logging_mixin.py:115} INFO - [2022-07-31 00:15:22,356] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:15:22,365] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.045 seconds
+[2022-07-31 00:15:57,439] {processor.py:153} INFO - Started process (PID=33568) to work on /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:15:57,440] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_data_loader.py for tasks to queue
+[2022-07-31 00:15:57,440] {logging_mixin.py:115} INFO - [2022-07-31 00:15:57,440] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:15:57,455] {processor.py:651} INFO - DAG(s) dict_keys(['load_data']) retrieved from /home/hp/airflow/dags/create_dag_data_loader.py
+[2022-07-31 00:15:57,462] {logging_mixin.py:115} INFO - [2022-07-31 00:15:57,462] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-31 00:15:57,469] {logging_mixin.py:115} INFO - [2022-07-31 00:15:57,469] {dag.py:2968} INFO - Setting next_dagrun for load_data to None, run_after=None
+[2022-07-31 00:15:57,478] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_data_loader.py took 0.040 seconds
