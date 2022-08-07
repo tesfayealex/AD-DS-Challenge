@@ -1,0 +1,1 @@
+COPY design FROM '/home/hp/airflow/data/structured_design_data.csv' WITH DELIMITER AS ',' NULL AS '\null' CSV HEADER;

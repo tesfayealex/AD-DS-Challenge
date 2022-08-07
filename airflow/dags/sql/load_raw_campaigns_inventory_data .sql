@@ -1,0 +1,1 @@
+COPY campaigns_inventory FROM '/home/hp/airflow/data/campaigns_inventory_updated.csv' WITH DELIMITER AS ',' NULL AS '\null' CSV HEADER;
