@@ -34,3 +34,96 @@
 2022-08-09 08:45:51,171:logger:MAE Score: 0.27489254419103537
 2022-08-09 08:45:51,175:logger:Accuracy: 29.37 %.
 2022-08-09 08:45:51,230:logger:feature importance plotted
+2022-08-09 08:51:06,547:logger:successfully got catagorical columns
+2022-08-09 08:51:06,549:logger:successfully got catagorical columns
+2022-08-09 08:51:06,561:logger:successfully got numerical columns
+2022-08-09 08:51:30,624:logger:RMSE Score: 0.5160395324394668
+2022-08-09 08:51:30,627:logger:R2_Squared: -0.11578980605372347
+2022-08-09 08:51:30,628:logger:MAE Score: 0.18497853399835848
+2022-08-09 08:51:30,633:logger:Accuracy: 2.1 %.
+2022-08-09 08:51:30,633:logger:'XGBClassifier' object has no attribute 'best_estimator_'
+2022-08-09 08:51:30,634:logger:'list' object has no attribute 'keys'
+2022-08-09 08:51:30,635:logger:'NoneType' object has no attribute 'savefig'
+2022-08-09 08:54:02,773:logger:successfully got catagorical columns
+2022-08-09 08:54:02,775:logger:successfully got catagorical columns
+2022-08-09 08:54:02,787:logger:successfully got numerical columns
+2022-08-09 08:54:03,861:logger:RMSE Score: 0.5351833102585192
+2022-08-09 08:54:03,863:logger:R2_Squared: -0.19323672847201
+2022-08-09 08:54:03,864:logger:MAE Score: 0.2043610707746701
+2022-08-09 08:54:03,869:logger:Accuracy: 5.11 %.
+2022-08-09 08:54:03,871:logger:'DecisionTreeClassifier' object has no attribute 'best_estimator_'
+2022-08-09 08:54:03,872:logger:'list' object has no attribute 'keys'
+2022-08-09 08:54:03,873:logger:'NoneType' object has no attribute 'savefig'
+2022-08-09 08:55:19,367:logger:successfully got catagorical columns
+2022-08-09 08:55:19,369:logger:successfully got catagorical columns
+2022-08-09 08:55:19,380:logger:successfully got numerical columns
+2022-08-09 09:03:08,826:logger:successfully got catagorical columns
+2022-08-09 09:03:10,596:logger:successfully got catagorical columns
+2022-08-09 09:03:10,607:logger:successfully got numerical columns
+2022-08-09 09:09:06,503:logger:successfully got catagorical columns
+2022-08-09 09:09:06,507:logger:successfully got catagorical columns
+2022-08-09 09:09:06,519:logger:successfully got numerical columns
+2022-08-09 09:19:51,011:logger:successfully got catagorical columns
+2022-08-09 09:19:53,351:logger:successfully got catagorical columns
+2022-08-09 09:19:53,364:logger:successfully got numerical columns
+2022-08-09 09:19:59,210:logger:RMSE Score: 0.46702584730330876
+2022-08-09 09:19:59,211:logger:R2_Squared: 0.10190347677997069
+2022-08-09 09:19:59,212:logger:MAE Score: 0.2742608413474565
+2022-08-09 09:19:59,215:logger:Accuracy: 29.47 %.
+2022-08-09 09:19:59,304:logger:feature importance plotted
+2022-08-09 09:20:25,787:logger:successfully got catagorical columns
+2022-08-09 09:20:28,037:logger:successfully got catagorical columns
+2022-08-09 09:20:28,050:logger:successfully got numerical columns
+2022-08-09 09:20:33,951:logger:RMSE Score: 0.4684754662124932
+2022-08-09 09:20:33,953:logger:R2_Squared: 0.08758038285118774
+2022-08-09 09:20:33,954:logger:MAE Score: 0.27499828878193333
+2022-08-09 09:20:33,957:logger:Accuracy: 29.3 %.
+2022-08-09 09:20:34,006:logger:feature importance plotted
+2022-08-09 09:22:02,607:logger:successfully got catagorical columns
+2022-08-09 09:22:04,623:logger:successfully got catagorical columns
+2022-08-09 09:22:04,635:logger:successfully got numerical columns
+2022-08-09 09:22:09,769:logger:RMSE Score: 0.46403909761967976
+2022-08-09 09:22:09,770:logger:R2_Squared: 0.10596294316259114
+2022-08-09 09:22:09,771:logger:MAE Score: 0.2743118135040447
+2022-08-09 09:22:09,775:logger:Accuracy: 29.13 %.
+2022-08-09 09:22:09,820:logger:feature importance plotted
+2022-08-09 09:22:28,239:logger:successfully got catagorical columns
+2022-08-09 09:22:30,323:logger:successfully got catagorical columns
+2022-08-09 09:22:30,334:logger:successfully got numerical columns
+2022-08-09 09:22:36,027:logger:RMSE Score: 0.46456174412388923
+2022-08-09 09:22:36,029:logger:R2_Squared: 0.09551612937784981
+2022-08-09 09:22:36,030:logger:MAE Score: 0.27364243194189103
+2022-08-09 09:22:36,033:logger:Accuracy: 29.56 %.
+2022-08-09 09:22:36,085:logger:feature importance plotted
+2022-08-09 09:29:48,141:logger:successfully got catagorical columns
+2022-08-09 09:29:49,927:logger:successfully got catagorical columns
+2022-08-09 09:29:49,937:logger:successfully got numerical columns
+2022-08-09 09:29:54,079:logger:RMSE Score: 0.4608596688139303
+2022-08-09 09:29:54,081:logger:R2_Squared: 0.11287499121863909
+2022-08-09 09:29:54,081:logger:MAE Score: 0.2755344518323467
+2022-08-09 09:29:54,085:logger:Accuracy: 28.59 %.
+2022-08-09 09:29:54,144:logger:feature importance plotted
+2022-08-09 09:31:34,329:logger:successfully got catagorical columns
+2022-08-09 09:31:36,085:logger:successfully got catagorical columns
+2022-08-09 09:31:36,096:logger:successfully got numerical columns
+2022-08-09 09:31:40,394:logger:RMSE Score: 0.4627041993723848
+2022-08-09 09:31:40,395:logger:R2_Squared: 0.11344208593495708
+2022-08-09 09:31:40,396:logger:MAE Score: 0.27619647964906224
+2022-08-09 09:31:40,399:logger:Accuracy: 28.67 %.
+2022-08-09 09:31:40,444:logger:feature importance plotted
+2022-08-09 09:32:06,489:logger:successfully got catagorical columns
+2022-08-09 09:32:08,316:logger:successfully got catagorical columns
+2022-08-09 09:32:08,326:logger:successfully got numerical columns
+2022-08-09 09:32:12,509:logger:RMSE Score: 0.4603655430811437
+2022-08-09 09:32:12,511:logger:R2_Squared: 0.11432986502424036
+2022-08-09 09:32:12,512:logger:MAE Score: 0.27534334715821024
+2022-08-09 09:32:12,516:logger:Accuracy: 28.64 %.
+2022-08-09 09:32:12,562:logger:feature importance plotted
+2022-08-09 09:33:17,022:logger:successfully got catagorical columns
+2022-08-09 09:33:17,025:logger:successfully got catagorical columns
+2022-08-09 09:33:17,036:logger:successfully got numerical columns
+2022-08-09 09:34:51,358:logger:RMSE Score: 0.45629829306549985
+2022-08-09 09:34:51,360:logger:R2_Squared: 0.13189135043500388
+2022-08-09 09:34:51,361:logger:MAE Score: 0.27897323313482986
+2022-08-09 09:34:51,365:logger:Accuracy: 27.24 %.
+2022-08-09 09:34:51,412:logger:feature importance plotted
