@@ -33,3 +33,5 @@
 2022-08-10 12:07:47,907:logger:'XGBClassifier' object has no attribute 'best_estimator_'
 2022-08-10 12:07:47,908:logger:'list' object has no attribute 'keys'
 2022-08-10 12:07:47,909:logger:'NoneType' object has no attribute 'savefig'
+2022-08-10 14:21:39,031:logger:Could not interpret input 'Handset Manufacturer'
+2022-08-10 14:21:49,323:logger:Could not interpret input 'Handset Manufacturer'

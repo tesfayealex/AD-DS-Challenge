@@ -24,7 +24,7 @@ class Plotter:
     def plot_count(self, df: pd.DataFrame, column: str) -> None:
         try:
 
-            plt.figure(figsize=(12, 7))
+            plt.figure(figsize=(25, 10))
             sns.countplot(data=df, x=column)
             plt.title(f'Distribution of {column}', size=20, fontweight='bold')
             # plt.show()
