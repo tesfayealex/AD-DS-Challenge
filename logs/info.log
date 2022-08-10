@@ -325,3 +325,125 @@
 2022-08-10 08:26:42,991:logger:successfully changed height column to integer
 2022-08-10 08:26:42,991:logger:successfully finished fixing datatype
 2022-08-10 08:26:48,181:logger:successfully droped duplicates
+2022-08-10 08:29:45,668:logger:successfully fetched the data
+2022-08-10 08:32:00,753:logger:successfully displayed heatmap plot
+2022-08-10 08:32:58,666:logger:successfully displayed heatmap plot
+2022-08-10 08:39:38,823:logger:successfully got catagorical columns
+2022-08-10 08:41:48,841:logger:successfully fetched the data
+2022-08-10 08:42:05,466:logger:successfully got catagorical columns
+2022-08-10 08:42:25,707:logger:successfully displayed heatmap plot
+2022-08-10 08:44:47,653:logger:could not convert string to float: 'campaign_id'
+2022-08-10 08:45:04,442:logger:could not convert string to float: 'campaign_id'
+2022-08-10 08:47:02,075:logger:Inconsistent shape between the condition and the input (got (38, 1) and (38,))
+2022-08-10 08:47:10,124:logger:successfully displayed heatmap plot
+2022-08-10 08:58:07,504:logger:successfully fetched the data
+2022-08-10 08:58:08,960:logger:successfully got catagorical columns
+2022-08-10 09:04:19,441:logger:successfully displayed heatmap plot
+2022-08-10 09:04:35,588:logger:successfully displayed heatmap plot
+2022-08-10 09:04:43,134:logger:successfully displayed heatmap plot
+2022-08-10 09:14:41,288:logger:successfully fetched the data
+2022-08-10 09:14:42,794:logger:successfully got catagorical columns
+2022-08-10 09:14:51,558:logger:successfully displayed heatmap plot
+2022-08-10 09:16:02,347:logger:successfully fetched the data
+2022-08-10 09:16:03,779:logger:successfully got catagorical columns
+2022-08-10 09:16:10,403:logger:Inconsistent shape between the condition and the input (got (38, 1) and (38,))
+2022-08-10 09:16:44,850:logger:successfully fetched the data
+2022-08-10 09:16:46,206:logger:successfully got catagorical columns
+2022-08-10 09:16:52,707:logger:Inconsistent shape between the condition and the input (got (38, 1) and (38,))
+2022-08-10 09:20:15,530:logger:successfully displayed count plot
+2022-08-10 09:23:35,076:logger:successfully displayed count plot
+2022-08-10 09:24:06,649:logger:successfully displayed count plot
+2022-08-10 09:24:46,570:logger:successfully displayed count plot
+2022-08-10 09:25:10,444:logger:successfully displayed count plot
+2022-08-10 09:25:21,558:logger:successfully displayed count plot
+2022-08-10 09:25:37,350:logger:successfully displayed count plot
+2022-08-10 09:25:47,441:logger:successfully displayed count plot
+2022-08-10 09:48:02,962:logger:successfully fetched the data
+2022-08-10 09:50:39,958:logger:successfully got catagorical columns
+2022-08-10 09:50:40,628:logger:successfully got catagorical columns
+2022-08-10 09:50:40,637:logger:successfully got numerical columns
+2022-08-10 09:50:40,765:logger:Input contains NaN, infinity or a value too large for dtype('float32').
+2022-08-10 09:50:40,766:logger:'TrainingPipeline' object has no attribute '_TrainingPipeline__pipeline'
+2022-08-10 09:51:23,982:logger:successfully got catagorical columns
+2022-08-10 09:51:23,984:logger:successfully got catagorical columns
+2022-08-10 09:51:23,993:logger:successfully got numerical columns
+2022-08-10 09:51:24,108:logger:Input contains NaN, infinity or a value too large for dtype('float32').
+2022-08-10 09:51:24,109:logger:'TrainingPipeline' object has no attribute '_TrainingPipeline__pipeline'
+2022-08-10 09:53:51,085:logger:successfully got catagorical columns
+2022-08-10 09:53:51,088:logger:successfully got catagorical columns
+2022-08-10 09:53:51,097:logger:successfully got numerical columns
+2022-08-10 09:53:51,099:logger:Found input variables with inconsistent numbers of samples: [422223, 422227]
+2022-08-10 09:55:41,286:logger:'NoneType' object has no attribute 'select_dtypes'
+2022-08-10 09:55:41,287:logger:'NoneType' object has no attribute 'select_dtypes'
+2022-08-10 09:55:41,288:logger:'NoneType' object has no attribute 'select_dtypes'
+2022-08-10 09:55:41,289:logger:Expected sequence or array-like, got <class 'NoneType'>
+2022-08-10 09:57:28,748:logger:successfully got catagorical columns
+2022-08-10 09:57:29,353:logger:successfully got catagorical columns
+2022-08-10 09:57:29,361:logger:successfully got numerical columns
+2022-08-10 09:57:32,595:logger:RMSE Score: 0.4651539204642135
+2022-08-10 09:57:32,597:logger:R2_Squared: 0.08515848251800939
+2022-08-10 09:57:32,598:logger:MAE Score: 0.28438010698795785
+2022-08-10 09:57:32,602:logger:Accuracy: 26.43 %.
+2022-08-10 09:57:32,646:logger:feature importance plotted
+2022-08-10 09:58:12,768:logger:successfully got catagorical columns
+2022-08-10 09:58:13,468:logger:successfully got catagorical columns
+2022-08-10 09:58:13,476:logger:successfully got numerical columns
+2022-08-10 09:58:16,164:logger:RMSE Score: 2.624986332414306
+2022-08-10 09:58:16,165:logger:R2_Squared: 0.8296426470423074
+2022-08-10 09:58:16,166:logger:MAE Score: 1.4165598932211154
+2022-08-10 09:58:16,170:logger:Accuracy: 86.94 %.
+2022-08-10 09:58:16,205:logger:feature importance plotted
+2022-08-10 09:58:59,352:logger:successfully got catagorical columns
+2022-08-10 09:58:59,354:logger:successfully got catagorical columns
+2022-08-10 09:58:59,361:logger:successfully got numerical columns
+2022-08-10 09:59:58,426:logger:RMSE Score: 2.596195376088642
+2022-08-10 09:59:58,428:logger:R2_Squared: 0.8325803322008278
+2022-08-10 09:59:58,429:logger:MAE Score: 1.4170596718885624
+2022-08-10 09:59:58,432:logger:Accuracy: 86.94 %.
+2022-08-10 09:59:58,478:logger:feature importance plotted
+2022-08-10 10:12:05,972:logger:successfully got catagorical columns
+2022-08-10 10:12:06,732:logger:successfully got catagorical columns
+2022-08-10 10:12:06,739:logger:successfully got numerical columns
+2022-08-10 10:12:09,441:logger:RMSE Score: 2.595101171130596
+2022-08-10 10:12:09,442:logger:R2_Squared: 0.8333709337130125
+2022-08-10 10:12:09,444:logger:MAE Score: 1.3992130857240284
+2022-08-10 10:12:09,447:logger:Accuracy: 87.06 %.
+2022-08-10 10:12:09,489:logger:feature importance plotted
+2022-08-10 10:31:32,180:logger:successfully fetched the data
+2022-08-10 10:31:35,540:logger:successfully got catagorical columns
+2022-08-10 10:31:36,450:logger:successfully got catagorical columns
+2022-08-10 10:31:36,459:logger:successfully got numerical columns
+2022-08-10 10:31:38,582:logger:RMSE Score: 6.186850728967282
+2022-08-10 10:31:38,583:logger:R2_Squared: -0.32360487090499235
+2022-08-10 10:31:38,584:logger:MAE Score: 5.019926361110263
+2022-08-10 10:31:38,588:logger:Accuracy: 54.9 %.
+2022-08-10 10:31:38,633:logger:feature importance plotted
+2022-08-10 10:31:39,029:logger:successfully got catagorical columns
+2022-08-10 10:31:39,030:logger:successfully got catagorical columns
+2022-08-10 10:31:39,036:logger:successfully got numerical columns
+2022-08-10 10:32:11,818:logger:RMSE Score: 6.512622015421601
+2022-08-10 10:32:11,821:logger:R2_Squared: -0.4666646579309668
+2022-08-10 10:32:11,821:logger:MAE Score: 5.379871365156924
+2022-08-10 10:32:11,824:logger:Accuracy: 44.8 %.
+2022-08-10 10:32:11,861:logger:feature importance plotted
+2022-08-10 10:33:00,280:logger:successfully got catagorical columns
+2022-08-10 10:33:00,282:logger:successfully got catagorical columns
+2022-08-10 10:33:00,289:logger:successfully got numerical columns
+2022-08-10 10:33:31,868:logger:RMSE Score: 6.282900031996556
+2022-08-10 10:33:31,870:logger:R2_Squared: -0.36502114936079155
+2022-08-10 10:33:31,871:logger:MAE Score: 5.155311458142363
+2022-08-10 10:33:31,874:logger:Accuracy: 50.63 %.
+2022-08-10 10:33:31,906:logger:feature importance plotted
+2022-08-10 10:46:02,624:logger:successfully got catagorical columns
+2022-08-10 10:46:02,626:logger:successfully got catagorical columns
+2022-08-10 10:46:02,635:logger:successfully got numerical columns
+2022-08-10 11:59:49,393:logger:successfully fetched the data
+2022-08-10 12:00:04,854:logger:successfully got catagorical columns
+2022-08-10 12:00:05,679:logger:successfully got catagorical columns
+2022-08-10 12:00:05,687:logger:successfully got numerical columns
+2022-08-10 12:05:19,904:logger:successfully got catagorical columns
+2022-08-10 12:05:19,907:logger:successfully got catagorical columns
+2022-08-10 12:05:19,915:logger:successfully got numerical columns
+2022-08-10 12:05:45,954:logger:successfully got catagorical columns
+2022-08-10 12:05:45,957:logger:successfully got catagorical columns
+2022-08-10 12:05:45,964:logger:successfully got numerical columns
