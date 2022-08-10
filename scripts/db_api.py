@@ -35,6 +35,6 @@ class Database_api:
             return False
 
 if __name__ == "__main__":
-        database = database_api()
+        database = Database_api()
         warehouse = database.get_db_data_from_table_name('warehouse')
         print(warehouse.shape)

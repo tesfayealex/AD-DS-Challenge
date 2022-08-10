@@ -128,3 +128,88 @@
 2022-08-09 09:34:51,365:logger:Accuracy: 27.24 %.
 2022-08-09 09:34:51,412:logger:feature importance plotted
 2022-08-10 04:36:03,301:logger:successfully fetched the data
+2022-08-10 05:14:38,440:logger:successfully fetched the data
+2022-08-10 05:16:41,030:logger:successfully fetched the data
+2022-08-10 05:17:12,226:logger:The dataset contains 22.01 % missing values.
+2022-08-10 05:19:11,812:logger:The dataset contains 22.01 % missing values.
+2022-08-10 05:19:56,687:logger:successfully droped duplicates
+2022-08-10 05:28:20,378:logger:successfully fetched the data
+2022-08-10 05:28:24,044:logger:The dataset contains 22.01 % missing values.
+2022-08-10 05:28:27,049:logger:successfully changed device_type column to string
+2022-08-10 05:28:27,357:logger:successfully changed type column to string
+2022-08-10 05:28:27,655:logger:successfully changed campaign_id column to string
+2022-08-10 05:28:27,943:logger:successfully changed creative_id column to string
+2022-08-10 05:28:28,226:logger:successfully changed geo_country column to string
+2022-08-10 05:28:28,494:logger:successfully changed site_name column to string
+2022-08-10 05:28:28,760:logger:successfully changed agency_fee column to string
+2022-08-10 05:28:29,007:logger:successfully changed serving_locations column to string
+2022-08-10 05:28:29,233:logger:successfully changed cost_centre column to string
+2022-08-10 05:28:29,450:logger:successfully changed currency column to string
+2022-08-10 05:28:29,650:logger:successfully changed browser column to string
+2022-08-10 05:28:29,852:logger:successfully changed submission_date column to datetime
+2022-08-10 05:28:30,114:logger:successfully changed enddate column to datetime
+2022-08-10 05:28:30,356:logger:successfully changed startdate column to datetime
+2022-08-10 05:28:30,358:logger:successfully changed percentage column to integer
+2022-08-10 05:28:30,360:logger:successfully changed net_cost column to integer
+2022-08-10 05:28:30,361:logger:successfully changed flat_fee column to integer
+2022-08-10 05:28:30,362:logger:successfully changed gross_costbudget column to integer
+2022-08-10 05:28:30,364:logger:successfully changed volume_agreed column to integer
+2022-08-10 05:28:30,365:logger:successfully changed buy_rate_cpe column to integer
+2022-08-10 05:28:30,483:logger:successfully changed platform_os column to integer
+2022-08-10 05:28:30,485:logger:successfully changed width column to integer
+2022-08-10 05:28:30,487:logger:successfully changed height column to integer
+2022-08-10 05:28:30,487:logger:successfully finished fixing datatype
+2022-08-10 05:28:32,652:logger:successfully droped duplicates
+2022-08-10 05:29:50,462:logger:successfully fetched the data
+2022-08-10 05:29:53,231:logger:The dataset contains 22.01 % missing values.
+2022-08-10 05:29:55,958:logger:successfully changed device_type column to string
+2022-08-10 05:29:56,257:logger:successfully changed type column to string
+2022-08-10 05:29:56,548:logger:successfully changed campaign_id column to string
+2022-08-10 05:29:56,825:logger:successfully changed creative_id column to string
+2022-08-10 05:29:57,094:logger:successfully changed geo_country column to string
+2022-08-10 05:29:57,344:logger:successfully changed site_name column to string
+2022-08-10 05:29:57,585:logger:successfully changed agency_fee column to string
+2022-08-10 05:29:57,813:logger:successfully changed serving_locations column to string
+2022-08-10 05:29:58,029:logger:successfully changed cost_centre column to string
+2022-08-10 05:29:58,228:logger:successfully changed currency column to string
+2022-08-10 05:29:58,424:logger:successfully changed browser column to string
+2022-08-10 05:29:58,638:logger:successfully changed submission_date column to datetime
+2022-08-10 05:29:58,901:logger:successfully changed enddate column to datetime
+2022-08-10 05:29:59,147:logger:successfully changed startdate column to datetime
+2022-08-10 05:29:59,149:logger:successfully changed percentage column to integer
+2022-08-10 05:29:59,151:logger:successfully changed net_cost column to integer
+2022-08-10 05:29:59,152:logger:successfully changed flat_fee column to integer
+2022-08-10 05:29:59,154:logger:successfully changed gross_costbudget column to integer
+2022-08-10 05:29:59,156:logger:successfully changed volume_agreed column to integer
+2022-08-10 05:29:59,157:logger:successfully changed buy_rate_cpe column to integer
+2022-08-10 05:29:59,273:logger:successfully changed platform_os column to integer
+2022-08-10 05:29:59,275:logger:successfully changed width column to integer
+2022-08-10 05:29:59,277:logger:successfully changed height column to integer
+2022-08-10 05:29:59,277:logger:successfully finished fixing datatype
+2022-08-10 05:30:01,482:logger:successfully droped duplicates
+2022-08-10 05:35:45,567:logger:The dataset contains 22.01 % missing values.
+2022-08-10 05:36:19,395:logger:successfully changed device_type column to string
+2022-08-10 05:36:19,681:logger:successfully changed type column to string
+2022-08-10 05:36:19,978:logger:successfully changed campaign_id column to string
+2022-08-10 05:36:20,247:logger:successfully changed creative_id column to string
+2022-08-10 05:36:20,525:logger:successfully changed geo_country column to string
+2022-08-10 05:36:20,775:logger:successfully changed site_name column to string
+2022-08-10 05:36:21,025:logger:successfully changed agency_fee column to string
+2022-08-10 05:36:21,258:logger:successfully changed serving_locations column to string
+2022-08-10 05:36:21,468:logger:successfully changed cost_centre column to string
+2022-08-10 05:36:21,670:logger:successfully changed currency column to string
+2022-08-10 05:36:21,857:logger:successfully changed browser column to string
+2022-08-10 05:36:22,051:logger:successfully changed submission_date column to datetime
+2022-08-10 05:36:22,303:logger:successfully changed enddate column to datetime
+2022-08-10 05:36:22,544:logger:successfully changed startdate column to datetime
+2022-08-10 05:36:22,546:logger:successfully changed percentage column to integer
+2022-08-10 05:36:22,548:logger:successfully changed net_cost column to integer
+2022-08-10 05:36:22,548:logger:successfully changed flat_fee column to integer
+2022-08-10 05:36:22,549:logger:successfully changed gross_costbudget column to integer
+2022-08-10 05:36:22,552:logger:successfully changed volume_agreed column to integer
+2022-08-10 05:36:22,554:logger:successfully changed buy_rate_cpe column to integer
+2022-08-10 05:36:22,671:logger:successfully changed platform_os column to integer
+2022-08-10 05:36:22,673:logger:successfully changed width column to integer
+2022-08-10 05:36:22,677:logger:successfully changed height column to integer
+2022-08-10 05:36:22,677:logger:successfully finished fixing datatype
+2022-08-10 05:43:27,119:logger:successfully droped duplicates
