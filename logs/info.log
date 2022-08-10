@@ -447,3 +447,10 @@
 2022-08-10 12:05:45,954:logger:successfully got catagorical columns
 2022-08-10 12:05:45,957:logger:successfully got catagorical columns
 2022-08-10 12:05:45,964:logger:successfully got numerical columns
+2022-08-10 12:07:47,893:logger:RMSE Score: 7.342560697525655
+2022-08-10 12:07:47,901:logger:R2_Squared: -0.9596938979923741
+2022-08-10 12:07:47,902:logger:MAE Score: 5.911081812942598
+2022-08-10 12:07:47,906:logger:Accuracy: 33.51 %.
+2022-08-10 12:07:47,907:logger:'XGBClassifier' object has no attribute 'best_estimator_'
+2022-08-10 12:07:47,908:logger:'list' object has no attribute 'keys'
+2022-08-10 12:07:47,909:logger:'NoneType' object has no attribute 'savefig'
