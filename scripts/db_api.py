@@ -7,7 +7,7 @@ from datetime import date, datetime
 from dotenv import load_dotenv
 from sqlalchemy import create_engine, types, text
 
-class database_api:
+class Database_api:
 
     def __init__(self):
         load_dotenv()
