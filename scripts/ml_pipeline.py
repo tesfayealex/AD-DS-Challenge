@@ -265,7 +265,7 @@ def run_train_pipeline(model, x, y, experiment_name, run_name):
         train_pipeline = get_pipeline(model, x)
 
         X_train, X_test, y_train, y_test = train_test_split(x, y,
-                                                            test_size=0.3,)
+                                                            test_size=0.3,shuffle=False)
         run_params = model.get_params()
         train_pipeline.fit(X_train, y_train)
         return train_pipeline.log_model('model', X_test, y_test, experiment_name, run_name, run_params=run_params)
