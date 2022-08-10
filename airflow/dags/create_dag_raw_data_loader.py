@@ -2,6 +2,7 @@ from datetime import timedelta,datetime
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.providers.postgres.operators.postgres import PostgresOperator
+from sqlalchemy import create_engine, types, text
 import logging
 import json
 import os
@@ -27,6 +28,28 @@ def format_design_json_data(location , destination_location):
     new_df = pd.DataFrame(new_json_data).T
     new_df.index.name='game_key'
     new_df.to_csv(destination_location)
+
+def test_data_extraction_and_loading(location , destination_location):
+    log.info(os. getcwd())
+    host_name="localhost"
+    db_user="admin"
+    db_password="admin"
+    db_name="trial"
+    postgres_engine = create_engine(f'postgresql+psycopg2://{db_user}:{db_password}@{host_name}/{db_name}')
+    briefing_sql_data = pd.read_sql(f'SELECT * FROM briefing',postgres_engine)
+    briefing_csv_data = pd.read_csv('data/briefing')
+    design_sql_data = pd.read_sql(f'SELECT * FROM design',postgres_engine)
+    design_csv_data = pd.read_csv('data/global_design_data.json')
+    inventory_sql_data = pd.read_sql(f'SELECT * FROM campaigns_inventory',postgres_engine)
+    inventory_csv_data = pd.read_csv('data/campaigns_inventory_updated.json')
+    assert len(list(briefing_sql_data.columns)) == len(list(briefing_csv_data.columns))
+    assert briefing_sql_data.shape == briefing_csv_data.shape
+    assert len(list(design_sql_data.columns)) == len(list(design_csv_data.columns))
+    assert design_sql_data.shape == design_csv_data.shape
+    assert len(list(inventory_sql_data.columns)) == len(list(inventory_csv_data.columns))
+    assert inventory_sql_data.shape == inventory_csv_data.shape
+
+    
 
 
 
@@ -72,4 +95,9 @@ with DAG(
         postgres_conn_id='postgres_connection',
         sql='/sql/load_raw_design_data.sql',
     )
-    task1 >> task2 >> task3 >> task4 >> task5 >> task6 >> task7
+    task8 = PythonOperator(
+       task_id='test_data_extraction_and_loading_success',
+       python_callable=test_data_extraction_and_loading,
+       op_kwargs={},
+    )
+    task1 >> task2 >> task3 >> task4 >> task5 >> task6 >> task7 >> task8
