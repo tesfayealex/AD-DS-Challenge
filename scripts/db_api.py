@@ -25,9 +25,9 @@ class Database_api:
         except Exception as e:
             logger.error(e)
             return pd.DataFrame()
-    def store_db_data_using_table_name(self,tablename: string = 'warehouse') -> list:
+    def store_db_data_using_table_name(self,df: pd.DataFrame , tablename: string = 'warehouse') -> list:
         try:
-            data = pd.to_sql(tablename, con=self.postgres_engine, if_exists='replace', index=False)
+            data = df.to_sql(tablename, con=self.postgres_engine, if_exists='replace', index=False)
             logger.info("successfully stored the data")
             return True
         except Exception as e:
