@@ -1,0 +1,4 @@
+outs:
+- md5: bcda6442e3fe49f92cc0232ca86e3a78
+  size: 3926667
+  path: structured_design_data.csv
