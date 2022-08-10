@@ -17,7 +17,7 @@ from sklearn.metrics import (accuracy_score,
                              recall_score)
 import dvc.api
 import io
-# import mlflow
+import mlflow
 import time
 from cleaner import CleanDataFrame
 
@@ -104,21 +104,21 @@ class TrainingPipeline(Pipeline):
                 feature_importance)
             # pred_plot = self.plot_preds(y_test, y_pred, experiment_name)
             try:
-                # mlflow.end_run()
-                # mlflow.set_experiment(experiment_name)
-                # mlflow.set_tracking_uri('http://localhost:5000')
-                # with mlflow.start_run(run_name=run_name):
-                #     if run_params:
-                #         for name in run_params:
-                #             mlflow.log_param(name, run_params[name])
-                #     for name in run_metrics:
-                #         mlflow.log_metric(name, run_metrics[name])
-                #     mlflow.log_metric("Accuracy", accuracy_metrics['Accuracy'])
+                mlflow.end_run()
+                mlflow.set_experiment(experiment_name)
+                mlflow.set_tracking_uri('http://localhost:5000')
+                with mlflow.start_run(run_name=run_name):
+                    if run_params:
+                        for name in run_params:
+                            mlflow.log_param(name, run_params[name])
+                    for name in run_metrics:
+                        mlflow.log_metric(name, run_metrics[name])
+                    mlflow.log_metric("Accuracy", accuracy_metrics['Accuracy'])
 
-                #     mlflow.log_param("columns", X_test.columns.to_list())
-                #     mlflow.log_figure(pred_plot, "predictions_plot.png")
-                #     mlflow.log_figure(feature_importance_plot,
-                #                       "feature_importance.png")
+                    mlflow.log_param("columns", X_test.columns.to_list())
+                    # mlflow.log_figure(pred_plot, "predictions_plot.png")
+                    mlflow.log_figure(feature_importance_plot,
+                                      "feature_importance.png")
                 # pred_plot.savefig("../images/predictions_plot.png")
                 feature_importance_plot.savefig(
                     "../images/feature_importance.png")

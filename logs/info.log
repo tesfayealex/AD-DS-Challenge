@@ -460,3 +460,86 @@
 2022-08-10 14:21:16,832:logger:successfully displayed count plot
 2022-08-10 14:21:39,031:logger:Could not interpret input 'Handset Manufacturer'
 2022-08-10 14:21:49,323:logger:Could not interpret input 'Handset Manufacturer'
+2022-08-10 15:24:49,069:logger:successfully fetched the data
+2022-08-10 15:24:57,897:logger:successfully got catagorical columns
+2022-08-10 15:24:58,581:logger:successfully got catagorical columns
+2022-08-10 15:24:58,591:logger:successfully got numerical columns
+2022-08-10 15:25:00,029:logger:RMSE Score: 6.186850728967282
+2022-08-10 15:25:00,029:logger:R2_Squared: -0.32360487090499235
+2022-08-10 15:25:00,030:logger:MAE Score: 5.019926361110263
+2022-08-10 15:25:00,034:logger:Accuracy: 54.9 %.
+2022-08-10 15:25:00,070:logger:feature importance plotted
+2022-08-10 15:25:24,760:logger:successfully got catagorical columns
+2022-08-10 15:25:24,762:logger:successfully got catagorical columns
+2022-08-10 15:25:24,769:logger:successfully got numerical columns
+2022-08-10 15:25:24,829:logger:Unknown label type: (array([ 0.        ,  0.76335878,  1.35135135,  1.45253682,  1.98019802,
+        2.06540448,  2.11461845,  3.10437294,  4.99892496,  6.25      ,
+        6.61461722,  6.89767898,  7.100271  ,  7.62292377,  8.24060813,
+        8.92238973,  9.56737829, 11.97952218, 13.17696181, 13.80970011,
+       13.92108652, 14.2399634 , 14.43466172, 14.44224269, 15.0802139 ,
+       15.3256705 , 15.57505108, 16.38875062, 19.0808159 , 19.58311206,
+       21.5128474 , 22.10752688, 22.15315763, 22.16937508, 23.99027421]),)
+2022-08-10 15:25:24,830:logger:'TrainingPipeline' object has no attribute '_TrainingPipeline__pipeline'
+2022-08-10 15:25:45,312:logger:successfully got catagorical columns
+2022-08-10 15:25:45,314:logger:successfully got catagorical columns
+2022-08-10 15:25:45,320:logger:successfully got numerical columns
+2022-08-10 15:25:45,557:logger:RMSE Score: 6.154856473109968
+2022-08-10 15:25:45,558:logger:R2_Squared: -0.37698436662628665
+2022-08-10 15:25:45,558:logger:MAE Score: 5.263612464177726
+2022-08-10 15:25:45,561:logger:Accuracy: 49.98 %.
+2022-08-10 15:25:45,561:logger:'GaussianNB' object has no attribute 'best_estimator_'
+2022-08-10 15:25:45,562:logger:'list' object has no attribute 'keys'
+2022-08-10 15:25:45,563:logger:'NoneType' object has no attribute 'savefig'
+2022-08-10 15:28:01,713:logger:successfully got catagorical columns
+2022-08-10 15:28:01,715:logger:successfully got catagorical columns
+2022-08-10 15:28:01,722:logger:successfully got numerical columns
+2022-08-10 15:28:01,806:logger:Negative values in data passed to MultinomialNB (input X)
+2022-08-10 15:28:01,807:logger:'TrainingPipeline' object has no attribute '_TrainingPipeline__pipeline'
+2022-08-10 15:28:15,998:logger:successfully got catagorical columns
+2022-08-10 15:28:16,000:logger:successfully got catagorical columns
+2022-08-10 15:28:16,008:logger:successfully got numerical columns
+2022-08-10 15:28:16,078:logger:Unknown label type: (array([4.99892496, 4.99892496, 4.99892496, ..., 7.62292377, 7.62292377,
+       7.62292377]),)
+2022-08-10 15:28:16,079:logger:'TrainingPipeline' object has no attribute '_TrainingPipeline__pipeline'
+2022-08-10 15:28:30,572:logger:successfully got catagorical columns
+2022-08-10 15:28:30,574:logger:successfully got catagorical columns
+2022-08-10 15:28:30,580:logger:successfully got numerical columns
+2022-08-10 15:28:30,826:logger:RMSE Score: 8.172913898243458
+2022-08-10 15:28:30,829:logger:R2_Squared: -1.4279905774123396
+2022-08-10 15:28:30,830:logger:MAE Score: 6.393164754829592
+2022-08-10 15:28:30,834:logger:Accuracy: 29.51 %.
+2022-08-10 15:28:30,835:logger:'BernoulliNB' object has no attribute 'best_estimator_'
+2022-08-10 15:28:30,836:logger:'list' object has no attribute 'keys'
+2022-08-10 15:28:30,836:logger:'NoneType' object has no attribute 'savefig'
+2022-08-10 15:29:49,917:logger:successfully got catagorical columns
+2022-08-10 15:29:49,921:logger:successfully got catagorical columns
+2022-08-10 15:29:49,932:logger:successfully got numerical columns
+2022-08-10 17:01:09,430:logger:successfully fetched the data
+2022-08-10 17:01:11,194:logger:successfully displayed count plot
+2022-08-10 17:02:05,669:logger:successfully displayed count plot
+2022-08-10 17:03:11,358:logger:successfully fetched the data
+2022-08-10 17:03:24,894:logger:successfully got catagorical columns
+2022-08-10 17:03:25,821:logger:successfully got catagorical columns
+2022-08-10 17:03:25,828:logger:successfully got numerical columns
+2022-08-10 17:03:27,848:logger:RMSE Score: 0.5158724613158701
+2022-08-10 17:03:27,848:logger:R2_Squared: -0.03482593177296289
+2022-08-10 17:03:27,849:logger:MAE Score: 0.3088464166951656
+2022-08-10 17:03:27,855:logger:Accuracy: 19.98 %.
+2022-08-10 17:03:27,912:logger:feature importance plotted
+2022-08-10 17:04:28,542:logger:API request to http://localhost:5000/api/2.0/mlflow/runs/create failed with exception HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/2.0/mlflow/runs/create (Caused by ResponseError('too many 500 error responses'))
+2022-08-10 17:05:05,201:logger:successfully got catagorical columns
+2022-08-10 17:05:05,203:logger:successfully got catagorical columns
+2022-08-10 17:05:05,218:logger:successfully got numerical columns
+2022-08-10 17:05:05,384:logger:RMSE Score: 0.548528411960443
+2022-08-10 17:05:05,386:logger:R2_Squared: -0.16998654921321843
+2022-08-10 17:05:05,386:logger:MAE Score: 0.20464682987676347
+2022-08-10 17:05:05,390:logger:Accuracy: 0.0 %.
+2022-08-10 17:05:05,391:logger:'GaussianNB' object has no attribute 'best_estimator_'
+2022-08-10 17:05:05,392:logger:'list' object has no attribute 'keys'
+2022-08-10 17:05:45,489:logger:successfully got catagorical columns
+2022-08-10 17:05:45,491:logger:successfully got catagorical columns
+2022-08-10 17:05:45,498:logger:successfully got numerical columns
+2022-08-10 17:05:45,667:logger:RMSE Score: 0.548528411960443
+2022-08-10 17:05:45,669:logger:R2_Squared: -0.16998654921321843
+2022-08-10 17:05:45,669:logger:MAE Score: 0.20464682987676347
+2022-08-10 17:05:45,671:logger:Unable to coerce to Series, length must be 1: given 126667
