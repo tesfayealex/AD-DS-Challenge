@@ -1,0 +1,35 @@
+[2022-08-07 14:24:29,442] {processor.py:153} INFO - Started process (PID=68513) to work on /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:24:29,443] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_dag_migrator.py for tasks to queue
+[2022-08-07 14:24:29,443] {logging_mixin.py:115} INFO - [2022-08-07 14:24:29,443] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:24:29,664] {processor.py:651} INFO - DAG(s) dict_keys(['migrate_data']) retrieved from /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:24:29,672] {logging_mixin.py:115} INFO - [2022-08-07 14:24:29,672] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:24:29,684] {logging_mixin.py:115} INFO - [2022-08-07 14:24:29,684] {dag.py:2968} INFO - Setting next_dagrun for migrate_data to None, run_after=None
+[2022-08-07 14:24:29,698] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_dag_migrator.py took 0.257 seconds
+[2022-08-07 14:25:22,862] {processor.py:153} INFO - Started process (PID=69489) to work on /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:25:22,863] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_dag_migrator.py for tasks to queue
+[2022-08-07 14:25:22,863] {logging_mixin.py:115} INFO - [2022-08-07 14:25:22,863] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:25:23,128] {processor.py:651} INFO - DAG(s) dict_keys(['migrate_data']) retrieved from /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:25:23,136] {logging_mixin.py:115} INFO - [2022-08-07 14:25:23,136] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:25:23,145] {logging_mixin.py:115} INFO - [2022-08-07 14:25:23,145] {dag.py:2968} INFO - Setting next_dagrun for migrate_data to None, run_after=None
+[2022-08-07 14:25:23,158] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_dag_migrator.py took 0.298 seconds
+[2022-08-07 14:26:00,723] {processor.py:153} INFO - Started process (PID=69868) to work on /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:26:00,724] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_dag_migrator.py for tasks to queue
+[2022-08-07 14:26:00,724] {logging_mixin.py:115} INFO - [2022-08-07 14:26:00,724] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:26:00,930] {processor.py:651} INFO - DAG(s) dict_keys(['migrate_data']) retrieved from /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:26:00,937] {logging_mixin.py:115} INFO - [2022-08-07 14:26:00,937] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:26:00,946] {logging_mixin.py:115} INFO - [2022-08-07 14:26:00,946] {dag.py:2968} INFO - Setting next_dagrun for migrate_data to None, run_after=None
+[2022-08-07 14:26:00,958] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_dag_migrator.py took 0.237 seconds
+[2022-08-07 14:26:38,293] {processor.py:153} INFO - Started process (PID=70209) to work on /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:26:38,294] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_dag_migrator.py for tasks to queue
+[2022-08-07 14:26:38,294] {logging_mixin.py:115} INFO - [2022-08-07 14:26:38,294] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:26:38,524] {processor.py:651} INFO - DAG(s) dict_keys(['migrate_data']) retrieved from /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:26:38,531] {logging_mixin.py:115} INFO - [2022-08-07 14:26:38,531] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:26:38,540] {logging_mixin.py:115} INFO - [2022-08-07 14:26:38,540] {dag.py:2968} INFO - Setting next_dagrun for migrate_data to None, run_after=None
+[2022-08-07 14:26:38,550] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_dag_migrator.py took 0.260 seconds
+[2022-08-07 14:27:14,672] {processor.py:153} INFO - Started process (PID=70645) to work on /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:27:14,673] {processor.py:641} INFO - Processing file /home/hp/airflow/dags/create_dag_dag_migrator.py for tasks to queue
+[2022-08-07 14:27:14,673] {logging_mixin.py:115} INFO - [2022-08-07 14:27:14,673] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:27:14,925] {processor.py:651} INFO - DAG(s) dict_keys(['migrate_data']) retrieved from /home/hp/airflow/dags/create_dag_dag_migrator.py
+[2022-08-07 14:27:14,931] {logging_mixin.py:115} INFO - [2022-08-07 14:27:14,931] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:27:14,940] {logging_mixin.py:115} INFO - [2022-08-07 14:27:14,940] {dag.py:2968} INFO - Setting next_dagrun for migrate_data to None, run_after=None
+[2022-08-07 14:27:14,953] {processor.py:161} INFO - Processing /home/hp/airflow/dags/create_dag_dag_migrator.py took 0.284 seconds

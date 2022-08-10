@@ -1,0 +1,12 @@
+
+version: 2
+
+sources:
+  - name: public
+    database: trial
+    schema: public
+    tables:
+      - name: warehouse
+      - name: design
+      - name: campaigns_inventory
+      - name: briefing

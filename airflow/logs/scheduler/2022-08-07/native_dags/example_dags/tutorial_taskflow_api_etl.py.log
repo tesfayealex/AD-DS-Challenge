@@ -1,0 +1,973 @@
+[2022-08-07 14:24:38,502] {processor.py:153} INFO - Started process (PID=68688) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:24:38,502] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:24:38,503] {logging_mixin.py:115} INFO - [2022-08-07 14:24:38,502] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:24:38,513] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:24:38,545] {logging_mixin.py:115} INFO - [2022-08-07 14:24:38,545] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:24:38,555] {logging_mixin.py:115} INFO - [2022-08-07 14:24:38,555] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:24:38,568] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.068 seconds
+[2022-08-07 14:25:26,457] {processor.py:153} INFO - Started process (PID=69539) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:25:26,458] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:25:26,458] {logging_mixin.py:115} INFO - [2022-08-07 14:25:26,458] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:25:26,470] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:25:26,496] {logging_mixin.py:115} INFO - [2022-08-07 14:25:26,496] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:25:26,506] {logging_mixin.py:115} INFO - [2022-08-07 14:25:26,506] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:25:26,518] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2022-08-07 14:26:03,983] {processor.py:153} INFO - Started process (PID=69927) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:26:03,984] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:26:03,984] {logging_mixin.py:115} INFO - [2022-08-07 14:26:03,984] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:26:03,995] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:26:04,024] {logging_mixin.py:115} INFO - [2022-08-07 14:26:04,024] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:26:04,033] {logging_mixin.py:115} INFO - [2022-08-07 14:26:04,033] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:26:04,048] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.067 seconds
+[2022-08-07 14:26:40,977] {processor.py:153} INFO - Started process (PID=70223) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:26:40,977] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:26:40,977] {logging_mixin.py:115} INFO - [2022-08-07 14:26:40,977] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:26:40,988] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:26:40,997] {logging_mixin.py:115} INFO - [2022-08-07 14:26:40,997] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:26:41,009] {logging_mixin.py:115} INFO - [2022-08-07 14:26:41,009] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:26:41,020] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-08-07 14:27:17,550] {processor.py:153} INFO - Started process (PID=70657) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:27:17,551] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:27:17,551] {logging_mixin.py:115} INFO - [2022-08-07 14:27:17,551] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:27:17,569] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:27:17,582] {logging_mixin.py:115} INFO - [2022-08-07 14:27:17,582] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:27:17,601] {logging_mixin.py:115} INFO - [2022-08-07 14:27:17,601] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:27:17,615] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.072 seconds
+[2022-08-07 14:27:54,579] {processor.py:153} INFO - Started process (PID=71124) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:27:54,580] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:27:54,580] {logging_mixin.py:115} INFO - [2022-08-07 14:27:54,580] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:27:54,590] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:27:54,619] {logging_mixin.py:115} INFO - [2022-08-07 14:27:54,619] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:27:54,627] {logging_mixin.py:115} INFO - [2022-08-07 14:27:54,627] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:27:54,641] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2022-08-07 14:28:08,704] {processor.py:153} INFO - Started process (PID=71368) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:28:08,704] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:28:08,705] {logging_mixin.py:115} INFO - [2022-08-07 14:28:08,705] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:28:08,717] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:28:08,724] {logging_mixin.py:115} INFO - [2022-08-07 14:28:08,724] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:28:08,736] {logging_mixin.py:115} INFO - [2022-08-07 14:28:08,736] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:28:08,749] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-08-07 14:28:44,115] {processor.py:153} INFO - Started process (PID=71751) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:28:44,115] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:28:44,116] {logging_mixin.py:115} INFO - [2022-08-07 14:28:44,116] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:28:44,127] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:28:44,155] {logging_mixin.py:115} INFO - [2022-08-07 14:28:44,155] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:28:44,166] {logging_mixin.py:115} INFO - [2022-08-07 14:28:44,165] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:28:44,178] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2022-08-07 14:29:21,891] {processor.py:153} INFO - Started process (PID=72280) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:29:21,891] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:29:21,891] {logging_mixin.py:115} INFO - [2022-08-07 14:29:21,891] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:29:21,903] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:29:21,934] {logging_mixin.py:115} INFO - [2022-08-07 14:29:21,934] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:29:21,943] {logging_mixin.py:115} INFO - [2022-08-07 14:29:21,943] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:29:21,955] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.066 seconds
+[2022-08-07 14:29:59,110] {processor.py:153} INFO - Started process (PID=72612) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:29:59,111] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:29:59,111] {logging_mixin.py:115} INFO - [2022-08-07 14:29:59,111] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:29:59,121] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:29:59,150] {logging_mixin.py:115} INFO - [2022-08-07 14:29:59,150] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:29:59,158] {logging_mixin.py:115} INFO - [2022-08-07 14:29:59,158] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:29:59,170] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.061 seconds
+[2022-08-07 14:30:30,488] {processor.py:153} INFO - Started process (PID=72838) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:30:30,489] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:30:30,489] {logging_mixin.py:115} INFO - [2022-08-07 14:30:30,489] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:30:30,500] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:30:30,529] {logging_mixin.py:115} INFO - [2022-08-07 14:30:30,529] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:30:30,540] {logging_mixin.py:115} INFO - [2022-08-07 14:30:30,540] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:30:30,550] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2022-08-07 14:31:05,921] {processor.py:153} INFO - Started process (PID=73159) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:31:05,921] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:31:05,922] {logging_mixin.py:115} INFO - [2022-08-07 14:31:05,922] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:31:05,933] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:31:05,964] {logging_mixin.py:115} INFO - [2022-08-07 14:31:05,964] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:31:05,975] {logging_mixin.py:115} INFO - [2022-08-07 14:31:05,975] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:31:05,987] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.068 seconds
+[2022-08-07 14:31:45,554] {processor.py:153} INFO - Started process (PID=73728) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:31:45,555] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:31:45,555] {logging_mixin.py:115} INFO - [2022-08-07 14:31:45,555] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:31:45,568] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:31:45,601] {logging_mixin.py:115} INFO - [2022-08-07 14:31:45,601] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:31:45,614] {logging_mixin.py:115} INFO - [2022-08-07 14:31:45,614] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:31:45,626] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.074 seconds
+[2022-08-07 14:32:24,273] {processor.py:153} INFO - Started process (PID=74186) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:32:24,274] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:32:24,274] {logging_mixin.py:115} INFO - [2022-08-07 14:32:24,274] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:32:24,287] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:32:24,317] {logging_mixin.py:115} INFO - [2022-08-07 14:32:24,317] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:32:24,326] {logging_mixin.py:115} INFO - [2022-08-07 14:32:24,326] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:32:24,337] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.066 seconds
+[2022-08-07 14:33:04,443] {processor.py:153} INFO - Started process (PID=74771) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:33:04,443] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:33:04,443] {logging_mixin.py:115} INFO - [2022-08-07 14:33:04,443] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:33:04,454] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:33:04,482] {logging_mixin.py:115} INFO - [2022-08-07 14:33:04,482] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:33:04,492] {logging_mixin.py:115} INFO - [2022-08-07 14:33:04,492] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:33:04,502] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2022-08-07 14:33:51,641] {processor.py:153} INFO - Started process (PID=75536) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:33:51,642] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:33:51,642] {logging_mixin.py:115} INFO - [2022-08-07 14:33:51,642] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:33:51,653] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:33:51,684] {logging_mixin.py:115} INFO - [2022-08-07 14:33:51,684] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:33:51,694] {logging_mixin.py:115} INFO - [2022-08-07 14:33:51,694] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:33:51,708] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.069 seconds
+[2022-08-07 14:34:06,227] {processor.py:153} INFO - Started process (PID=75803) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:34:06,228] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:34:06,228] {logging_mixin.py:115} INFO - [2022-08-07 14:34:06,228] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:34:06,240] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:34:06,245] {logging_mixin.py:115} INFO - [2022-08-07 14:34:06,245] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:34:06,257] {logging_mixin.py:115} INFO - [2022-08-07 14:34:06,257] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:34:06,268] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.043 seconds
+[2022-08-07 14:34:41,690] {processor.py:153} INFO - Started process (PID=76186) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:34:41,691] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:34:41,692] {logging_mixin.py:115} INFO - [2022-08-07 14:34:41,692] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:34:41,704] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:34:41,731] {logging_mixin.py:115} INFO - [2022-08-07 14:34:41,731] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:34:41,740] {logging_mixin.py:115} INFO - [2022-08-07 14:34:41,740] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:34:41,750] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2022-08-07 14:35:22,568] {processor.py:153} INFO - Started process (PID=76854) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:35:22,569] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:35:22,569] {logging_mixin.py:115} INFO - [2022-08-07 14:35:22,569] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:35:22,579] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:35:22,609] {logging_mixin.py:115} INFO - [2022-08-07 14:35:22,609] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:35:22,620] {logging_mixin.py:115} INFO - [2022-08-07 14:35:22,620] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:35:22,630] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.065 seconds
+[2022-08-07 14:36:01,263] {processor.py:153} INFO - Started process (PID=77751) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:36:01,263] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:36:01,264] {logging_mixin.py:115} INFO - [2022-08-07 14:36:01,264] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:36:01,275] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:36:01,305] {logging_mixin.py:115} INFO - [2022-08-07 14:36:01,305] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:36:01,313] {logging_mixin.py:115} INFO - [2022-08-07 14:36:01,313] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:36:01,325] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.065 seconds
+[2022-08-07 14:36:40,086] {processor.py:153} INFO - Started process (PID=78495) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:36:40,087] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:36:40,087] {logging_mixin.py:115} INFO - [2022-08-07 14:36:40,087] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:36:40,099] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:36:40,132] {logging_mixin.py:115} INFO - [2022-08-07 14:36:40,131] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:36:40,142] {logging_mixin.py:115} INFO - [2022-08-07 14:36:40,141] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:36:40,155] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.071 seconds
+[2022-08-07 14:37:20,988] {processor.py:153} INFO - Started process (PID=79531) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:37:20,988] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:37:20,989] {logging_mixin.py:115} INFO - [2022-08-07 14:37:20,989] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:37:21,001] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:37:21,013] {logging_mixin.py:115} INFO - [2022-08-07 14:37:21,012] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:37:21,032] {logging_mixin.py:115} INFO - [2022-08-07 14:37:21,032] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:37:21,045] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.060 seconds
+[2022-08-07 14:37:57,376] {processor.py:153} INFO - Started process (PID=80006) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:37:57,376] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:37:57,377] {logging_mixin.py:115} INFO - [2022-08-07 14:37:57,376] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:37:57,388] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:37:57,420] {logging_mixin.py:115} INFO - [2022-08-07 14:37:57,420] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:37:57,431] {logging_mixin.py:115} INFO - [2022-08-07 14:37:57,431] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:37:57,452] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.078 seconds
+[2022-08-07 14:38:35,682] {processor.py:153} INFO - Started process (PID=80368) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:38:35,683] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:38:35,683] {logging_mixin.py:115} INFO - [2022-08-07 14:38:35,683] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:38:35,695] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:38:35,726] {logging_mixin.py:115} INFO - [2022-08-07 14:38:35,726] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:38:35,735] {logging_mixin.py:115} INFO - [2022-08-07 14:38:35,734] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:38:35,746] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.066 seconds
+[2022-08-07 14:39:16,817] {processor.py:153} INFO - Started process (PID=81025) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:39:16,818] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:39:16,818] {logging_mixin.py:115} INFO - [2022-08-07 14:39:16,818] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:39:16,830] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:39:16,857] {logging_mixin.py:115} INFO - [2022-08-07 14:39:16,857] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:39:16,868] {logging_mixin.py:115} INFO - [2022-08-07 14:39:16,867] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:39:16,879] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2022-08-07 14:39:53,829] {processor.py:153} INFO - Started process (PID=81311) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:39:53,830] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:39:53,830] {logging_mixin.py:115} INFO - [2022-08-07 14:39:53,830] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:39:53,840] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:39:53,849] {logging_mixin.py:115} INFO - [2022-08-07 14:39:53,849] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:39:53,862] {logging_mixin.py:115} INFO - [2022-08-07 14:39:53,862] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:39:53,872] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.045 seconds
+[2022-08-07 14:40:31,808] {processor.py:153} INFO - Started process (PID=81646) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:40:31,808] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:40:31,809] {logging_mixin.py:115} INFO - [2022-08-07 14:40:31,809] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:40:31,820] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:40:31,831] {logging_mixin.py:115} INFO - [2022-08-07 14:40:31,831] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:40:31,845] {logging_mixin.py:115} INFO - [2022-08-07 14:40:31,845] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:40:31,858] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-08-07 14:40:47,009] {processor.py:153} INFO - Started process (PID=81796) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:40:47,010] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:40:47,010] {logging_mixin.py:115} INFO - [2022-08-07 14:40:47,010] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:40:47,023] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:40:47,054] {logging_mixin.py:115} INFO - [2022-08-07 14:40:47,054] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:40:47,066] {logging_mixin.py:115} INFO - [2022-08-07 14:40:47,066] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:40:47,078] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.071 seconds
+[2022-08-07 14:41:28,505] {processor.py:153} INFO - Started process (PID=82667) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:41:28,510] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:41:28,511] {logging_mixin.py:115} INFO - [2022-08-07 14:41:28,511] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:41:28,531] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:41:28,568] {logging_mixin.py:115} INFO - [2022-08-07 14:41:28,568] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:41:28,579] {logging_mixin.py:115} INFO - [2022-08-07 14:41:28,578] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:41:28,590] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.088 seconds
+[2022-08-07 14:42:07,607] {processor.py:153} INFO - Started process (PID=83343) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:42:07,608] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:42:07,608] {logging_mixin.py:115} INFO - [2022-08-07 14:42:07,608] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:42:07,619] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:42:07,649] {logging_mixin.py:115} INFO - [2022-08-07 14:42:07,649] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:42:07,659] {logging_mixin.py:115} INFO - [2022-08-07 14:42:07,659] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:42:07,670] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.065 seconds
+[2022-08-07 14:42:45,822] {processor.py:153} INFO - Started process (PID=83585) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:42:45,823] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:42:45,823] {logging_mixin.py:115} INFO - [2022-08-07 14:42:45,823] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:42:45,833] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:42:45,863] {logging_mixin.py:115} INFO - [2022-08-07 14:42:45,863] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:42:45,873] {logging_mixin.py:115} INFO - [2022-08-07 14:42:45,873] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:42:45,884] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.063 seconds
+[2022-08-07 14:43:24,123] {processor.py:153} INFO - Started process (PID=84050) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:43:24,124] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:43:24,124] {logging_mixin.py:115} INFO - [2022-08-07 14:43:24,124] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:43:24,134] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:43:24,161] {logging_mixin.py:115} INFO - [2022-08-07 14:43:24,161] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:43:24,170] {logging_mixin.py:115} INFO - [2022-08-07 14:43:24,170] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:43:24,180] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.058 seconds
+[2022-08-07 14:44:00,358] {processor.py:153} INFO - Started process (PID=84388) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:44:00,358] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:44:00,359] {logging_mixin.py:115} INFO - [2022-08-07 14:44:00,359] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:44:00,370] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:44:00,381] {logging_mixin.py:115} INFO - [2022-08-07 14:44:00,381] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:44:00,394] {logging_mixin.py:115} INFO - [2022-08-07 14:44:00,394] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:44:00,405] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-08-07 14:44:40,028] {processor.py:153} INFO - Started process (PID=84809) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:44:40,029] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:44:40,029] {logging_mixin.py:115} INFO - [2022-08-07 14:44:40,029] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:44:40,039] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:44:40,066] {logging_mixin.py:115} INFO - [2022-08-07 14:44:40,066] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:44:40,075] {logging_mixin.py:115} INFO - [2022-08-07 14:44:40,074] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:44:40,085] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.060 seconds
+[2022-08-07 14:45:19,314] {processor.py:153} INFO - Started process (PID=85406) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:45:19,315] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:45:19,315] {logging_mixin.py:115} INFO - [2022-08-07 14:45:19,315] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:45:19,325] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:45:19,353] {logging_mixin.py:115} INFO - [2022-08-07 14:45:19,353] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:45:19,361] {logging_mixin.py:115} INFO - [2022-08-07 14:45:19,361] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:45:19,373] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.060 seconds
+[2022-08-07 14:45:55,618] {processor.py:153} INFO - Started process (PID=85867) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:45:55,619] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:45:55,619] {logging_mixin.py:115} INFO - [2022-08-07 14:45:55,619] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:45:55,627] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:45:55,648] {logging_mixin.py:115} INFO - [2022-08-07 14:45:55,648] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:45:55,655] {logging_mixin.py:115} INFO - [2022-08-07 14:45:55,655] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:45:55,664] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-08-07 14:46:31,491] {processor.py:153} INFO - Started process (PID=86145) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:46:31,492] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:46:31,492] {logging_mixin.py:115} INFO - [2022-08-07 14:46:31,492] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:46:31,500] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:46:31,509] {logging_mixin.py:115} INFO - [2022-08-07 14:46:31,509] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:46:31,520] {logging_mixin.py:115} INFO - [2022-08-07 14:46:31,520] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:46:31,529] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.042 seconds
+[2022-08-07 14:47:14,769] {processor.py:153} INFO - Started process (PID=86688) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:47:14,769] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:47:14,770] {logging_mixin.py:115} INFO - [2022-08-07 14:47:14,770] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:47:14,779] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:47:14,803] {logging_mixin.py:115} INFO - [2022-08-07 14:47:14,803] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:47:14,811] {logging_mixin.py:115} INFO - [2022-08-07 14:47:14,811] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:47:14,821] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.053 seconds
+[2022-08-07 14:47:50,535] {processor.py:153} INFO - Started process (PID=87363) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:47:50,535] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:47:50,535] {logging_mixin.py:115} INFO - [2022-08-07 14:47:50,535] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:47:50,544] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:47:50,582] {logging_mixin.py:115} INFO - [2022-08-07 14:47:50,582] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:47:50,594] {logging_mixin.py:115} INFO - [2022-08-07 14:47:50,594] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:47:50,603] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.070 seconds
+[2022-08-07 14:48:28,870] {processor.py:153} INFO - Started process (PID=87716) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:48:28,871] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:48:28,871] {logging_mixin.py:115} INFO - [2022-08-07 14:48:28,871] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:48:28,881] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:48:28,905] {logging_mixin.py:115} INFO - [2022-08-07 14:48:28,905] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:48:28,912] {logging_mixin.py:115} INFO - [2022-08-07 14:48:28,912] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:48:28,921] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.055 seconds
+[2022-08-07 14:49:05,832] {processor.py:153} INFO - Started process (PID=88180) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:49:05,833] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:49:05,833] {logging_mixin.py:115} INFO - [2022-08-07 14:49:05,833] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:49:05,840] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:49:05,864] {logging_mixin.py:115} INFO - [2022-08-07 14:49:05,864] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:49:05,871] {logging_mixin.py:115} INFO - [2022-08-07 14:49:05,871] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:49:05,880] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2022-08-07 14:49:41,693] {processor.py:153} INFO - Started process (PID=88636) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:49:41,693] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:49:41,693] {logging_mixin.py:115} INFO - [2022-08-07 14:49:41,693] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:49:41,701] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:49:41,722] {logging_mixin.py:115} INFO - [2022-08-07 14:49:41,722] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:49:41,729] {logging_mixin.py:115} INFO - [2022-08-07 14:49:41,729] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:49:41,738] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-08-07 14:50:19,666] {processor.py:153} INFO - Started process (PID=89046) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:50:19,667] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:50:19,667] {logging_mixin.py:115} INFO - [2022-08-07 14:50:19,667] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:50:19,682] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:50:19,689] {logging_mixin.py:115} INFO - [2022-08-07 14:50:19,689] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:50:19,697] {logging_mixin.py:115} INFO - [2022-08-07 14:50:19,697] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:50:19,706] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.044 seconds
+[2022-08-07 14:50:52,605] {processor.py:153} INFO - Started process (PID=89361) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:50:52,605] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:50:52,605] {logging_mixin.py:115} INFO - [2022-08-07 14:50:52,605] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:50:52,614] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:50:52,637] {logging_mixin.py:115} INFO - [2022-08-07 14:50:52,637] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:50:52,644] {logging_mixin.py:115} INFO - [2022-08-07 14:50:52,644] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:50:52,653] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-08-07 14:51:31,742] {processor.py:153} INFO - Started process (PID=90047) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:51:31,743] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:51:31,743] {logging_mixin.py:115} INFO - [2022-08-07 14:51:31,743] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:51:31,750] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:51:31,770] {logging_mixin.py:115} INFO - [2022-08-07 14:51:31,770] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:51:31,777] {logging_mixin.py:115} INFO - [2022-08-07 14:51:31,777] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:51:31,786] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.045 seconds
+[2022-08-07 14:52:52,586] {processor.py:153} INFO - Started process (PID=90826) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:52:52,587] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:52:52,587] {logging_mixin.py:115} INFO - [2022-08-07 14:52:52,587] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:52:52,595] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:52:52,615] {logging_mixin.py:115} INFO - [2022-08-07 14:52:52,615] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:52:52,622] {logging_mixin.py:115} INFO - [2022-08-07 14:52:52,622] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:52:52,631] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-08-07 14:53:34,013] {processor.py:153} INFO - Started process (PID=91630) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:53:34,014] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:53:34,014] {logging_mixin.py:115} INFO - [2022-08-07 14:53:34,014] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:53:34,023] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:53:34,047] {logging_mixin.py:115} INFO - [2022-08-07 14:53:34,047] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:53:34,054] {logging_mixin.py:115} INFO - [2022-08-07 14:53:34,054] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:53:34,063] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds
+[2022-08-07 14:54:13,541] {processor.py:153} INFO - Started process (PID=92117) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:54:13,542] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:54:13,542] {logging_mixin.py:115} INFO - [2022-08-07 14:54:13,542] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:54:13,550] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:54:13,573] {logging_mixin.py:115} INFO - [2022-08-07 14:54:13,573] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:54:13,581] {logging_mixin.py:115} INFO - [2022-08-07 14:54:13,581] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:54:13,590] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds
+[2022-08-07 14:54:52,242] {processor.py:153} INFO - Started process (PID=92419) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:54:52,242] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:54:52,242] {logging_mixin.py:115} INFO - [2022-08-07 14:54:52,242] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:54:52,251] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:54:52,273] {logging_mixin.py:115} INFO - [2022-08-07 14:54:52,273] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:54:52,280] {logging_mixin.py:115} INFO - [2022-08-07 14:54:52,280] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:54:52,289] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2022-08-07 14:55:31,397] {processor.py:153} INFO - Started process (PID=92787) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:55:31,397] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:55:31,398] {logging_mixin.py:115} INFO - [2022-08-07 14:55:31,398] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:55:31,405] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:55:31,425] {logging_mixin.py:115} INFO - [2022-08-07 14:55:31,425] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:55:31,431] {logging_mixin.py:115} INFO - [2022-08-07 14:55:31,431] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:55:31,440] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.045 seconds
+[2022-08-07 14:56:09,253] {processor.py:153} INFO - Started process (PID=93175) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:56:09,254] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:56:09,254] {logging_mixin.py:115} INFO - [2022-08-07 14:56:09,254] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:56:09,262] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:56:09,283] {logging_mixin.py:115} INFO - [2022-08-07 14:56:09,283] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:56:09,289] {logging_mixin.py:115} INFO - [2022-08-07 14:56:09,289] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:56:09,298] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-08-07 14:56:46,293] {processor.py:153} INFO - Started process (PID=93465) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:56:46,293] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:56:46,294] {logging_mixin.py:115} INFO - [2022-08-07 14:56:46,294] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:56:46,301] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:56:46,327] {logging_mixin.py:115} INFO - [2022-08-07 14:56:46,327] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:56:46,336] {logging_mixin.py:115} INFO - [2022-08-07 14:56:46,336] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:56:46,346] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-08-07 14:56:57,513] {processor.py:153} INFO - Started process (PID=93648) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:56:57,513] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:56:57,514] {logging_mixin.py:115} INFO - [2022-08-07 14:56:57,514] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:56:57,523] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:56:57,528] {logging_mixin.py:115} INFO - [2022-08-07 14:56:57,528] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:56:57,542] {logging_mixin.py:115} INFO - [2022-08-07 14:56:57,542] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:56:57,611] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.099 seconds
+[2022-08-07 14:57:43,655] {processor.py:153} INFO - Started process (PID=94702) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:57:43,656] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:57:43,656] {logging_mixin.py:115} INFO - [2022-08-07 14:57:43,656] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:57:43,666] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:57:43,689] {logging_mixin.py:115} INFO - [2022-08-07 14:57:43,689] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:57:43,697] {logging_mixin.py:115} INFO - [2022-08-07 14:57:43,697] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:57:43,706] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.052 seconds
+[2022-08-07 14:58:22,405] {processor.py:153} INFO - Started process (PID=95283) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:58:22,405] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:58:22,406] {logging_mixin.py:115} INFO - [2022-08-07 14:58:22,406] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:58:22,416] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:58:22,437] {logging_mixin.py:115} INFO - [2022-08-07 14:58:22,437] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:58:22,443] {logging_mixin.py:115} INFO - [2022-08-07 14:58:22,443] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:58:22,453] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-08-07 14:59:01,619] {processor.py:153} INFO - Started process (PID=95774) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:59:01,620] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:59:01,620] {logging_mixin.py:115} INFO - [2022-08-07 14:59:01,620] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:59:01,628] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:59:01,649] {logging_mixin.py:115} INFO - [2022-08-07 14:59:01,649] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:59:01,657] {logging_mixin.py:115} INFO - [2022-08-07 14:59:01,657] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:59:01,666] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-08-07 14:59:43,060] {processor.py:153} INFO - Started process (PID=96465) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:59:43,060] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 14:59:43,061] {logging_mixin.py:115} INFO - [2022-08-07 14:59:43,061] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:59:43,069] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 14:59:43,093] {logging_mixin.py:115} INFO - [2022-08-07 14:59:43,093] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 14:59:43,101] {logging_mixin.py:115} INFO - [2022-08-07 14:59:43,100] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 14:59:43,112] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.053 seconds
+[2022-08-07 15:00:21,591] {processor.py:153} INFO - Started process (PID=96941) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:00:21,592] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:00:21,592] {logging_mixin.py:115} INFO - [2022-08-07 15:00:21,592] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:00:21,600] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:00:21,623] {logging_mixin.py:115} INFO - [2022-08-07 15:00:21,623] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:00:21,630] {logging_mixin.py:115} INFO - [2022-08-07 15:00:21,630] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:00:21,640] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-08-07 15:00:31,868] {processor.py:153} INFO - Started process (PID=97145) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:00:31,868] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:00:31,869] {logging_mixin.py:115} INFO - [2022-08-07 15:00:31,869] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:00:31,882] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:00:31,887] {logging_mixin.py:115} INFO - [2022-08-07 15:00:31,887] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:00:31,908] {logging_mixin.py:115} INFO - [2022-08-07 15:00:31,907] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:00:31,927] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2022-08-07 15:01:10,605] {processor.py:153} INFO - Started process (PID=97912) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:01:10,606] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:01:10,606] {logging_mixin.py:115} INFO - [2022-08-07 15:01:10,606] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:01:10,619] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:01:10,639] {logging_mixin.py:115} INFO - [2022-08-07 15:01:10,639] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:01:10,645] {logging_mixin.py:115} INFO - [2022-08-07 15:01:10,645] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:01:10,655] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.052 seconds
+[2022-08-07 15:01:47,808] {processor.py:153} INFO - Started process (PID=98284) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:01:47,809] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:01:47,810] {logging_mixin.py:115} INFO - [2022-08-07 15:01:47,809] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:01:47,825] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:01:47,847] {logging_mixin.py:115} INFO - [2022-08-07 15:01:47,847] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:01:47,854] {logging_mixin.py:115} INFO - [2022-08-07 15:01:47,854] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:01:47,864] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.058 seconds
+[2022-08-07 15:02:10,745] {processor.py:153} INFO - Started process (PID=98663) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:02:10,747] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:02:10,749] {logging_mixin.py:115} INFO - [2022-08-07 15:02:10,747] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:02:10,763] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:02:10,770] {logging_mixin.py:115} INFO - [2022-08-07 15:02:10,770] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:02:10,781] {logging_mixin.py:115} INFO - [2022-08-07 15:02:10,781] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:02:10,792] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2022-08-07 15:02:46,730] {processor.py:153} INFO - Started process (PID=99231) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:02:46,730] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:02:46,731] {logging_mixin.py:115} INFO - [2022-08-07 15:02:46,731] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:02:46,740] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:02:46,764] {logging_mixin.py:115} INFO - [2022-08-07 15:02:46,764] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:02:46,773] {logging_mixin.py:115} INFO - [2022-08-07 15:02:46,773] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:02:46,783] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-08-07 15:03:26,157] {processor.py:153} INFO - Started process (PID=99706) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:03:26,158] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:03:26,158] {logging_mixin.py:115} INFO - [2022-08-07 15:03:26,158] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:03:26,166] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:03:26,187] {logging_mixin.py:115} INFO - [2022-08-07 15:03:26,187] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:03:26,194] {logging_mixin.py:115} INFO - [2022-08-07 15:03:26,194] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:03:26,203] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-08-07 15:04:05,198] {processor.py:153} INFO - Started process (PID=100189) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:04:05,199] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:04:05,200] {logging_mixin.py:115} INFO - [2022-08-07 15:04:05,200] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:04:05,215] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:04:05,237] {logging_mixin.py:115} INFO - [2022-08-07 15:04:05,237] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:04:05,244] {logging_mixin.py:115} INFO - [2022-08-07 15:04:05,244] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:04:05,254] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.059 seconds
+[2022-08-07 15:04:36,906] {processor.py:153} INFO - Started process (PID=100563) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:04:36,906] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:04:36,907] {logging_mixin.py:115} INFO - [2022-08-07 15:04:36,907] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:04:36,919] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:04:36,955] {logging_mixin.py:115} INFO - [2022-08-07 15:04:36,955] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:04:36,968] {logging_mixin.py:115} INFO - [2022-08-07 15:04:36,968] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:04:36,978] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.074 seconds
+[2022-08-07 15:05:13,473] {processor.py:153} INFO - Started process (PID=101146) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:05:13,474] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:05:13,474] {logging_mixin.py:115} INFO - [2022-08-07 15:05:13,474] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:05:13,482] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:05:13,506] {logging_mixin.py:115} INFO - [2022-08-07 15:05:13,506] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:05:13,514] {logging_mixin.py:115} INFO - [2022-08-07 15:05:13,514] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:05:13,528] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.057 seconds
+[2022-08-07 15:05:50,643] {processor.py:153} INFO - Started process (PID=101616) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:05:50,644] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:05:50,644] {logging_mixin.py:115} INFO - [2022-08-07 15:05:50,644] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:05:50,652] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:05:50,674] {logging_mixin.py:115} INFO - [2022-08-07 15:05:50,674] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:05:50,681] {logging_mixin.py:115} INFO - [2022-08-07 15:05:50,681] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:05:50,691] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-08-07 15:06:25,644] {processor.py:153} INFO - Started process (PID=102038) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:06:25,644] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:06:25,644] {logging_mixin.py:115} INFO - [2022-08-07 15:06:25,644] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:06:25,652] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:06:25,675] {logging_mixin.py:115} INFO - [2022-08-07 15:06:25,675] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:06:25,682] {logging_mixin.py:115} INFO - [2022-08-07 15:06:25,682] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:06:25,692] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-08-07 15:07:03,765] {processor.py:153} INFO - Started process (PID=102739) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:07:03,766] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:07:03,766] {logging_mixin.py:115} INFO - [2022-08-07 15:07:03,766] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:07:03,779] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:07:03,800] {logging_mixin.py:115} INFO - [2022-08-07 15:07:03,800] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:07:03,806] {logging_mixin.py:115} INFO - [2022-08-07 15:07:03,806] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:07:03,816] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-08-07 15:07:41,817] {processor.py:153} INFO - Started process (PID=103128) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:07:41,818] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:07:41,818] {logging_mixin.py:115} INFO - [2022-08-07 15:07:41,818] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:07:41,825] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:07:41,846] {logging_mixin.py:115} INFO - [2022-08-07 15:07:41,846] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:07:41,853] {logging_mixin.py:115} INFO - [2022-08-07 15:07:41,853] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:07:41,862] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-08-07 15:10:11,191] {processor.py:153} INFO - Started process (PID=104219) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:10:11,192] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:10:11,192] {logging_mixin.py:115} INFO - [2022-08-07 15:10:11,192] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:10:11,200] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:10:11,221] {logging_mixin.py:115} INFO - [2022-08-07 15:10:11,221] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:10:11,234] {logging_mixin.py:115} INFO - [2022-08-07 15:10:11,234] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:10:11,247] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.057 seconds
+[2022-08-07 15:11:19,286] {processor.py:153} INFO - Started process (PID=104934) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:11:19,287] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:11:19,287] {logging_mixin.py:115} INFO - [2022-08-07 15:11:19,287] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:11:19,296] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:11:19,320] {logging_mixin.py:115} INFO - [2022-08-07 15:11:19,320] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:11:19,329] {logging_mixin.py:115} INFO - [2022-08-07 15:11:19,329] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:11:19,342] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.057 seconds
+[2022-08-07 15:11:55,166] {processor.py:153} INFO - Started process (PID=105364) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:11:55,166] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:11:55,166] {logging_mixin.py:115} INFO - [2022-08-07 15:11:55,166] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:11:55,174] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:11:55,196] {logging_mixin.py:115} INFO - [2022-08-07 15:11:55,196] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:11:55,203] {logging_mixin.py:115} INFO - [2022-08-07 15:11:55,203] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:11:55,212] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.048 seconds
+[2022-08-07 15:12:34,500] {processor.py:153} INFO - Started process (PID=105960) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:12:34,501] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:12:34,501] {logging_mixin.py:115} INFO - [2022-08-07 15:12:34,501] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:12:34,516] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:12:34,536] {logging_mixin.py:115} INFO - [2022-08-07 15:12:34,536] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:12:34,543] {logging_mixin.py:115} INFO - [2022-08-07 15:12:34,543] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:12:34,553] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.056 seconds
+[2022-08-07 15:13:11,560] {processor.py:153} INFO - Started process (PID=106242) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:13:11,562] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:13:11,562] {logging_mixin.py:115} INFO - [2022-08-07 15:13:11,562] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:13:11,585] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:13:11,617] {logging_mixin.py:115} INFO - [2022-08-07 15:13:11,617] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:13:11,625] {logging_mixin.py:115} INFO - [2022-08-07 15:13:11,625] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:13:11,634] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.077 seconds
+[2022-08-07 15:13:48,010] {processor.py:153} INFO - Started process (PID=106505) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:13:48,011] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:13:48,012] {logging_mixin.py:115} INFO - [2022-08-07 15:13:48,011] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:13:48,026] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:13:48,046] {logging_mixin.py:115} INFO - [2022-08-07 15:13:48,046] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:13:48,052] {logging_mixin.py:115} INFO - [2022-08-07 15:13:48,052] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:13:48,061] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.052 seconds
+[2022-08-07 15:14:26,607] {processor.py:153} INFO - Started process (PID=106859) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:14:26,608] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:14:26,608] {logging_mixin.py:115} INFO - [2022-08-07 15:14:26,608] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:14:26,617] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:14:26,624] {logging_mixin.py:115} INFO - [2022-08-07 15:14:26,624] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:14:26,634] {logging_mixin.py:115} INFO - [2022-08-07 15:14:26,634] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:14:26,643] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.037 seconds
+[2022-08-07 15:15:03,288] {processor.py:153} INFO - Started process (PID=107087) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:15:03,289] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:15:03,289] {logging_mixin.py:115} INFO - [2022-08-07 15:15:03,289] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:15:03,297] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:15:03,318] {logging_mixin.py:115} INFO - [2022-08-07 15:15:03,318] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:15:03,324] {logging_mixin.py:115} INFO - [2022-08-07 15:15:03,324] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:15:03,334] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-08-07 15:15:42,059] {processor.py:153} INFO - Started process (PID=107359) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:15:42,059] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:15:42,060] {logging_mixin.py:115} INFO - [2022-08-07 15:15:42,059] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:15:42,068] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:15:42,090] {logging_mixin.py:115} INFO - [2022-08-07 15:15:42,090] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:15:42,097] {logging_mixin.py:115} INFO - [2022-08-07 15:15:42,097] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:15:42,106] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2022-08-07 15:16:16,816] {processor.py:153} INFO - Started process (PID=107681) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:16:16,817] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:16:16,817] {logging_mixin.py:115} INFO - [2022-08-07 15:16:16,817] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:16:16,826] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:16:16,848] {logging_mixin.py:115} INFO - [2022-08-07 15:16:16,848] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:16:16,856] {logging_mixin.py:115} INFO - [2022-08-07 15:16:16,856] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:16:16,865] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-08-07 15:16:54,999] {processor.py:153} INFO - Started process (PID=108011) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:16:54,999] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:16:54,999] {logging_mixin.py:115} INFO - [2022-08-07 15:16:54,999] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:16:55,008] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:16:55,033] {logging_mixin.py:115} INFO - [2022-08-07 15:16:55,032] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:16:55,040] {logging_mixin.py:115} INFO - [2022-08-07 15:16:55,040] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:16:55,049] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.052 seconds
+[2022-08-07 15:17:31,204] {processor.py:153} INFO - Started process (PID=108278) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:17:31,204] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:17:31,205] {logging_mixin.py:115} INFO - [2022-08-07 15:17:31,205] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:17:31,213] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:17:31,220] {logging_mixin.py:115} INFO - [2022-08-07 15:17:31,220] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:17:31,229] {logging_mixin.py:115} INFO - [2022-08-07 15:17:31,229] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:17:31,238] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.036 seconds
+[2022-08-07 15:18:08,113] {processor.py:153} INFO - Started process (PID=108577) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:18:08,114] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:18:08,114] {logging_mixin.py:115} INFO - [2022-08-07 15:18:08,114] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:18:08,128] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:18:08,136] {logging_mixin.py:115} INFO - [2022-08-07 15:18:08,135] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:18:08,144] {logging_mixin.py:115} INFO - [2022-08-07 15:18:08,144] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:18:08,152] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-08-07 15:18:45,781] {processor.py:153} INFO - Started process (PID=108797) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:18:45,782] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:18:45,783] {logging_mixin.py:115} INFO - [2022-08-07 15:18:45,782] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:18:45,791] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:18:45,799] {logging_mixin.py:115} INFO - [2022-08-07 15:18:45,799] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:18:45,808] {logging_mixin.py:115} INFO - [2022-08-07 15:18:45,808] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:18:45,817] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.037 seconds
+[2022-08-07 15:19:04,111] {processor.py:153} INFO - Started process (PID=109059) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:19:04,111] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:19:04,112] {logging_mixin.py:115} INFO - [2022-08-07 15:19:04,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:19:04,122] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:19:04,145] {logging_mixin.py:115} INFO - [2022-08-07 15:19:04,144] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:19:04,154] {logging_mixin.py:115} INFO - [2022-08-07 15:19:04,154] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:19:04,163] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-08-07 15:19:43,569] {processor.py:153} INFO - Started process (PID=109699) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:19:43,570] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:19:43,570] {logging_mixin.py:115} INFO - [2022-08-07 15:19:43,570] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:19:43,579] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:19:43,603] {logging_mixin.py:115} INFO - [2022-08-07 15:19:43,603] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:19:43,614] {logging_mixin.py:115} INFO - [2022-08-07 15:19:43,614] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:19:43,623] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.055 seconds
+[2022-08-07 15:20:20,319] {processor.py:153} INFO - Started process (PID=110072) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:20:20,319] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:20:20,320] {logging_mixin.py:115} INFO - [2022-08-07 15:20:20,320] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:20:20,328] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:20:20,350] {logging_mixin.py:115} INFO - [2022-08-07 15:20:20,350] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:20:20,357] {logging_mixin.py:115} INFO - [2022-08-07 15:20:20,357] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:20:20,366] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2022-08-07 15:20:58,399] {processor.py:153} INFO - Started process (PID=110417) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:20:58,399] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:20:58,399] {logging_mixin.py:115} INFO - [2022-08-07 15:20:58,399] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:20:58,411] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:20:58,431] {logging_mixin.py:115} INFO - [2022-08-07 15:20:58,431] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:20:58,437] {logging_mixin.py:115} INFO - [2022-08-07 15:20:58,437] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:20:58,446] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2022-08-07 15:21:34,587] {processor.py:153} INFO - Started process (PID=110729) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:21:34,587] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:21:34,588] {logging_mixin.py:115} INFO - [2022-08-07 15:21:34,588] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:21:34,596] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:21:34,617] {logging_mixin.py:115} INFO - [2022-08-07 15:21:34,617] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:21:34,624] {logging_mixin.py:115} INFO - [2022-08-07 15:21:34,624] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:21:34,632] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-08-07 15:22:10,553] {processor.py:153} INFO - Started process (PID=111375) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:22:10,554] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:22:10,554] {logging_mixin.py:115} INFO - [2022-08-07 15:22:10,554] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:22:10,563] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:22:10,587] {logging_mixin.py:115} INFO - [2022-08-07 15:22:10,587] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:22:10,599] {logging_mixin.py:115} INFO - [2022-08-07 15:22:10,599] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:22:10,609] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.057 seconds
+[2022-08-07 15:22:48,716] {processor.py:153} INFO - Started process (PID=111696) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:22:48,717] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:22:48,718] {logging_mixin.py:115} INFO - [2022-08-07 15:22:48,717] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:22:48,729] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:22:48,749] {logging_mixin.py:115} INFO - [2022-08-07 15:22:48,749] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:22:48,756] {logging_mixin.py:115} INFO - [2022-08-07 15:22:48,756] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:22:48,765] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds
+[2022-08-07 15:23:24,902] {processor.py:153} INFO - Started process (PID=112023) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:23:24,902] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:23:24,903] {logging_mixin.py:115} INFO - [2022-08-07 15:23:24,903] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:23:24,910] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:23:24,930] {logging_mixin.py:115} INFO - [2022-08-07 15:23:24,930] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:23:24,937] {logging_mixin.py:115} INFO - [2022-08-07 15:23:24,937] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:23:24,946] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-08-07 15:24:02,124] {processor.py:153} INFO - Started process (PID=112569) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:24:02,125] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:24:02,125] {logging_mixin.py:115} INFO - [2022-08-07 15:24:02,125] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:24:02,133] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:24:02,156] {logging_mixin.py:115} INFO - [2022-08-07 15:24:02,156] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:24:02,163] {logging_mixin.py:115} INFO - [2022-08-07 15:24:02,163] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:24:02,172] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2022-08-07 15:24:41,680] {processor.py:153} INFO - Started process (PID=113244) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:24:41,680] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:24:41,680] {logging_mixin.py:115} INFO - [2022-08-07 15:24:41,680] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:24:41,689] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:24:41,710] {logging_mixin.py:115} INFO - [2022-08-07 15:24:41,710] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:24:41,717] {logging_mixin.py:115} INFO - [2022-08-07 15:24:41,717] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:24:41,725] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-08-07 15:25:18,927] {processor.py:153} INFO - Started process (PID=113590) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:25:18,928] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:25:18,928] {logging_mixin.py:115} INFO - [2022-08-07 15:25:18,928] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:25:18,936] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:25:18,942] {logging_mixin.py:115} INFO - [2022-08-07 15:25:18,942] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:25:18,951] {logging_mixin.py:115} INFO - [2022-08-07 15:25:18,951] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:25:18,959] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.033 seconds
+[2022-08-07 15:25:56,592] {processor.py:153} INFO - Started process (PID=113889) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:25:56,593] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:25:56,593] {logging_mixin.py:115} INFO - [2022-08-07 15:25:56,593] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:25:56,601] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:25:56,609] {logging_mixin.py:115} INFO - [2022-08-07 15:25:56,609] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:25:56,618] {logging_mixin.py:115} INFO - [2022-08-07 15:25:56,617] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:25:56,626] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.035 seconds
+[2022-08-07 15:26:34,815] {processor.py:153} INFO - Started process (PID=114683) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:26:34,816] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:26:34,816] {logging_mixin.py:115} INFO - [2022-08-07 15:26:34,816] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:26:34,823] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:26:34,830] {logging_mixin.py:115} INFO - [2022-08-07 15:26:34,830] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:26:34,840] {logging_mixin.py:115} INFO - [2022-08-07 15:26:34,840] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:26:34,853] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.039 seconds
+[2022-08-07 15:27:10,791] {processor.py:153} INFO - Started process (PID=115185) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:27:10,791] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:27:10,791] {logging_mixin.py:115} INFO - [2022-08-07 15:27:10,791] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:27:10,799] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:27:10,808] {logging_mixin.py:115} INFO - [2022-08-07 15:27:10,808] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:27:10,817] {logging_mixin.py:115} INFO - [2022-08-07 15:27:10,817] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:27:10,826] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.037 seconds
+[2022-08-07 15:27:48,982] {processor.py:153} INFO - Started process (PID=115540) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:27:48,983] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:27:48,983] {logging_mixin.py:115} INFO - [2022-08-07 15:27:48,983] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:27:48,992] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:27:49,014] {logging_mixin.py:115} INFO - [2022-08-07 15:27:49,014] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:27:49,020] {logging_mixin.py:115} INFO - [2022-08-07 15:27:49,020] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:27:49,029] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.048 seconds
+[2022-08-07 15:28:26,325] {processor.py:153} INFO - Started process (PID=116071) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:28:26,325] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:28:26,326] {logging_mixin.py:115} INFO - [2022-08-07 15:28:26,326] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:28:26,334] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:28:26,341] {logging_mixin.py:115} INFO - [2022-08-07 15:28:26,341] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:28:26,350] {logging_mixin.py:115} INFO - [2022-08-07 15:28:26,350] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:28:26,359] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.035 seconds
+[2022-08-07 15:29:03,141] {processor.py:153} INFO - Started process (PID=116464) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:29:03,141] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:29:03,142] {logging_mixin.py:115} INFO - [2022-08-07 15:29:03,142] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:29:03,151] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:29:03,175] {logging_mixin.py:115} INFO - [2022-08-07 15:29:03,175] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:29:03,182] {logging_mixin.py:115} INFO - [2022-08-07 15:29:03,182] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:29:03,193] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-08-07 15:29:42,249] {processor.py:153} INFO - Started process (PID=116814) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:29:42,250] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:29:42,250] {logging_mixin.py:115} INFO - [2022-08-07 15:29:42,250] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:29:42,259] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:29:42,281] {logging_mixin.py:115} INFO - [2022-08-07 15:29:42,281] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:29:42,288] {logging_mixin.py:115} INFO - [2022-08-07 15:29:42,288] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:29:42,297] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2022-08-07 15:30:18,761] {processor.py:153} INFO - Started process (PID=117223) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:30:18,762] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:30:18,762] {logging_mixin.py:115} INFO - [2022-08-07 15:30:18,762] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:30:18,770] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:30:18,779] {logging_mixin.py:115} INFO - [2022-08-07 15:30:18,778] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:30:18,788] {logging_mixin.py:115} INFO - [2022-08-07 15:30:18,788] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:30:18,796] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.036 seconds
+[2022-08-07 15:30:56,855] {processor.py:153} INFO - Started process (PID=117632) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:30:56,856] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:30:56,856] {logging_mixin.py:115} INFO - [2022-08-07 15:30:56,856] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:30:56,868] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:30:56,878] {logging_mixin.py:115} INFO - [2022-08-07 15:30:56,878] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:30:56,892] {logging_mixin.py:115} INFO - [2022-08-07 15:30:56,892] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:30:56,907] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.053 seconds
+[2022-08-07 15:31:32,972] {processor.py:153} INFO - Started process (PID=118022) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:31:32,972] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:31:32,972] {logging_mixin.py:115} INFO - [2022-08-07 15:31:32,972] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:31:32,983] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:31:32,992] {logging_mixin.py:115} INFO - [2022-08-07 15:31:32,992] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:31:33,002] {logging_mixin.py:115} INFO - [2022-08-07 15:31:33,002] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:31:33,012] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.042 seconds
+[2022-08-07 15:32:11,115] {processor.py:153} INFO - Started process (PID=118749) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:32:11,115] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:32:11,115] {logging_mixin.py:115} INFO - [2022-08-07 15:32:11,115] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:32:11,133] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:32:11,178] {logging_mixin.py:115} INFO - [2022-08-07 15:32:11,178] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:32:11,193] {logging_mixin.py:115} INFO - [2022-08-07 15:32:11,193] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:32:11,207] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.095 seconds
+[2022-08-07 15:32:49,797] {processor.py:153} INFO - Started process (PID=119145) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:32:49,797] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:32:49,798] {logging_mixin.py:115} INFO - [2022-08-07 15:32:49,798] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:32:49,808] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:32:49,817] {logging_mixin.py:115} INFO - [2022-08-07 15:32:49,817] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:32:49,829] {logging_mixin.py:115} INFO - [2022-08-07 15:32:49,829] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:32:49,839] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.044 seconds
+[2022-08-07 15:33:31,516] {processor.py:153} INFO - Started process (PID=119523) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:33:31,517] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:33:31,517] {logging_mixin.py:115} INFO - [2022-08-07 15:33:31,517] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:33:31,530] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:33:31,567] {logging_mixin.py:115} INFO - [2022-08-07 15:33:31,567] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:33:31,584] {logging_mixin.py:115} INFO - [2022-08-07 15:33:31,583] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:33:31,596] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.082 seconds
+[2022-08-07 15:34:14,808] {processor.py:153} INFO - Started process (PID=120321) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:34:14,808] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:34:14,809] {logging_mixin.py:115} INFO - [2022-08-07 15:34:14,809] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:34:14,822] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:34:14,857] {logging_mixin.py:115} INFO - [2022-08-07 15:34:14,857] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:34:14,869] {logging_mixin.py:115} INFO - [2022-08-07 15:34:14,869] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:34:14,880] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.074 seconds
+[2022-08-07 15:34:30,597] {processor.py:153} INFO - Started process (PID=120556) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:34:30,597] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:34:30,597] {logging_mixin.py:115} INFO - [2022-08-07 15:34:30,597] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:34:30,607] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:34:30,612] {logging_mixin.py:115} INFO - [2022-08-07 15:34:30,612] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:34:30,623] {logging_mixin.py:115} INFO - [2022-08-07 15:34:30,623] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:34:30,634] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.039 seconds
+[2022-08-07 15:35:13,484] {processor.py:153} INFO - Started process (PID=121284) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:35:13,484] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:35:13,485] {logging_mixin.py:115} INFO - [2022-08-07 15:35:13,485] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:35:13,496] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:35:13,524] {logging_mixin.py:115} INFO - [2022-08-07 15:35:13,524] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:35:13,532] {logging_mixin.py:115} INFO - [2022-08-07 15:35:13,532] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:35:13,543] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.061 seconds
+[2022-08-07 15:35:50,179] {processor.py:153} INFO - Started process (PID=121778) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:35:50,180] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:35:50,180] {logging_mixin.py:115} INFO - [2022-08-07 15:35:50,180] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:35:50,192] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:35:50,225] {logging_mixin.py:115} INFO - [2022-08-07 15:35:50,225] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:35:50,239] {logging_mixin.py:115} INFO - [2022-08-07 15:35:50,239] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:35:50,254] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.077 seconds
+[2022-08-07 15:36:26,905] {processor.py:153} INFO - Started process (PID=122274) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:36:26,905] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:36:26,906] {logging_mixin.py:115} INFO - [2022-08-07 15:36:26,906] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:36:26,916] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:36:26,941] {logging_mixin.py:115} INFO - [2022-08-07 15:36:26,941] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:36:26,950] {logging_mixin.py:115} INFO - [2022-08-07 15:36:26,950] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:36:26,960] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.056 seconds
+[2022-08-07 15:37:04,772] {processor.py:153} INFO - Started process (PID=122836) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:37:04,773] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:37:04,774] {logging_mixin.py:115} INFO - [2022-08-07 15:37:04,773] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:37:04,787] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:37:04,812] {logging_mixin.py:115} INFO - [2022-08-07 15:37:04,812] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:37:04,820] {logging_mixin.py:115} INFO - [2022-08-07 15:37:04,820] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:37:04,830] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2022-08-07 15:37:41,936] {processor.py:153} INFO - Started process (PID=123296) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:37:41,936] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:37:41,937] {logging_mixin.py:115} INFO - [2022-08-07 15:37:41,937] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:37:41,947] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:37:41,979] {logging_mixin.py:115} INFO - [2022-08-07 15:37:41,979] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:37:41,989] {logging_mixin.py:115} INFO - [2022-08-07 15:37:41,989] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:37:42,001] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.068 seconds
+[2022-08-07 15:38:18,875] {processor.py:153} INFO - Started process (PID=123627) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:38:18,876] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:38:18,876] {logging_mixin.py:115} INFO - [2022-08-07 15:38:18,876] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:38:18,885] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:38:18,911] {logging_mixin.py:115} INFO - [2022-08-07 15:38:18,910] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:38:18,919] {logging_mixin.py:115} INFO - [2022-08-07 15:38:18,919] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:38:18,929] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.056 seconds
+[2022-08-07 15:38:44,743] {processor.py:153} INFO - Started process (PID=123907) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:38:44,743] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:38:44,743] {logging_mixin.py:115} INFO - [2022-08-07 15:38:44,743] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:38:44,754] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:38:44,760] {logging_mixin.py:115} INFO - [2022-08-07 15:38:44,760] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:38:44,770] {logging_mixin.py:115} INFO - [2022-08-07 15:38:44,770] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:38:44,782] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-08-07 15:39:18,519] {processor.py:153} INFO - Started process (PID=124299) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:39:18,520] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:39:18,520] {logging_mixin.py:115} INFO - [2022-08-07 15:39:18,520] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:39:18,531] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:39:18,562] {logging_mixin.py:115} INFO - [2022-08-07 15:39:18,562] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:39:18,572] {logging_mixin.py:115} INFO - [2022-08-07 15:39:18,572] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:39:18,589] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.072 seconds
+[2022-08-07 15:40:02,107] {processor.py:153} INFO - Started process (PID=125149) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:40:02,108] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:40:02,108] {logging_mixin.py:115} INFO - [2022-08-07 15:40:02,108] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:40:02,120] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:40:02,152] {logging_mixin.py:115} INFO - [2022-08-07 15:40:02,152] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:40:02,164] {logging_mixin.py:115} INFO - [2022-08-07 15:40:02,163] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:40:02,177] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.073 seconds
+[2022-08-07 15:40:39,429] {processor.py:153} INFO - Started process (PID=125512) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:40:39,429] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:40:39,430] {logging_mixin.py:115} INFO - [2022-08-07 15:40:39,430] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:40:39,439] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:40:39,466] {logging_mixin.py:115} INFO - [2022-08-07 15:40:39,466] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:40:39,476] {logging_mixin.py:115} INFO - [2022-08-07 15:40:39,476] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:40:39,487] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.060 seconds
+[2022-08-07 15:41:06,897] {processor.py:153} INFO - Started process (PID=125851) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:41:06,898] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:41:06,899] {logging_mixin.py:115} INFO - [2022-08-07 15:41:06,898] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:41:06,915] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:41:06,922] {logging_mixin.py:115} INFO - [2022-08-07 15:41:06,922] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:41:06,939] {logging_mixin.py:115} INFO - [2022-08-07 15:41:06,939] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:41:06,958] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2022-08-07 15:42:01,099] {processor.py:153} INFO - Started process (PID=126942) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:42:01,100] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:42:01,100] {logging_mixin.py:115} INFO - [2022-08-07 15:42:01,100] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:42:01,113] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:42:01,139] {logging_mixin.py:115} INFO - [2022-08-07 15:42:01,139] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:42:01,148] {logging_mixin.py:115} INFO - [2022-08-07 15:42:01,148] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:42:01,159] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2022-08-07 15:42:37,800] {processor.py:153} INFO - Started process (PID=127346) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:42:37,800] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:42:37,801] {logging_mixin.py:115} INFO - [2022-08-07 15:42:37,801] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:42:37,812] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:42:37,839] {logging_mixin.py:115} INFO - [2022-08-07 15:42:37,839] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:42:37,851] {logging_mixin.py:115} INFO - [2022-08-07 15:42:37,851] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:42:37,862] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2022-08-07 15:43:15,638] {processor.py:153} INFO - Started process (PID=127648) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:43:15,639] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:43:15,639] {logging_mixin.py:115} INFO - [2022-08-07 15:43:15,639] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:43:15,649] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:43:15,676] {logging_mixin.py:115} INFO - [2022-08-07 15:43:15,676] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:43:15,684] {logging_mixin.py:115} INFO - [2022-08-07 15:43:15,684] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:43:15,695] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.059 seconds
+[2022-08-07 15:43:54,271] {processor.py:153} INFO - Started process (PID=127932) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:43:54,271] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:43:54,272] {logging_mixin.py:115} INFO - [2022-08-07 15:43:54,272] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:43:54,281] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:43:54,311] {logging_mixin.py:115} INFO - [2022-08-07 15:43:54,311] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:43:54,319] {logging_mixin.py:115} INFO - [2022-08-07 15:43:54,319] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:43:54,331] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2022-08-07 15:44:32,688] {processor.py:153} INFO - Started process (PID=128174) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:44:32,689] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:44:32,689] {logging_mixin.py:115} INFO - [2022-08-07 15:44:32,689] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:44:32,702] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:44:32,710] {logging_mixin.py:115} INFO - [2022-08-07 15:44:32,710] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:44:32,721] {logging_mixin.py:115} INFO - [2022-08-07 15:44:32,721] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:44:32,732] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-08-07 15:45:08,498] {processor.py:153} INFO - Started process (PID=128433) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:45:08,499] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:45:08,500] {logging_mixin.py:115} INFO - [2022-08-07 15:45:08,500] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:45:08,512] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:45:08,539] {logging_mixin.py:115} INFO - [2022-08-07 15:45:08,539] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:45:08,548] {logging_mixin.py:115} INFO - [2022-08-07 15:45:08,548] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:45:08,558] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2022-08-07 15:45:45,943] {processor.py:153} INFO - Started process (PID=128660) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:45:45,944] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:45:45,944] {logging_mixin.py:115} INFO - [2022-08-07 15:45:45,944] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:45:45,953] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:45:45,978] {logging_mixin.py:115} INFO - [2022-08-07 15:45:45,978] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:45:45,986] {logging_mixin.py:115} INFO - [2022-08-07 15:45:45,986] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:45:45,996] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-08-07 15:46:24,932] {processor.py:153} INFO - Started process (PID=128929) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:46:24,933] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:46:24,933] {logging_mixin.py:115} INFO - [2022-08-07 15:46:24,933] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:46:24,942] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:46:24,967] {logging_mixin.py:115} INFO - [2022-08-07 15:46:24,967] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:46:24,975] {logging_mixin.py:115} INFO - [2022-08-07 15:46:24,975] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:46:24,984] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-08-07 15:47:01,025] {processor.py:153} INFO - Started process (PID=129139) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:47:01,026] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:47:01,026] {logging_mixin.py:115} INFO - [2022-08-07 15:47:01,026] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:47:01,037] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:47:01,046] {logging_mixin.py:115} INFO - [2022-08-07 15:47:01,045] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:47:01,056] {logging_mixin.py:115} INFO - [2022-08-07 15:47:01,056] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:47:01,065] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.042 seconds
+[2022-08-07 15:47:38,190] {processor.py:153} INFO - Started process (PID=129311) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:47:38,191] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:47:38,191] {logging_mixin.py:115} INFO - [2022-08-07 15:47:38,191] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:47:38,203] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:47:38,211] {logging_mixin.py:115} INFO - [2022-08-07 15:47:38,211] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:47:38,221] {logging_mixin.py:115} INFO - [2022-08-07 15:47:38,221] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:47:38,232] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2022-08-07 15:48:15,276] {processor.py:153} INFO - Started process (PID=129599) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:48:15,277] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:48:15,278] {logging_mixin.py:115} INFO - [2022-08-07 15:48:15,278] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:48:15,287] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:48:15,296] {logging_mixin.py:115} INFO - [2022-08-07 15:48:15,296] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:48:15,306] {logging_mixin.py:115} INFO - [2022-08-07 15:48:15,306] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:48:15,316] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-08-07 15:48:51,247] {processor.py:153} INFO - Started process (PID=129807) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:48:51,247] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:48:51,248] {logging_mixin.py:115} INFO - [2022-08-07 15:48:51,247] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:48:51,257] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:48:51,266] {logging_mixin.py:115} INFO - [2022-08-07 15:48:51,266] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:48:51,276] {logging_mixin.py:115} INFO - [2022-08-07 15:48:51,276] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:48:51,288] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.044 seconds
+[2022-08-07 15:49:27,214] {processor.py:153} INFO - Started process (PID=130124) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:49:27,214] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:49:27,214] {logging_mixin.py:115} INFO - [2022-08-07 15:49:27,214] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:49:27,224] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:49:27,233] {logging_mixin.py:115} INFO - [2022-08-07 15:49:27,232] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:49:27,243] {logging_mixin.py:115} INFO - [2022-08-07 15:49:27,243] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:49:27,253] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.041 seconds
+[2022-08-07 15:50:03,426] {processor.py:153} INFO - Started process (PID=130538) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:50:03,427] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:50:03,428] {logging_mixin.py:115} INFO - [2022-08-07 15:50:03,428] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:50:03,438] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:50:03,468] {logging_mixin.py:115} INFO - [2022-08-07 15:50:03,468] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:50:03,478] {logging_mixin.py:115} INFO - [2022-08-07 15:50:03,477] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:50:03,493] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.068 seconds
+[2022-08-07 15:50:39,998] {processor.py:153} INFO - Started process (PID=130768) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:50:39,998] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:50:39,999] {logging_mixin.py:115} INFO - [2022-08-07 15:50:39,999] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:50:40,008] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:50:40,017] {logging_mixin.py:115} INFO - [2022-08-07 15:50:40,017] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:50:40,028] {logging_mixin.py:115} INFO - [2022-08-07 15:50:40,028] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:50:40,040] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.044 seconds
+[2022-08-07 15:51:16,157] {processor.py:153} INFO - Started process (PID=131069) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:51:16,158] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:51:16,158] {logging_mixin.py:115} INFO - [2022-08-07 15:51:16,158] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:51:16,172] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:51:16,209] {logging_mixin.py:115} INFO - [2022-08-07 15:51:16,209] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:51:16,223] {logging_mixin.py:115} INFO - [2022-08-07 15:51:16,222] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:51:16,238] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.083 seconds
+[2022-08-07 15:51:54,432] {processor.py:153} INFO - Started process (PID=131336) to work on /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:51:54,432] {processor.py:641} INFO - Processing file /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-07 15:51:54,433] {logging_mixin.py:115} INFO - [2022-08-07 15:51:54,432] {dagbag.py:508} INFO - Filling up the DagBag from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:51:54,443] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-07 15:51:54,452] {logging_mixin.py:115} INFO - [2022-08-07 15:51:54,452] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-07 15:51:54,464] {logging_mixin.py:115} INFO - [2022-08-07 15:51:54,464] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-07 15:51:54,475] {processor.py:161} INFO - Processing /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.045 seconds

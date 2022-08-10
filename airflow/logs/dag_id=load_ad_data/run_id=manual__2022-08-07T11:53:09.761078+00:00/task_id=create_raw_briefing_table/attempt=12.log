@@ -1,0 +1,46 @@
+[2022-08-07 15:41:46,236] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: load_ad_data.create_raw_briefing_table manual__2022-08-07T11:53:09.761078+00:00 [queued]>
+[2022-08-07 15:41:46,292] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: load_ad_data.create_raw_briefing_table manual__2022-08-07T11:53:09.761078+00:00 [queued]>
+[2022-08-07 15:41:46,292] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-07 15:41:46,292] {taskinstance.py:1377} INFO - Starting attempt 12 of 17
+[2022-08-07 15:41:46,293] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-07 15:41:46,303] {taskinstance.py:1397} INFO - Executing <Task(PostgresOperator): create_raw_briefing_table> on 2022-08-07 11:53:09.761078+00:00
+[2022-08-07 15:41:46,307] {standard_task_runner.py:52} INFO - Started process 126624 to run task
+[2022-08-07 15:41:46,310] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'load_ad_data', 'create_raw_briefing_table', 'manual__2022-08-07T11:53:09.761078+00:00', '--job-id', '241', '--raw', '--subdir', 'DAGS_FOLDER/create_dag_raw_data_loader.py', '--cfg-path', '/tmp/tmpm3f42hp5', '--error-file', '/tmp/tmpcmh3gwjl']
+[2022-08-07 15:41:46,310] {standard_task_runner.py:80} INFO - Job 241: Subtask create_raw_briefing_table
+[2022-08-07 15:41:46,322] {logging_mixin.py:115} WARNING - /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/configuration.py:532 DeprecationWarning: The sql_engine_encoding option in [core] has been moved to the sql_engine_encoding option in [database] - the old setting has been used, but please update your config.
+[2022-08-07 15:41:46,340] {task_command.py:371} INFO - Running <TaskInstance: load_ad_data.create_raw_briefing_table manual__2022-08-07T11:53:09.761078+00:00 [running]> on host hp-HP-Pavilion-Laptop-15-eg0xxx
+[2022-08-07 15:41:46,369] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=tesfaye
+AIRFLOW_CTX_DAG_ID=load_ad_data
+AIRFLOW_CTX_TASK_ID=create_raw_briefing_table
+AIRFLOW_CTX_EXECUTION_DATE=2022-08-07T11:53:09.761078+00:00
+AIRFLOW_CTX_TRY_NUMBER=12
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-08-07T11:53:09.761078+00:00
+[2022-08-07 15:41:46,377] {base.py:68} INFO - Using connection ID 'postgres_connection' for task execution.
+[2022-08-07 15:41:46,393] {sql.py:255} INFO - Running statement: create table IF NOT EXISTS "briefing" (
+    "campaign_id" varchar(7), 
+    "campaign_name" varchar(85), 
+    "submission_date" varchar(16), 
+    "description" text, 
+    "campaign_objectives" varchar(192), 
+    "kpis" varchar(39), 
+    "placements" varchar(78),
+    "startdate" varchar(10), 
+    "enddate" varchar(10),
+    "serving_locations" varchar(35),
+    "blackwhiteaudience_list_included" varchar(95), 
+    "delivery_requirements_blackaudiencewhite_list" varchar(155) null, 
+    "cost_centre" varchar(4), 
+    "currency" varchar(3), 
+    "buy_rate_cpe" real null, 
+    "volume_agreed" real null, 
+    "gross_costbudget" real null, 
+    "agency_fee" varchar(10) null, 
+    "percentage" integer null, 
+    "flat_fee" real null, 
+    "net_cost" real null), parameters: None
+[2022-08-07 15:41:46,404] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=load_ad_data, task_id=create_raw_briefing_table, execution_date=20220807T115309, start_date=20220807T124146, end_date=20220807T124146
+[2022-08-07 15:41:46,440] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-08-07 15:41:46,461] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

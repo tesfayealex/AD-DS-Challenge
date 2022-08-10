@@ -1,0 +1,39 @@
+[2022-08-07 15:37:03,154] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: load_ad_data.load_briefing_data manual__2022-08-07T11:53:09.761078+00:00 [queued]>
+[2022-08-07 15:37:03,209] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: load_ad_data.load_briefing_data manual__2022-08-07T11:53:09.761078+00:00 [queued]>
+[2022-08-07 15:37:03,209] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-07 15:37:03,209] {taskinstance.py:1377} INFO - Starting attempt 19 of 23
+[2022-08-07 15:37:03,209] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-07 15:37:03,218] {taskinstance.py:1397} INFO - Executing <Task(PostgresOperator): load_briefing_data> on 2022-08-07 11:53:09.761078+00:00
+[2022-08-07 15:37:03,221] {standard_task_runner.py:52} INFO - Started process 122810 to run task
+[2022-08-07 15:37:03,223] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'load_ad_data', 'load_briefing_data', 'manual__2022-08-07T11:53:09.761078+00:00', '--job-id', '225', '--raw', '--subdir', 'DAGS_FOLDER/create_dag_raw_data_loader.py', '--cfg-path', '/tmp/tmpts1un8jc', '--error-file', '/tmp/tmp1yncsfbx']
+[2022-08-07 15:37:03,224] {standard_task_runner.py:80} INFO - Job 225: Subtask load_briefing_data
+[2022-08-07 15:37:03,236] {logging_mixin.py:115} WARNING - /home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/configuration.py:532 DeprecationWarning: The sql_engine_encoding option in [core] has been moved to the sql_engine_encoding option in [database] - the old setting has been used, but please update your config.
+[2022-08-07 15:37:03,252] {task_command.py:371} INFO - Running <TaskInstance: load_ad_data.load_briefing_data manual__2022-08-07T11:53:09.761078+00:00 [running]> on host hp-HP-Pavilion-Laptop-15-eg0xxx
+[2022-08-07 15:37:03,280] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=tesfaye
+AIRFLOW_CTX_DAG_ID=load_ad_data
+AIRFLOW_CTX_TASK_ID=load_briefing_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-08-07T11:53:09.761078+00:00
+AIRFLOW_CTX_TRY_NUMBER=19
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-08-07T11:53:09.761078+00:00
+[2022-08-07 15:37:03,287] {base.py:68} INFO - Using connection ID 'postgres_connection' for task execution.
+[2022-08-07 15:37:03,306] {sql.py:255} INFO - Running statement: COPY briefing FROM '/home/hp/airflow/data/briefing.csv' WITH DELIMITER AS ',' NULL AS '\null' CSV HEADER;, parameters: None
+[2022-08-07 15:37:03,309] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/providers/postgres/operators/postgres.py", line 92, in execute
+    self.hook.run(self.sql, self.autocommit, parameters=self.parameters)
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/providers/common/sql/hooks/sql.py", line 234, in run
+    self._run_command(cur, sql_statement, parameters)
+  File "/home/hp/miniconda3/envs/checker/lib/python3.8/site-packages/airflow/providers/common/sql/hooks/sql.py", line 260, in _run_command
+    cur.execute(sql_statement)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type real: ""
+CONTEXT:  COPY briefing, line 358, column buy_rate_cpe: ""
+
+[2022-08-07 15:37:03,312] {taskinstance.py:1415} INFO - Marking task as UP_FOR_RETRY. dag_id=load_ad_data, task_id=load_briefing_data, execution_date=20220807T115309, start_date=20220807T123703, end_date=20220807T123703
+[2022-08-07 15:37:03,321] {standard_task_runner.py:92} ERROR - Failed to execute job 225 for task load_briefing_data (invalid input syntax for type real: ""
+CONTEXT:  COPY briefing, line 358, column buy_rate_cpe: ""
+; 122810)
+[2022-08-07 15:37:03,355] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-08-07 15:37:03,369] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
