@@ -36,11 +36,9 @@ class CleanDataFrame:
         Takes in the sales dataframe an casts columns to proper data type
         """
         try:
-            datetime_columns = ['Date']
-            string_columns = ['PromoInterval',
-                              'StoreType', 'Assortment', 'StateHoliday']
-            int_columns = ['CompetitionOpenSinceYear',
-                           'CompetitionOpenSinceMonth', 'Promo2SinceWeek', 'Promo2SinceYear']
+            datetime_columns = ["submission_date" , "enddate" , "startdate"]
+            string_columns = ["device_type","type","campaign_id" , "creative_id","geo_country","site_name","agency_fee" , "serving_locations","cost_centre","currency","browser"]
+            num_columns = ['percentage','net_cost','flat_fee','gross_costbudget','volume_agreed','buy_rate_cpe','platform_os','width','height']
             df_columns = df.columns
             for col in string_columns:
                 if col in df_columns:
@@ -50,9 +48,9 @@ class CleanDataFrame:
                 if col in df_columns:
                     df[col] = pd.to_datetime(df[col])
                 logger.info(f'successfully changed {col} column to datetime')
-            for col in int_columns:
+            for col in num_columns:
                 if col in df_columns:
-                    df[col] = df[col].astype("int64")
+                    df[col] = df[col].astype("float64")
                 logger.info(f'successfully changed {col} column to integer')
             if column and to_type:
                 df[column] = df[column].astype(to_type)
@@ -321,3 +319,63 @@ class CleanDataFrame:
         except Exception as e:
             logger.error(e)
         return df
+
+    def replace_outliers_with_fences(self,df ,columns):
+        
+        for col in columns:
+            Q1, Q3 = df[col].quantile(0.25), df[col].quantile(0.75)
+            IQR = Q3 - Q1
+            cut_off = IQR * 1.5
+            lower, upper = Q1 - cut_off, Q3 + cut_off
+
+            df[col] = np.where(df[col] > upper, upper, df[col])
+            df[col] = np.where(df[col] < lower, lower, df[col])
+            return df
+
+    def count_outliers(self,df ,Q1, Q3, IQR, columns):
+        cut_off = IQR * 1.5
+        temp_df = (df[columns] < (Q1 - cut_off)) | (df[columns] > (Q3 + cut_off))
+        return [len(temp_df[temp_df[col] == True]) for col in temp_df]
+
+    def getOverview(self, df,columns) -> None:
+        min = df[columns].min()
+        Q1 = df[columns].quantile(0.25)
+        median = df[columns].quantile(0.5)
+        Q3 = df[columns].quantile(0.75)
+        max = df[columns].max()
+        IQR = Q3 - Q1
+        skew = [df[col].skew() for col in columns]
+        outliers = self.count_outliers(df , Q1,Q3, IQR, columns)
+        cut_off = IQR * 1.5
+        lower, upper = Q1 - cut_off, Q3 + cut_off
+
+        new_columns = [
+            'Name of columns',
+            'Min',
+            'Q1',
+            'Median',
+            'Q3',
+            'Max',
+            'IQR',
+            'Lower fence',
+            'Upper fence',
+            'Skew',
+            'Number_of_outliers',
+            'Percentage_of_outliers' ]
+        data = zip(
+            [column for column in df[columns]],
+            min,
+            Q1,
+            median,
+            Q3,
+            max,
+            IQR,
+            lower,
+            upper,
+            skew,
+            outliers,
+            [str(round(((value/150001) * 100), 2)) + '%' for value in outliers]
+        )
+        new_df = pd.DataFrame(data=data, columns=new_columns)
+        new_df.set_index('Name of columns', inplace=True)
+        return new_df.sort_values('Number_of_outliers', ascending=False).transpose()

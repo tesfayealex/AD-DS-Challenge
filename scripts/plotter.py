@@ -24,7 +24,7 @@ class Plotter:
     def plot_count(self, df: pd.DataFrame, column: str) -> None:
         try:
 
-            plt.figure(figsize=(12, 7))
+            plt.figure(figsize=(25, 10))
             sns.countplot(data=df, x=column)
             plt.title(f'Distribution of {column}', size=20, fontweight='bold')
             # plt.show()
@@ -70,6 +70,19 @@ class Plotter:
         except Exception as e:
             logger.error(e)
         return plt
+    
+    def plot_corr_heatmap_one_against_all(self , df , column):
+        corr_df = pd.DataFrame(df.drop(columns=[column]).corrwith(df[column])).sort_values(by=0, ascending=False)
+        corr = corr_df.T
+        mask = np.zeros_like(corr, dtype=bool)
+        mask[np.triu_indices_from(mask)] = True
+        cmap = sns.diverging_palette(200, 20, as_cmap=True)
+        fig, ax = plt.subplots(figsize=(15, 12))
+        heatmap = sns.heatmap(corr, square=True, linewidths=.5,
+                            vmin=-1, vmax=1, annot=True, fmt='.1f')
+        heatmap.set_title(f'Correlation Between {column} and Other Features',
+                        fontdict={'fontsize': 16}, pad=12)
+        # plt.show()
 
     def plot_box(self, df: pd.DataFrame, x_col: str, title: str) -> None:
         try:

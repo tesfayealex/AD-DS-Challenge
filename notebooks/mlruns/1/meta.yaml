@@ -1,0 +1,4 @@
+artifact_location: file:///home/hp/Downloads/pr/AD-DS-Challenge/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Random Forest impression prediction with cleaned data

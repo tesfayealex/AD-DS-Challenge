@@ -127,3 +127,419 @@
 2022-08-09 09:34:51,361:logger:MAE Score: 0.27897323313482986
 2022-08-09 09:34:51,365:logger:Accuracy: 27.24 %.
 2022-08-09 09:34:51,412:logger:feature importance plotted
+2022-08-10 04:36:03,301:logger:successfully fetched the data
+2022-08-10 05:14:38,440:logger:successfully fetched the data
+2022-08-10 05:16:41,030:logger:successfully fetched the data
+2022-08-10 05:17:12,226:logger:The dataset contains 22.01 % missing values.
+2022-08-10 05:19:11,812:logger:The dataset contains 22.01 % missing values.
+2022-08-10 05:19:56,687:logger:successfully droped duplicates
+2022-08-10 05:28:20,378:logger:successfully fetched the data
+2022-08-10 05:28:24,044:logger:The dataset contains 22.01 % missing values.
+2022-08-10 05:28:27,049:logger:successfully changed device_type column to string
+2022-08-10 05:28:27,357:logger:successfully changed type column to string
+2022-08-10 05:28:27,655:logger:successfully changed campaign_id column to string
+2022-08-10 05:28:27,943:logger:successfully changed creative_id column to string
+2022-08-10 05:28:28,226:logger:successfully changed geo_country column to string
+2022-08-10 05:28:28,494:logger:successfully changed site_name column to string
+2022-08-10 05:28:28,760:logger:successfully changed agency_fee column to string
+2022-08-10 05:28:29,007:logger:successfully changed serving_locations column to string
+2022-08-10 05:28:29,233:logger:successfully changed cost_centre column to string
+2022-08-10 05:28:29,450:logger:successfully changed currency column to string
+2022-08-10 05:28:29,650:logger:successfully changed browser column to string
+2022-08-10 05:28:29,852:logger:successfully changed submission_date column to datetime
+2022-08-10 05:28:30,114:logger:successfully changed enddate column to datetime
+2022-08-10 05:28:30,356:logger:successfully changed startdate column to datetime
+2022-08-10 05:28:30,358:logger:successfully changed percentage column to integer
+2022-08-10 05:28:30,360:logger:successfully changed net_cost column to integer
+2022-08-10 05:28:30,361:logger:successfully changed flat_fee column to integer
+2022-08-10 05:28:30,362:logger:successfully changed gross_costbudget column to integer
+2022-08-10 05:28:30,364:logger:successfully changed volume_agreed column to integer
+2022-08-10 05:28:30,365:logger:successfully changed buy_rate_cpe column to integer
+2022-08-10 05:28:30,483:logger:successfully changed platform_os column to integer
+2022-08-10 05:28:30,485:logger:successfully changed width column to integer
+2022-08-10 05:28:30,487:logger:successfully changed height column to integer
+2022-08-10 05:28:30,487:logger:successfully finished fixing datatype
+2022-08-10 05:28:32,652:logger:successfully droped duplicates
+2022-08-10 05:29:50,462:logger:successfully fetched the data
+2022-08-10 05:29:53,231:logger:The dataset contains 22.01 % missing values.
+2022-08-10 05:29:55,958:logger:successfully changed device_type column to string
+2022-08-10 05:29:56,257:logger:successfully changed type column to string
+2022-08-10 05:29:56,548:logger:successfully changed campaign_id column to string
+2022-08-10 05:29:56,825:logger:successfully changed creative_id column to string
+2022-08-10 05:29:57,094:logger:successfully changed geo_country column to string
+2022-08-10 05:29:57,344:logger:successfully changed site_name column to string
+2022-08-10 05:29:57,585:logger:successfully changed agency_fee column to string
+2022-08-10 05:29:57,813:logger:successfully changed serving_locations column to string
+2022-08-10 05:29:58,029:logger:successfully changed cost_centre column to string
+2022-08-10 05:29:58,228:logger:successfully changed currency column to string
+2022-08-10 05:29:58,424:logger:successfully changed browser column to string
+2022-08-10 05:29:58,638:logger:successfully changed submission_date column to datetime
+2022-08-10 05:29:58,901:logger:successfully changed enddate column to datetime
+2022-08-10 05:29:59,147:logger:successfully changed startdate column to datetime
+2022-08-10 05:29:59,149:logger:successfully changed percentage column to integer
+2022-08-10 05:29:59,151:logger:successfully changed net_cost column to integer
+2022-08-10 05:29:59,152:logger:successfully changed flat_fee column to integer
+2022-08-10 05:29:59,154:logger:successfully changed gross_costbudget column to integer
+2022-08-10 05:29:59,156:logger:successfully changed volume_agreed column to integer
+2022-08-10 05:29:59,157:logger:successfully changed buy_rate_cpe column to integer
+2022-08-10 05:29:59,273:logger:successfully changed platform_os column to integer
+2022-08-10 05:29:59,275:logger:successfully changed width column to integer
+2022-08-10 05:29:59,277:logger:successfully changed height column to integer
+2022-08-10 05:29:59,277:logger:successfully finished fixing datatype
+2022-08-10 05:30:01,482:logger:successfully droped duplicates
+2022-08-10 05:35:45,567:logger:The dataset contains 22.01 % missing values.
+2022-08-10 05:36:19,395:logger:successfully changed device_type column to string
+2022-08-10 05:36:19,681:logger:successfully changed type column to string
+2022-08-10 05:36:19,978:logger:successfully changed campaign_id column to string
+2022-08-10 05:36:20,247:logger:successfully changed creative_id column to string
+2022-08-10 05:36:20,525:logger:successfully changed geo_country column to string
+2022-08-10 05:36:20,775:logger:successfully changed site_name column to string
+2022-08-10 05:36:21,025:logger:successfully changed agency_fee column to string
+2022-08-10 05:36:21,258:logger:successfully changed serving_locations column to string
+2022-08-10 05:36:21,468:logger:successfully changed cost_centre column to string
+2022-08-10 05:36:21,670:logger:successfully changed currency column to string
+2022-08-10 05:36:21,857:logger:successfully changed browser column to string
+2022-08-10 05:36:22,051:logger:successfully changed submission_date column to datetime
+2022-08-10 05:36:22,303:logger:successfully changed enddate column to datetime
+2022-08-10 05:36:22,544:logger:successfully changed startdate column to datetime
+2022-08-10 05:36:22,546:logger:successfully changed percentage column to integer
+2022-08-10 05:36:22,548:logger:successfully changed net_cost column to integer
+2022-08-10 05:36:22,548:logger:successfully changed flat_fee column to integer
+2022-08-10 05:36:22,549:logger:successfully changed gross_costbudget column to integer
+2022-08-10 05:36:22,552:logger:successfully changed volume_agreed column to integer
+2022-08-10 05:36:22,554:logger:successfully changed buy_rate_cpe column to integer
+2022-08-10 05:36:22,671:logger:successfully changed platform_os column to integer
+2022-08-10 05:36:22,673:logger:successfully changed width column to integer
+2022-08-10 05:36:22,677:logger:successfully changed height column to integer
+2022-08-10 05:36:22,677:logger:successfully finished fixing datatype
+2022-08-10 05:43:27,119:logger:successfully droped duplicates
+2022-08-10 06:08:32,879:logger:successfully fetched the data
+2022-08-10 06:08:35,767:logger:The dataset contains 22.01 % missing values.
+2022-08-10 06:08:38,737:logger:successfully changed device_type column to string
+2022-08-10 06:08:39,033:logger:successfully changed type column to string
+2022-08-10 06:08:39,319:logger:successfully changed campaign_id column to string
+2022-08-10 06:08:39,589:logger:successfully changed creative_id column to string
+2022-08-10 06:08:39,849:logger:successfully changed geo_country column to string
+2022-08-10 06:08:40,090:logger:successfully changed site_name column to string
+2022-08-10 06:08:40,326:logger:successfully changed agency_fee column to string
+2022-08-10 06:08:40,548:logger:successfully changed serving_locations column to string
+2022-08-10 06:08:40,769:logger:successfully changed cost_centre column to string
+2022-08-10 06:08:40,971:logger:successfully changed currency column to string
+2022-08-10 06:08:41,165:logger:successfully changed browser column to string
+2022-08-10 06:08:41,368:logger:successfully changed submission_date column to datetime
+2022-08-10 06:08:41,635:logger:successfully changed enddate column to datetime
+2022-08-10 06:08:41,883:logger:successfully changed startdate column to datetime
+2022-08-10 06:08:41,885:logger:successfully changed percentage column to integer
+2022-08-10 06:08:41,886:logger:successfully changed net_cost column to integer
+2022-08-10 06:08:41,887:logger:successfully changed flat_fee column to integer
+2022-08-10 06:08:41,888:logger:successfully changed gross_costbudget column to integer
+2022-08-10 06:08:41,889:logger:successfully changed volume_agreed column to integer
+2022-08-10 06:08:41,890:logger:successfully changed buy_rate_cpe column to integer
+2022-08-10 06:08:42,009:logger:successfully changed platform_os column to integer
+2022-08-10 06:08:42,012:logger:successfully changed width column to integer
+2022-08-10 06:08:42,014:logger:successfully changed height column to integer
+2022-08-10 06:08:42,014:logger:successfully finished fixing datatype
+2022-08-10 06:08:46,762:logger:successfully droped duplicates
+2022-08-10 06:55:45,940:logger:successfully fetched the data
+2022-08-10 06:55:48,820:logger:The dataset contains 22.01 % missing values.
+2022-08-10 06:55:51,573:logger:successfully changed device_type column to string
+2022-08-10 06:55:51,858:logger:successfully changed type column to string
+2022-08-10 06:55:52,133:logger:successfully changed campaign_id column to string
+2022-08-10 06:55:52,407:logger:successfully changed creative_id column to string
+2022-08-10 06:55:52,665:logger:successfully changed geo_country column to string
+2022-08-10 06:55:52,909:logger:successfully changed site_name column to string
+2022-08-10 06:55:53,145:logger:successfully changed agency_fee column to string
+2022-08-10 06:55:53,371:logger:successfully changed serving_locations column to string
+2022-08-10 06:55:53,582:logger:successfully changed cost_centre column to string
+2022-08-10 06:55:53,792:logger:successfully changed currency column to string
+2022-08-10 06:55:53,986:logger:successfully changed browser column to string
+2022-08-10 06:55:54,191:logger:successfully changed submission_date column to datetime
+2022-08-10 06:55:54,446:logger:successfully changed enddate column to datetime
+2022-08-10 06:55:54,691:logger:successfully changed startdate column to datetime
+2022-08-10 06:55:54,693:logger:successfully changed percentage column to integer
+2022-08-10 06:55:54,694:logger:successfully changed net_cost column to integer
+2022-08-10 06:55:54,695:logger:successfully changed flat_fee column to integer
+2022-08-10 06:55:54,696:logger:successfully changed gross_costbudget column to integer
+2022-08-10 06:55:54,697:logger:successfully changed volume_agreed column to integer
+2022-08-10 06:55:54,698:logger:successfully changed buy_rate_cpe column to integer
+2022-08-10 06:55:54,815:logger:successfully changed platform_os column to integer
+2022-08-10 06:55:54,817:logger:successfully changed width column to integer
+2022-08-10 06:55:54,819:logger:successfully changed height column to integer
+2022-08-10 06:55:54,820:logger:successfully finished fixing datatype
+2022-08-10 06:55:59,516:logger:successfully droped duplicates
+2022-08-10 06:57:38,404:logger:(psycopg2.ProgrammingError) can't adapt type 'dict'
+[SQL: INSERT INTO mlready_warehouse (campaign_id, game_key, type, width, height, creative_id, auction_id, browser_ts, geo_country, site_name, platform_os, device_type, browser, labels, text, colors, videos_data, eng_type, direction, adunit_sizes, campaign_name, submission_date, description, campaign_objectives, kpis, placements, startdate, enddate, serving_locations, blackwhiteaudience_list_included, delivery_requirements_blackaudiencewhite_list, cost_centre, currency, buy_rate_cpe, volume_agreed, gross_costbudget, agency_fee, percentage, net_cost, row_num, labels_engagement, labels_click_through, text_engagement, text_click_through, "ER", "CTR", "TR") VALUES (%(campaign_id)s, %(game_key)s, %(type)s, %(width)s, %(height)s, %(creative_id)s, %(auction_id)s, %(browser_ts)s, %(geo_country)s, %(site_name)s, %(platform_os)s, %(device_type)s, %(browser)s, %(labels)s, %(text)s, %(colors)s, %(videos_data)s, %(eng_type)s, %(direction)s, %(adunit_sizes)s, %(campaign_name)s, %(submission_date)s, %(description)s, %(campaign_objectives)s, %(kpis)s, %(placements)s, %(startdate)s, %(enddate)s, %(serving_locations)s, %(blackwhiteaudience_list_included)s, %(delivery_requirements_blackaudiencewhite_list)s, %(cost_centre)s, %(currency)s, %(buy_rate_cpe)s, %(volume_agreed)s, %(gross_costbudget)s, %(agency_fee)s, %(percentage)s, %(net_cost)s, %(row_num)s, %(labels_engagement)s, %(labels_click_through)s, %(text_engagement)s, %(text_click_through)s, %(ER)s, %(CTR)s, %(TR)s)]
+[parameters: ({'campaign_id': 'l5kk3r3', 'game_key': 'adunit-facebook-conversational-commerce-phase-2-thailand-coffeehouse-mob-v2/48e47efe77cf8ba829f3', 'type': 'impression', 'width': 300.0, 'height': 300.0, 'creative_id': 'x83byc8a', 'auction_id': 'fd74243f-6606-4830-a0ef-dd12f66ec6f5', 'browser_ts': datetime.datetime(2021, 1, 1, 19, 55, 20, 291000, tzinfo=<UTC>), 'geo_country': 'Thailand', 'site_name': 'www.wuxiaworld.com', 'platform_os': 6.0, 'device_type': 'Mobile', 'browser': 'Chrome', 'labels': {'engagement': [], 'click_through': []}, 'text': {'engagement': [], 'click_through': []}, 'colors': None, 'videos_data': None, 'eng_type': None, 'direction': None, 'adunit_sizes': None, 'campaign_name': 'FACEBOOK_CONVERSATIONAL COMMERCE_2020_09_TH', 'submission_date': datetime.datetime(2021, 6, 18, 3, 18), 'description': 'Storyboard Due Date :\r\nAs determined by campaigns team. \r\n\r\nBrand & Product Background :\r\nConversational Commerce (CC), the use of messaging  ... (533 characters truncated) ... Businesses still need guidance on understanding what solutions are available and getting them implemented\r\n\r\nSymptoms of this challenge:\r\n\r\no', 'campaign_objectives': 'Brand Awareness\nProduct Awareness\nMessage Recall\nSentiment / Favourability\nConsideration / Purchase Intent\nDrive Traffic (to site)\nAudience Engagement', 'kpis': 'Engagement Rate', 'placements': '320x480 (Fullscreen mobile / interstitial)\n300x250 (MPU)', 'startdate': datetime.datetime(2021, 12, 7, 0, 0), 'enddate': datetime.datetime(2021, 8, 9, 0, 0), 'serving_locations': 'Singapore', 'blackwhiteaudience_list_included': 'No black/white/audience list for this campaign', 'delivery_requirements_blackaudiencewhite_list': None, 'cost_centre': 'SGP', 'currency': 'USD', 'buy_rate_cpe': 0.28, 'volume_agreed': 242185.0, 'gross_costbudget': 67811.8, 'agency_fee': 'Percentage', 'percentage': 15.0, 'net_cost': 57640.03, 'row_num': 1, 'labels_engagement': '', 'labels_click_through': '', 'text_engagement': '', 'text_click_through': '', 'ER': 0.0, 'CTR': 0.0, 'TR': 0.0}, {'campaign_id': 'l5kk3r3', 'game_key': 'adunit-facebook-conversational-commerce-phase-2-thailand-coffeehouse-mob-v2/48e47efe77cf8ba829f3', 'type': 'impression', 'width': 300.0, 'height': 300.0, 'creative_id': 'x83byc8a', 'auction_id': 'fd74243f-6606-4830-a0ef-dd12f66ec6f5', 'browser_ts': datetime.datetime(2021, 1, 1, 19, 55, 20, 298000, tzinfo=<UTC>), 'geo_country': 'Thailand', 'site_name': 'www.wuxiaworld.com', 'platform_os': 6.0, 'device_type': 'Mobile', 'browser': 'Mobile Safari UI/WKWebView', 'labels': {'engagement': [], 'click_through': []}, 'text': {'engagement': [], 'click_through': []}, 'colors': None, 'videos_data': None, 'eng_type': None, 'direction': None, 'adunit_sizes': None, 'campaign_name': 'FACEBOOK_CONVERSATIONAL COMMERCE_2020_09_TH', 'submission_date': datetime.datetime(2021, 6, 18, 3, 18), 'description': 'Storyboard Due Date :\r\nAs determined by campaigns team. \r\n\r\nBrand & Product Background :\r\nConversational Commerce (CC), the use of messaging  ... (533 characters truncated) ... Businesses still need guidance on understanding what solutions are available and getting them implemented\r\n\r\nSymptoms of this challenge:\r\n\r\no', 'campaign_objectives': 'Brand Awareness\nProduct Awareness\nMessage Recall\nSentiment / Favourability\nConsideration / Purchase Intent\nDrive Traffic (to site)\nAudience Engagement', 'kpis': 'Engagement Rate', 'placements': '320x480 (Fullscreen mobile / interstitial)\n300x250 (MPU)', 'startdate': datetime.datetime(2021, 12, 7, 0, 0), 'enddate': datetime.datetime(2021, 8, 9, 0, 0), 'serving_locations': 'Singapore', 'blackwhiteaudience_list_included': 'No black/white/audience list for this campaign', 'delivery_requirements_blackaudiencewhite_list': None, 'cost_centre': 'SGP', 'currency': 'USD', 'buy_rate_cpe': 0.28, 'volume_agreed': 242185.0, 'gross_costbudget': 67811.8, 'agency_fee': 'Percentage', 'percentage': 15.0, 'net_cost': 57640.03, 'row_num': 1, 'labels_engagement': '', 'labels_click_through': '', 'text_engagement': '', 'text_click_through': '', 'ER': 0.0, 'CTR': 0.0, 'TR': 0.0}, {'campaign_id': 'l5kk3r3', 'game_key': 'adunit-facebook-conversational-commerce-phase-2-thailand-baanraya-mob-v2/a8656a5a1477a8cac5f0', 'type': 'impression', 'width': 300.0, 'height': 300.0, 'creative_id': 'tf2htrrm', 'auction_id': 'b3af878b-fd1a-4c6f-91a2-4e3670d2fda5', 'browser_ts': datetime.datetime(2021, 1, 5, 0, 21, 39, 693000, tzinfo=<UTC>), 'geo_country': 'Thailand', 'site_name': 'www.prachachat.net', 'platform_os': 6.0, 'device_type': 'Mobile', 'browser': 'Chrome Mobile', 'labels': {'engagement': [], 'click_through': []}, 'text': {'engagement': [], 'click_through': []}, 'colors': None, 'videos_data': None, 'eng_type': None, 'direction': None, 'adunit_sizes': None, 'campaign_name': 'FACEBOOK_CONVERSATIONAL COMMERCE_2020_09_TH', 'submission_date': datetime.datetime(2021, 6, 18, 3, 18), 'description': 'Storyboard Due Date :\r\nAs determined by campaigns team. \r\n\r\nBrand & Product Background :\r\nConversational Commerce (CC), the use of messaging  ... (533 characters truncated) ... Businesses still need guidance on understanding what solutions are available and getting them implemented\r\n\r\nSymptoms of this challenge:\r\n\r\no', 'campaign_objectives': 'Brand Awareness\nProduct Awareness\nMessage Recall\nSentiment / Favourability\nConsideration / Purchase Intent\nDrive Traffic (to site)\nAudience Engagement', 'kpis': 'Engagement Rate', 'placements': '320x480 (Fullscreen mobile / interstitial)\n300x250 (MPU)', 'startdate': datetime.datetime(2021, 12, 7, 0, 0), 'enddate': datetime.datetime(2021, 8, 9, 0, 0), 'serving_locations': 'Singapore', 'blackwhiteaudience_list_included': 'No black/white/audience list for this campaign', 'delivery_requirements_blackaudiencewhite_list': None, 'cost_centre': 'SGP', 'currency': 'USD', 'buy_rate_cpe': 0.28, 'volume_agreed': 242185.0, 'gross_costbudget': 67811.8, 'agency_fee': 'Percentage', 'percentage': 15.0, 'net_cost': 57640.03, 'row_num': 1, 'labels_engagement': '', 'labels_click_through': '', 'text_engagement': '', 'text_click_through': '', 'ER': 0.0, 'CTR': 0.0, 'TR': 0.0}, {'campaign_id': 'l5kk3r3', 'game_key': 'adunit-facebook-conversational-commerce-phase-2-thailand-coffeehouse-mob-v2/48e47efe77cf8ba829f3', 'type': 'impression', 'width': 300.0, 'height': 300.0, 'creative_id': 'x83byc8a', 'auction_id': 'b7c22590-e784-43cf-874d-a661ad99601f', 'browser_ts': datetime.datetime(2021, 1, 6, 9, 30, 44, 188000, tzinfo=<UTC>), 'geo_country': 'Thailand', 'site_name': 'www.prachachat.net', 'platform_os': 6.0, 'device_type': 'Mobile', 'browser': 'Mobile Safari', 'labels': {'engagement': [], 'click_through': []}, 'text': {'engagement': [], 'click_through': []}, 'colors': None, 'videos_data': None, 'eng_type': None, 'direction': None, 'adunit_sizes': None, 'campaign_name': 'FACEBOOK_CONVERSATIONAL COMMERCE_2020_09_TH', 'submission_date': datetime.datetime(2021, 6, 18, 3, 18), 'description': 'Storyboard Due Date :\r\nAs determined by campaigns team. \r\n\r\nBrand & Product Background :\r\nConversational Commerce (CC), the use of messaging  ... (533 characters truncated) ... Businesses still need guidance on understanding what solutions are available and getting them implemented\r\n\r\nSymptoms of this challenge:\r\n\r\no', 'campaign_objectives': 'Brand Awareness\nProduct Awareness\nMessage Recall\nSentiment / Favourability\nConsideration / Purchase Intent\nDrive Traffic (to site)\nAudience Engagement', 'kpis': 'Engagement Rate', 'placements': '320x480 (Fullscreen mobile / interstitial)\n300x250 (MPU)', 'startdate': datetime.datetime(2021, 12, 7, 0, 0), 'enddate': datetime.datetime(2021, 8, 9, 0, 0), 'serving_locations': 'Singapore', 'blackwhiteaudience_list_included': 'No black/white/audience list for this campaign', 'delivery_requirements_blackaudiencewhite_list': None, 'cost_centre': 'SGP', 'currency': 'USD', 'buy_rate_cpe': 0.28, 'volume_agreed': 242185.0, 'gross_costbudget': 67811.8, 'agency_fee': 'Percentage', 'percentage': 15.0, 'net_cost': 57640.03, 'row_num': 1, 'labels_engagement': '', 'labels_click_through': '', 'text_engagement': '', 'text_click_through': '', 'ER': 0.0, 'CTR': 0.0, 'TR': 0.0}, {'campaign_id': 'l5kk3r3', 'game_key': 'adunit-facebook-conversational-commerce-phase-2-thailand-coffeehouse-mob-v2/48e47efe77cf8ba829f3', 'type': 'impression', 'width': 300.0, 'height': 300.0, 'creative_id': 'x83byc8a', 'auction_id': 'b7c22590-e784-43cf-874d-a661ad99601f', 'browser_ts': datetime.datetime(2021, 1, 6, 9, 30, 45, 47000, tzinfo=<UTC>), 'geo_country': 'Thailand', 'site_name': 'www.prachachat.net', 'platform_os': 6.0, 'device_type': 'Mobile', 'browser': 'Chrome', 'labels': {'engagement': [], 'click_through': []}, 'text': {'engagement': [], 'click_through': []}, 'colors': None, 'videos_data': None, 'eng_type': None, 'direction': None, 'adunit_sizes': None, 'campaign_name': 'FACEBOOK_CONVERSATIONAL COMMERCE_2020_09_TH', 'submission_date': datetime.datetime(2021, 6, 18, 3, 18), 'description': 'Storyboard Due Date :\r\nAs determined by campaigns team. \r\n\r\nBrand & Product Background :\r\nConversational Commerce (CC), the use of messaging  ... (533 characters truncated) ... Businesses still need guidance on understanding what solutions are available and getting them implemented\r\n\r\nSymptoms of this challenge:\r\n\r\no', 'campaign_objectives': 'Brand Awareness\nProduct Awareness\nMessage Recall\nSentiment / Favourability\nConsideration / Purchase Intent\nDrive Traffic (to site)\nAudience Engagement', 'kpis': 'Engagement Rate', 'placements': '320x480 (Fullscreen mobile / interstitial)\n300x250 (MPU)', 'startdate': datetime.datetime(2021, 12, 7, 0, 0), 'enddate': datetime.datetime(2021, 8, 9, 0, 0), 'serving_locations': 'Singapore', 'blackwhiteaudience_list_included': 'No black/white/audience list for this campaign', 'delivery_requirements_blackaudiencewhite_list': None, 'cost_centre': 'SGP', 'currency': 'USD', 'buy_rate_cpe': 0.28, 'volume_agreed': 242185.0, 'gross_costbudget': 67811.8, 'agency_fee': 'Percentage', 'percentage': 15.0, 'net_cost': 57640.03, 'row_num': 1, 'labels_engagement': '', 'labels_click_through': '', 'text_engagement': '', 'text_click_through': '', 'ER': 0.0, 'CTR': 0.0, 'TR': 0.0}, {'campaign_id': 'l5kk3r3', 'game_key': 'adunit-facebook-conversational-commerce-phase-2-thailand-coffeehouse-mob-v2/48e47efe77cf8ba829f3', 'type': 'impression', 'width': 300.0, 'height': 300.0, 'creative_id': 'x83byc8a', 'auction_id': '014007d8-7c24-40c7-bdc2-11f00b202f4f', 'browser_ts': datetime.datetime(2021, 1, 8, 15, 1, 55, 955000, tzinfo=<UTC>), 'geo_country': 'Thailand', 'site_name': 'www.boatos.org', 'platform_os': 6.0, 'device_type': 'Mobile', 'browser': 'Mobile Safari', 'labels': {'engagement': [], 'click_through': []}, 'text': {'engagement': [], 'click_through': []}, 'colors': None, 'videos_data': None, 'eng_type': None, 'direction': None, 'adunit_sizes': None, 'campaign_name': 'FACEBOOK_CONVERSATIONAL COMMERCE_2020_09_TH', 'submission_date': datetime.datetime(2021, 6, 18, 3, 18), 'description': 'Storyboard Due Date :\r\nAs determined by campaigns team. \r\n\r\nBrand & Product Background :\r\nConversational Commerce (CC), the use of messaging  ... (533 characters truncated) ... Businesses still need guidance on understanding what solutions are available and getting them implemented\r\n\r\nSymptoms of this challenge:\r\n\r\no', 'campaign_objectives': 'Brand Awareness\nProduct Awareness\nMessage Recall\nSentiment / Favourability\nConsideration / Purchase Intent\nDrive Traffic (to site)\nAudience Engagement', 'kpis': 'Engagement Rate', 'placements': '320x480 (Fullscreen mobile / interstitial)\n300x250 (MPU)', 'startdate': datetime.datetime(2021, 12, 7, 0, 0), 'enddate': datetime.datetime(2021, 8, 9, 0, 0), 'serving_locations': 'Singapore', 'blackwhiteaudience_list_included': 'No black/white/audience list for this campaign', 'delivery_requirements_blackaudiencewhite_list': None, 'cost_centre': 'SGP', 'currency': 'USD', 'buy_rate_cpe': 0.28, 'volume_agreed': 242185.0, 'gross_costbudget': 67811.8, 'agency_fee': 'Percentage', 'percentage': 15.0, 'net_cost': 57640.03, 'row_num': 1, 'labels_engagement': '', 'labels_click_through': '', 'text_engagement': '', 'text_click_through': '', 'ER': 0.0, 'CTR': 0.0, 'TR': 0.0}, {'campaign_id': 'l5kk3r3', 'game_key': 'adunit-facebook-conversational-commerce-phase-2-thailand-coffeehouse-mob-v2/48e47efe77cf8ba829f3', 'type': 'impression', 'width': 300.0, 'height': 300.0, 'creative_id': 'x83byc8a', 'auction_id': '014007d8-7c24-40c7-bdc2-11f00b202f4f', 'browser_ts': datetime.datetime(2021, 1, 8, 15, 1, 55, 956000, tzinfo=<UTC>), 'geo_country': 'Thailand', 'site_name': 'www.boatos.org', 'platform_os': 6.0, 'device_type': 'Mobile', 'browser': 'Chrome', 'labels': {'engagement': [], 'click_through': []}, 'text': {'engagement': [], 'click_through': []}, 'colors': None, 'videos_data': None, 'eng_type': None, 'direction': None, 'adunit_sizes': None, 'campaign_name': 'FACEBOOK_CONVERSATIONAL COMMERCE_2020_09_TH', 'submission_date': datetime.datetime(2021, 6, 18, 3, 18), 'description': 'Storyboard Due Date :\r\nAs determined by campaigns team. \r\n\r\nBrand & Product Background :\r\nConversational Commerce (CC), the use of messaging  ... (533 characters truncated) ... Businesses still need guidance on understanding what solutions are available and getting them implemented\r\n\r\nSymptoms of this challenge:\r\n\r\no', 'campaign_objectives': 'Brand Awareness\nProduct Awareness\nMessage Recall\nSentiment / Favourability\nConsideration / Purchase Intent\nDrive Traffic (to site)\nAudience Engagement', 'kpis': 'Engagement Rate', 'placements': '320x480 (Fullscreen mobile / interstitial)\n300x250 (MPU)', 'startdate': datetime.datetime(2021, 12, 7, 0, 0), 'enddate': datetime.datetime(2021, 8, 9, 0, 0), 'serving_locations': 'Singapore', 'blackwhiteaudience_list_included': 'No black/white/audience list for this campaign', 'delivery_requirements_blackaudiencewhite_list': None, 'cost_centre': 'SGP', 'currency': 'USD', 'buy_rate_cpe': 0.28, 'volume_agreed': 242185.0, 'gross_costbudget': 67811.8, 'agency_fee': 'Percentage', 'percentage': 15.0, 'net_cost': 57640.03, 'row_num': 1, 'labels_engagement': '', 'labels_click_through': '', 'text_engagement': '', 'text_click_through': '', 'ER': 0.0, 'CTR': 0.0, 'TR': 0.0}, {'campaign_id': 'l5kk3r3', 'game_key': 'adunit-facebook-conversational-commerce-phase-2-thailand-baanraya-mob-v2/a8656a5a1477a8cac5f0', 'type': 'impression', 'width': 300.0, 'height': 300.0, 'creative_id': 'tf2htrrm', 'auction_id': '8dee3de4-6dd8-43e6-affb-709d92f8e71c', 'browser_ts': datetime.datetime(2021, 1, 9, 17, 2, 25, 402000, tzinfo=<UTC>), 'geo_country': 'Thailand', 'site_name': 'www.morgenpost.de', 'platform_os': 6.0, 'device_type': 'Mobile', 'browser': 'Mobile Safari', 'labels': {'engagement': [], 'click_through': []}, 'text': {'engagement': [], 'click_through': []}, 'colors': None, 'videos_data': None, 'eng_type': None, 'direction': None, 'adunit_sizes': None, 'campaign_name': 'FACEBOOK_CONVERSATIONAL COMMERCE_2020_09_TH', 'submission_date': datetime.datetime(2021, 6, 18, 3, 18), 'description': 'Storyboard Due Date :\r\nAs determined by campaigns team. \r\n\r\nBrand & Product Background :\r\nConversational Commerce (CC), the use of messaging  ... (533 characters truncated) ... Businesses still need guidance on understanding what solutions are available and getting them implemented\r\n\r\nSymptoms of this challenge:\r\n\r\no', 'campaign_objectives': 'Brand Awareness\nProduct Awareness\nMessage Recall\nSentiment / Favourability\nConsideration / Purchase Intent\nDrive Traffic (to site)\nAudience Engagement', 'kpis': 'Engagement Rate', 'placements': '320x480 (Fullscreen mobile / interstitial)\n300x250 (MPU)', 'startdate': datetime.datetime(2021, 12, 7, 0, 0), 'enddate': datetime.datetime(2021, 8, 9, 0, 0), 'serving_locations': 'Singapore', 'blackwhiteaudience_list_included': 'No black/white/audience list for this campaign', 'delivery_requirements_blackaudiencewhite_list': None, 'cost_centre': 'SGP', 'currency': 'USD', 'buy_rate_cpe': 0.28, 'volume_agreed': 242185.0, 'gross_costbudget': 67811.8, 'agency_fee': 'Percentage', 'percentage': 15.0, 'net_cost': 57640.03, 'row_num': 1, 'labels_engagement': '', 'labels_click_through': '', 'text_engagement': '', 'text_click_through': '', 'ER': 0.0, 'CTR': 0.0, 'TR': 0.0}  ... displaying 10 of 422227 total bound parameter sets ...  {'campaign_id': 'rom3zao', 'game_key': '38534b16ec1e64274db67b5de478c86d/1184b78ee9795bbfb048', 'type': 'impression', 'width': 300.0, 'height': 250.0, 'creative_id': '18mljlwy', 'auction_id': '2440c057-02e7-4440-bcfb-15b113d1df18', 'browser_ts': datetime.datetime(2021, 2, 8, 18, 17, 52, 325000, tzinfo=<UTC>), 'geo_country': 'United States', 'site_name': 'www.foxnews.com', 'platform_os': 5.0, 'device_type': 'Mobile', 'browser': 'Mobile Safari UI/WKWebView', 'labels': {'engagement': [], 'click_through': []}, 'text': {'engagement': [], 'click_through': []}, 'colors': None, 'videos_data': None, 'eng_type': None, 'direction': None, 'adunit_sizes': None, 'campaign_name': 'Lexus East | Boston | Sensory Video |  CPM', 'submission_date': datetime.datetime(2020, 2, 14, 14, 48), 'description': 'Hey Kentaro - Below is the info for the Lexus Certified NY campaign.\r\n\r\n - Launch Date: 03.01.20\r\n - Asset Due Date: NA\r\n - Storyboard 1 Due  ... (448 characters truncated) ... SjCspwEiMbM4fe?usp=sharing\r\nNo. of Concepts: 1 concept\r\nIs client utilizing concept from proposal? Or will they be sharing their own concept? Yes', 'campaign_objectives': 'Brand Awareness', 'kpis': 'CTR\nEngagement Rate', 'placements': '320x480 (Fullscreen mobile / interstitial)', 'startdate': datetime.datetime(2020, 1, 3, 0, 0), 'enddate': datetime.datetime(2020, 11, 30, 0, 0), 'serving_locations': 'NY, Boston, Philadelphia', 'blackwhiteaudience_list_included': 'No black/white/audience list for this campaign', 'delivery_requirements_blackaudiencewhite_list': None, 'cost_centre': 'USA', 'currency': 'USD', 'buy_rate_cpe': 0.4, 'volume_agreed': 531179.0, 'gross_costbudget': 212471.6, 'agency_fee': 'Percentage', 'percentage': 0.0, 'net_cost': 212471.6, 'row_num': 1, 'labels_engagement': '', 'labels_click_through': '', 'text_engagement': '', 'text_click_through': '', 'ER': 13.809700111069976, 'CTR': 9.564358879427374, 'TR': 11.687029495248675}, {'campaign_id': 'rom3zao', 'game_key': 'fe1cc47f2e46f29607046541f8418275/75849459a46b68d76a2a', 'type': 'impression', 'width': 300.0, 'height': 250.0, 'creative_id': '3csifi69', 'auction_id': '47f5bfde-1901-46c3-8ec8-52797cc83291', 'browser_ts': datetime.datetime(2021, 2, 8, 18, 17, 52, 432000, tzinfo=<UTC>), 'geo_country': 'United States', 'site_name': 'grilledcheesesocial.com', 'platform_os': 5.0, 'device_type': 'Mobile', 'browser': 'Mobile Safari UI/WKWebView', 'labels': {'engagement': [], 'click_through': []}, 'text': {'engagement': [], 'click_through': []}, 'colors': None, 'videos_data': None, 'eng_type': None, 'direction': None, 'adunit_sizes': None, 'campaign_name': 'Lexus East | Boston | Sensory Video |  CPM', 'submission_date': datetime.datetime(2020, 2, 14, 14, 48), 'description': 'Hey Kentaro - Below is the info for the Lexus Certified NY campaign.\r\n\r\n - Launch Date: 03.01.20\r\n - Asset Due Date: NA\r\n - Storyboard 1 Due  ... (448 characters truncated) ... SjCspwEiMbM4fe?usp=sharing\r\nNo. of Concepts: 1 concept\r\nIs client utilizing concept from proposal? Or will they be sharing their own concept? Yes', 'campaign_objectives': 'Brand Awareness', 'kpis': 'CTR\nEngagement Rate', 'placements': '320x480 (Fullscreen mobile / interstitial)', 'startdate': datetime.datetime(2020, 1, 3, 0, 0), 'enddate': datetime.datetime(2020, 11, 30, 0, 0), 'serving_locations': 'NY, Boston, Philadelphia', 'blackwhiteaudience_list_included': 'No black/white/audience list for this campaign', 'delivery_requirements_blackaudiencewhite_list': None, 'cost_centre': 'USA', 'currency': 'USD', 'buy_rate_cpe': 0.4, 'volume_agreed': 531179.0, 'gross_costbudget': 212471.6, 'agency_fee': 'Percentage', 'percentage': 0.0, 'net_cost': 212471.6, 'row_num': 1, 'labels_engagement': '', 'labels_click_through': '', 'text_engagement': '', 'text_click_through': '', 'ER': 13.809700111069976, 'CTR': 9.564358879427374, 'TR': 11.687029495248675})]
+(Background on this error at: http://sqlalche.me/e/14/f405)
+2022-08-10 07:05:25,142:logger:successfully fetched the data
+2022-08-10 07:05:28,192:logger:The dataset contains 22.01 % missing values.
+2022-08-10 07:05:31,025:logger:successfully changed device_type column to string
+2022-08-10 07:05:31,327:logger:successfully changed type column to string
+2022-08-10 07:05:31,618:logger:successfully changed campaign_id column to string
+2022-08-10 07:05:31,895:logger:successfully changed creative_id column to string
+2022-08-10 07:05:32,165:logger:successfully changed geo_country column to string
+2022-08-10 07:05:32,414:logger:successfully changed site_name column to string
+2022-08-10 07:05:32,661:logger:successfully changed agency_fee column to string
+2022-08-10 07:05:32,890:logger:successfully changed serving_locations column to string
+2022-08-10 07:05:33,112:logger:successfully changed cost_centre column to string
+2022-08-10 07:05:33,324:logger:successfully changed currency column to string
+2022-08-10 07:05:33,518:logger:successfully changed browser column to string
+2022-08-10 07:05:33,726:logger:successfully changed submission_date column to datetime
+2022-08-10 07:05:33,986:logger:successfully changed enddate column to datetime
+2022-08-10 07:05:34,237:logger:successfully changed startdate column to datetime
+2022-08-10 07:05:34,239:logger:successfully changed percentage column to integer
+2022-08-10 07:05:34,240:logger:successfully changed net_cost column to integer
+2022-08-10 07:05:34,240:logger:successfully changed flat_fee column to integer
+2022-08-10 07:05:34,242:logger:successfully changed gross_costbudget column to integer
+2022-08-10 07:05:34,244:logger:successfully changed volume_agreed column to integer
+2022-08-10 07:05:34,246:logger:successfully changed buy_rate_cpe column to integer
+2022-08-10 07:05:34,369:logger:successfully changed platform_os column to integer
+2022-08-10 07:05:34,371:logger:successfully changed width column to integer
+2022-08-10 07:05:34,372:logger:successfully changed height column to integer
+2022-08-10 07:05:34,372:logger:successfully finished fixing datatype
+2022-08-10 07:05:39,148:logger:successfully droped duplicates
+2022-08-10 08:26:33,496:logger:successfully fetched the data
+2022-08-10 08:26:36,524:logger:The dataset contains 22.01 % missing values.
+2022-08-10 08:26:39,531:logger:successfully changed device_type column to string
+2022-08-10 08:26:39,845:logger:successfully changed type column to string
+2022-08-10 08:26:40,148:logger:successfully changed campaign_id column to string
+2022-08-10 08:26:40,429:logger:successfully changed creative_id column to string
+2022-08-10 08:26:40,703:logger:successfully changed geo_country column to string
+2022-08-10 08:26:40,953:logger:successfully changed site_name column to string
+2022-08-10 08:26:41,200:logger:successfully changed agency_fee column to string
+2022-08-10 08:26:41,433:logger:successfully changed serving_locations column to string
+2022-08-10 08:26:41,661:logger:successfully changed cost_centre column to string
+2022-08-10 08:26:41,873:logger:successfully changed currency column to string
+2022-08-10 08:26:42,078:logger:successfully changed browser column to string
+2022-08-10 08:26:42,299:logger:successfully changed submission_date column to datetime
+2022-08-10 08:26:42,578:logger:successfully changed enddate column to datetime
+2022-08-10 08:26:42,845:logger:successfully changed startdate column to datetime
+2022-08-10 08:26:42,849:logger:successfully changed percentage column to integer
+2022-08-10 08:26:42,851:logger:successfully changed net_cost column to integer
+2022-08-10 08:26:42,852:logger:successfully changed flat_fee column to integer
+2022-08-10 08:26:42,854:logger:successfully changed gross_costbudget column to integer
+2022-08-10 08:26:42,855:logger:successfully changed volume_agreed column to integer
+2022-08-10 08:26:42,857:logger:successfully changed buy_rate_cpe column to integer
+2022-08-10 08:26:42,986:logger:successfully changed platform_os column to integer
+2022-08-10 08:26:42,989:logger:successfully changed width column to integer
+2022-08-10 08:26:42,991:logger:successfully changed height column to integer
+2022-08-10 08:26:42,991:logger:successfully finished fixing datatype
+2022-08-10 08:26:48,181:logger:successfully droped duplicates
+2022-08-10 08:29:45,668:logger:successfully fetched the data
+2022-08-10 08:32:00,753:logger:successfully displayed heatmap plot
+2022-08-10 08:32:58,666:logger:successfully displayed heatmap plot
+2022-08-10 08:39:38,823:logger:successfully got catagorical columns
+2022-08-10 08:41:48,841:logger:successfully fetched the data
+2022-08-10 08:42:05,466:logger:successfully got catagorical columns
+2022-08-10 08:42:25,707:logger:successfully displayed heatmap plot
+2022-08-10 08:44:47,653:logger:could not convert string to float: 'campaign_id'
+2022-08-10 08:45:04,442:logger:could not convert string to float: 'campaign_id'
+2022-08-10 08:47:02,075:logger:Inconsistent shape between the condition and the input (got (38, 1) and (38,))
+2022-08-10 08:47:10,124:logger:successfully displayed heatmap plot
+2022-08-10 08:58:07,504:logger:successfully fetched the data
+2022-08-10 08:58:08,960:logger:successfully got catagorical columns
+2022-08-10 09:04:19,441:logger:successfully displayed heatmap plot
+2022-08-10 09:04:35,588:logger:successfully displayed heatmap plot
+2022-08-10 09:04:43,134:logger:successfully displayed heatmap plot
+2022-08-10 09:14:41,288:logger:successfully fetched the data
+2022-08-10 09:14:42,794:logger:successfully got catagorical columns
+2022-08-10 09:14:51,558:logger:successfully displayed heatmap plot
+2022-08-10 09:16:02,347:logger:successfully fetched the data
+2022-08-10 09:16:03,779:logger:successfully got catagorical columns
+2022-08-10 09:16:10,403:logger:Inconsistent shape between the condition and the input (got (38, 1) and (38,))
+2022-08-10 09:16:44,850:logger:successfully fetched the data
+2022-08-10 09:16:46,206:logger:successfully got catagorical columns
+2022-08-10 09:16:52,707:logger:Inconsistent shape between the condition and the input (got (38, 1) and (38,))
+2022-08-10 09:20:15,530:logger:successfully displayed count plot
+2022-08-10 09:23:35,076:logger:successfully displayed count plot
+2022-08-10 09:24:06,649:logger:successfully displayed count plot
+2022-08-10 09:24:46,570:logger:successfully displayed count plot
+2022-08-10 09:25:10,444:logger:successfully displayed count plot
+2022-08-10 09:25:21,558:logger:successfully displayed count plot
+2022-08-10 09:25:37,350:logger:successfully displayed count plot
+2022-08-10 09:25:47,441:logger:successfully displayed count plot
+2022-08-10 09:48:02,962:logger:successfully fetched the data
+2022-08-10 09:50:39,958:logger:successfully got catagorical columns
+2022-08-10 09:50:40,628:logger:successfully got catagorical columns
+2022-08-10 09:50:40,637:logger:successfully got numerical columns
+2022-08-10 09:50:40,765:logger:Input contains NaN, infinity or a value too large for dtype('float32').
+2022-08-10 09:50:40,766:logger:'TrainingPipeline' object has no attribute '_TrainingPipeline__pipeline'
+2022-08-10 09:51:23,982:logger:successfully got catagorical columns
+2022-08-10 09:51:23,984:logger:successfully got catagorical columns
+2022-08-10 09:51:23,993:logger:successfully got numerical columns
+2022-08-10 09:51:24,108:logger:Input contains NaN, infinity or a value too large for dtype('float32').
+2022-08-10 09:51:24,109:logger:'TrainingPipeline' object has no attribute '_TrainingPipeline__pipeline'
+2022-08-10 09:53:51,085:logger:successfully got catagorical columns
+2022-08-10 09:53:51,088:logger:successfully got catagorical columns
+2022-08-10 09:53:51,097:logger:successfully got numerical columns
+2022-08-10 09:53:51,099:logger:Found input variables with inconsistent numbers of samples: [422223, 422227]
+2022-08-10 09:55:41,286:logger:'NoneType' object has no attribute 'select_dtypes'
+2022-08-10 09:55:41,287:logger:'NoneType' object has no attribute 'select_dtypes'
+2022-08-10 09:55:41,288:logger:'NoneType' object has no attribute 'select_dtypes'
+2022-08-10 09:55:41,289:logger:Expected sequence or array-like, got <class 'NoneType'>
+2022-08-10 09:57:28,748:logger:successfully got catagorical columns
+2022-08-10 09:57:29,353:logger:successfully got catagorical columns
+2022-08-10 09:57:29,361:logger:successfully got numerical columns
+2022-08-10 09:57:32,595:logger:RMSE Score: 0.4651539204642135
+2022-08-10 09:57:32,597:logger:R2_Squared: 0.08515848251800939
+2022-08-10 09:57:32,598:logger:MAE Score: 0.28438010698795785
+2022-08-10 09:57:32,602:logger:Accuracy: 26.43 %.
+2022-08-10 09:57:32,646:logger:feature importance plotted
+2022-08-10 09:58:12,768:logger:successfully got catagorical columns
+2022-08-10 09:58:13,468:logger:successfully got catagorical columns
+2022-08-10 09:58:13,476:logger:successfully got numerical columns
+2022-08-10 09:58:16,164:logger:RMSE Score: 2.624986332414306
+2022-08-10 09:58:16,165:logger:R2_Squared: 0.8296426470423074
+2022-08-10 09:58:16,166:logger:MAE Score: 1.4165598932211154
+2022-08-10 09:58:16,170:logger:Accuracy: 86.94 %.
+2022-08-10 09:58:16,205:logger:feature importance plotted
+2022-08-10 09:58:59,352:logger:successfully got catagorical columns
+2022-08-10 09:58:59,354:logger:successfully got catagorical columns
+2022-08-10 09:58:59,361:logger:successfully got numerical columns
+2022-08-10 09:59:58,426:logger:RMSE Score: 2.596195376088642
+2022-08-10 09:59:58,428:logger:R2_Squared: 0.8325803322008278
+2022-08-10 09:59:58,429:logger:MAE Score: 1.4170596718885624
+2022-08-10 09:59:58,432:logger:Accuracy: 86.94 %.
+2022-08-10 09:59:58,478:logger:feature importance plotted
+2022-08-10 10:12:05,972:logger:successfully got catagorical columns
+2022-08-10 10:12:06,732:logger:successfully got catagorical columns
+2022-08-10 10:12:06,739:logger:successfully got numerical columns
+2022-08-10 10:12:09,441:logger:RMSE Score: 2.595101171130596
+2022-08-10 10:12:09,442:logger:R2_Squared: 0.8333709337130125
+2022-08-10 10:12:09,444:logger:MAE Score: 1.3992130857240284
+2022-08-10 10:12:09,447:logger:Accuracy: 87.06 %.
+2022-08-10 10:12:09,489:logger:feature importance plotted
+2022-08-10 10:31:32,180:logger:successfully fetched the data
+2022-08-10 10:31:35,540:logger:successfully got catagorical columns
+2022-08-10 10:31:36,450:logger:successfully got catagorical columns
+2022-08-10 10:31:36,459:logger:successfully got numerical columns
+2022-08-10 10:31:38,582:logger:RMSE Score: 6.186850728967282
+2022-08-10 10:31:38,583:logger:R2_Squared: -0.32360487090499235
+2022-08-10 10:31:38,584:logger:MAE Score: 5.019926361110263
+2022-08-10 10:31:38,588:logger:Accuracy: 54.9 %.
+2022-08-10 10:31:38,633:logger:feature importance plotted
+2022-08-10 10:31:39,029:logger:successfully got catagorical columns
+2022-08-10 10:31:39,030:logger:successfully got catagorical columns
+2022-08-10 10:31:39,036:logger:successfully got numerical columns
+2022-08-10 10:32:11,818:logger:RMSE Score: 6.512622015421601
+2022-08-10 10:32:11,821:logger:R2_Squared: -0.4666646579309668
+2022-08-10 10:32:11,821:logger:MAE Score: 5.379871365156924
+2022-08-10 10:32:11,824:logger:Accuracy: 44.8 %.
+2022-08-10 10:32:11,861:logger:feature importance plotted
+2022-08-10 10:33:00,280:logger:successfully got catagorical columns
+2022-08-10 10:33:00,282:logger:successfully got catagorical columns
+2022-08-10 10:33:00,289:logger:successfully got numerical columns
+2022-08-10 10:33:31,868:logger:RMSE Score: 6.282900031996556
+2022-08-10 10:33:31,870:logger:R2_Squared: -0.36502114936079155
+2022-08-10 10:33:31,871:logger:MAE Score: 5.155311458142363
+2022-08-10 10:33:31,874:logger:Accuracy: 50.63 %.
+2022-08-10 10:33:31,906:logger:feature importance plotted
+2022-08-10 10:46:02,624:logger:successfully got catagorical columns
+2022-08-10 10:46:02,626:logger:successfully got catagorical columns
+2022-08-10 10:46:02,635:logger:successfully got numerical columns
+2022-08-10 11:59:49,393:logger:successfully fetched the data
+2022-08-10 12:00:04,854:logger:successfully got catagorical columns
+2022-08-10 12:00:05,679:logger:successfully got catagorical columns
+2022-08-10 12:00:05,687:logger:successfully got numerical columns
+2022-08-10 12:05:19,904:logger:successfully got catagorical columns
+2022-08-10 12:05:19,907:logger:successfully got catagorical columns
+2022-08-10 12:05:19,915:logger:successfully got numerical columns
+2022-08-10 12:05:45,954:logger:successfully got catagorical columns
+2022-08-10 12:05:45,957:logger:successfully got catagorical columns
+2022-08-10 12:05:45,964:logger:successfully got numerical columns
+2022-08-10 12:07:47,893:logger:RMSE Score: 7.342560697525655
+2022-08-10 12:07:47,901:logger:R2_Squared: -0.9596938979923741
+2022-08-10 12:07:47,902:logger:MAE Score: 5.911081812942598
+2022-08-10 12:07:47,906:logger:Accuracy: 33.51 %.
+2022-08-10 12:07:47,907:logger:'XGBClassifier' object has no attribute 'best_estimator_'
+2022-08-10 12:07:47,908:logger:'list' object has no attribute 'keys'
+2022-08-10 12:07:47,909:logger:'NoneType' object has no attribute 'savefig'
+2022-08-10 14:20:20,376:logger:successfully fetched the data
+2022-08-10 14:20:44,746:logger:successfully displayed count plot
+2022-08-10 14:21:15,147:logger:successfully fetched the data
+2022-08-10 14:21:16,832:logger:successfully displayed count plot
+2022-08-10 14:21:39,031:logger:Could not interpret input 'Handset Manufacturer'
+2022-08-10 14:21:49,323:logger:Could not interpret input 'Handset Manufacturer'
+2022-08-10 15:24:49,069:logger:successfully fetched the data
+2022-08-10 15:24:57,897:logger:successfully got catagorical columns
+2022-08-10 15:24:58,581:logger:successfully got catagorical columns
+2022-08-10 15:24:58,591:logger:successfully got numerical columns
+2022-08-10 15:25:00,029:logger:RMSE Score: 6.186850728967282
+2022-08-10 15:25:00,029:logger:R2_Squared: -0.32360487090499235
+2022-08-10 15:25:00,030:logger:MAE Score: 5.019926361110263
+2022-08-10 15:25:00,034:logger:Accuracy: 54.9 %.
+2022-08-10 15:25:00,070:logger:feature importance plotted
+2022-08-10 15:25:24,760:logger:successfully got catagorical columns
+2022-08-10 15:25:24,762:logger:successfully got catagorical columns
+2022-08-10 15:25:24,769:logger:successfully got numerical columns
+2022-08-10 15:25:24,829:logger:Unknown label type: (array([ 0.        ,  0.76335878,  1.35135135,  1.45253682,  1.98019802,
+        2.06540448,  2.11461845,  3.10437294,  4.99892496,  6.25      ,
+        6.61461722,  6.89767898,  7.100271  ,  7.62292377,  8.24060813,
+        8.92238973,  9.56737829, 11.97952218, 13.17696181, 13.80970011,
+       13.92108652, 14.2399634 , 14.43466172, 14.44224269, 15.0802139 ,
+       15.3256705 , 15.57505108, 16.38875062, 19.0808159 , 19.58311206,
+       21.5128474 , 22.10752688, 22.15315763, 22.16937508, 23.99027421]),)
+2022-08-10 15:25:24,830:logger:'TrainingPipeline' object has no attribute '_TrainingPipeline__pipeline'
+2022-08-10 15:25:45,312:logger:successfully got catagorical columns
+2022-08-10 15:25:45,314:logger:successfully got catagorical columns
+2022-08-10 15:25:45,320:logger:successfully got numerical columns
+2022-08-10 15:25:45,557:logger:RMSE Score: 6.154856473109968
+2022-08-10 15:25:45,558:logger:R2_Squared: -0.37698436662628665
+2022-08-10 15:25:45,558:logger:MAE Score: 5.263612464177726
+2022-08-10 15:25:45,561:logger:Accuracy: 49.98 %.
+2022-08-10 15:25:45,561:logger:'GaussianNB' object has no attribute 'best_estimator_'
+2022-08-10 15:25:45,562:logger:'list' object has no attribute 'keys'
+2022-08-10 15:25:45,563:logger:'NoneType' object has no attribute 'savefig'
+2022-08-10 15:28:01,713:logger:successfully got catagorical columns
+2022-08-10 15:28:01,715:logger:successfully got catagorical columns
+2022-08-10 15:28:01,722:logger:successfully got numerical columns
+2022-08-10 15:28:01,806:logger:Negative values in data passed to MultinomialNB (input X)
+2022-08-10 15:28:01,807:logger:'TrainingPipeline' object has no attribute '_TrainingPipeline__pipeline'
+2022-08-10 15:28:15,998:logger:successfully got catagorical columns
+2022-08-10 15:28:16,000:logger:successfully got catagorical columns
+2022-08-10 15:28:16,008:logger:successfully got numerical columns
+2022-08-10 15:28:16,078:logger:Unknown label type: (array([4.99892496, 4.99892496, 4.99892496, ..., 7.62292377, 7.62292377,
+       7.62292377]),)
+2022-08-10 15:28:16,079:logger:'TrainingPipeline' object has no attribute '_TrainingPipeline__pipeline'
+2022-08-10 15:28:30,572:logger:successfully got catagorical columns
+2022-08-10 15:28:30,574:logger:successfully got catagorical columns
+2022-08-10 15:28:30,580:logger:successfully got numerical columns
+2022-08-10 15:28:30,826:logger:RMSE Score: 8.172913898243458
+2022-08-10 15:28:30,829:logger:R2_Squared: -1.4279905774123396
+2022-08-10 15:28:30,830:logger:MAE Score: 6.393164754829592
+2022-08-10 15:28:30,834:logger:Accuracy: 29.51 %.
+2022-08-10 15:28:30,835:logger:'BernoulliNB' object has no attribute 'best_estimator_'
+2022-08-10 15:28:30,836:logger:'list' object has no attribute 'keys'
+2022-08-10 15:28:30,836:logger:'NoneType' object has no attribute 'savefig'
+2022-08-10 15:29:49,917:logger:successfully got catagorical columns
+2022-08-10 15:29:49,921:logger:successfully got catagorical columns
+2022-08-10 15:29:49,932:logger:successfully got numerical columns
+2022-08-10 17:01:09,430:logger:successfully fetched the data
+2022-08-10 17:01:11,194:logger:successfully displayed count plot
+2022-08-10 17:02:05,669:logger:successfully displayed count plot
+2022-08-10 17:03:11,358:logger:successfully fetched the data
+2022-08-10 17:03:24,894:logger:successfully got catagorical columns
+2022-08-10 17:03:25,821:logger:successfully got catagorical columns
+2022-08-10 17:03:25,828:logger:successfully got numerical columns
+2022-08-10 17:03:27,848:logger:RMSE Score: 0.5158724613158701
+2022-08-10 17:03:27,848:logger:R2_Squared: -0.03482593177296289
+2022-08-10 17:03:27,849:logger:MAE Score: 0.3088464166951656
+2022-08-10 17:03:27,855:logger:Accuracy: 19.98 %.
+2022-08-10 17:03:27,912:logger:feature importance plotted
+2022-08-10 17:04:28,542:logger:API request to http://localhost:5000/api/2.0/mlflow/runs/create failed with exception HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/2.0/mlflow/runs/create (Caused by ResponseError('too many 500 error responses'))
+2022-08-10 17:05:05,201:logger:successfully got catagorical columns
+2022-08-10 17:05:05,203:logger:successfully got catagorical columns
+2022-08-10 17:05:05,218:logger:successfully got numerical columns
+2022-08-10 17:05:05,384:logger:RMSE Score: 0.548528411960443
+2022-08-10 17:05:05,386:logger:R2_Squared: -0.16998654921321843
+2022-08-10 17:05:05,386:logger:MAE Score: 0.20464682987676347
+2022-08-10 17:05:05,390:logger:Accuracy: 0.0 %.
+2022-08-10 17:05:05,391:logger:'GaussianNB' object has no attribute 'best_estimator_'
+2022-08-10 17:05:05,392:logger:'list' object has no attribute 'keys'
+2022-08-10 17:05:45,489:logger:successfully got catagorical columns
+2022-08-10 17:05:45,491:logger:successfully got catagorical columns
+2022-08-10 17:05:45,498:logger:successfully got numerical columns
+2022-08-10 17:05:45,667:logger:RMSE Score: 0.548528411960443
+2022-08-10 17:05:45,669:logger:R2_Squared: -0.16998654921321843
+2022-08-10 17:05:45,669:logger:MAE Score: 0.20464682987676347
+2022-08-10 17:05:45,671:logger:Unable to coerce to Series, length must be 1: given 126667
